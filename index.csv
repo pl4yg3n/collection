@@ -702,7 +702,7 @@ ea101333307204dd21da685fa5d5de4a|+|n010|id:ma=758||modarchive/igaox.mod|mod|"IGA
 16c2e52593dcb5afd8a9153c3fe4bfca|+|m011|id:ma=171941||modarchive/robric982.xm|xm|>( Serena )<
 e70d0d89a1b7bf78049bcdb929420dd8|+|1010|id:ma=190824,t:end=139||modarchive/roboman-1768.xm|xm|
 a3ab228885953b40c924e6b5b70a2ff6|+|n001|id:ma=113582,xmas||modarchive/digital_christmas.mod|mod|digital christmas
-eb91815601437f7e75d10f7c8164aa83|+|n00u|id:ma=185684,t:end=309,technoise=3|corrupted-sample|modarchive/untitled4.mptm|mptm|Untitled 4
+eb91815601437f7e75d10f7c8164aa83|+|n00u|id:ma=185684,t:end=309,technoise=3,error|corrupted-sample|modarchive/untitled4.mptm|mptm|Untitled 4
 6d6d542fa834dac4be21a715e5c5f470|+|n00u|id:ma=79100,technoise||modarchive/loops_of_revolution.mod|mod|loops of revolution
 a756a2a262f777f19566889d9223f484|+|101s|id:ma=122146,sour||modarchive/hippel_thing_ext.mod|mod|Hippel_thing.ext
 456fa19504343e2178941d33b5a6c5fd|+|n041|id:ma=201441||modarchive/nghtlngl.xm|xm|Night long as life
@@ -779,7 +779,7 @@ b21da211bae23928226517f408a6479e|+|1031|flut,id:ma=206573,repeat||modarchive/bfg
 cd1a52b228ec0b93fdead2c02747c14c|+|2030|cosm=.7,id:ma=148031,repeat||modarchive/blade_of_knife.xm|xm|Blade of Knife
 7d6d984871d568f5e54e26e312c13043|+|m021|id:ma=39607||modarchive/bz-spop.it|it|Space Pop
 5eab70ca672fe6515ce6f2bbb105b732|+|2021|id:ma=148032||modarchive/cult.xm|xm|Cult / Bytefall'97
-70d1a1124862e90abab989c7a611687c|+|n040|id:ma=151553||modarchive/dance_of_the_crane.xm|xm|Dance of the crane
+70d1a1124862e90abab989c7a611687c|+|n040|id:ma=151553,t:end=187||modarchive/dance_of_the_crane.xm|xm|Dance of the crane
 e6f9a59521041bb94db743ee941260a2|+|m042|cosm=1.2,eternal_engine,id:ma=197479,t:end=290||modarchive/df-aftgl.xm|xm|Afterglow
 ac3a2569fab6e11879b3a078b187a34a|+|n030|id:ma=137621,t:end=300||modarchive/elisabeth.xm|xm|elisabeth
 f35d345d19e83db017b1714c852a8ead|+|n04s|id:ma=44514,sorrow=.5,t:end=179||modarchive/i_mm_28.xm|xm|Pain.
@@ -1290,7 +1290,7 @@ f09b8ae43bc78a90b964cb4e30b64331|+|1011|agg,id:ma=172393||modarchive/lhs/lhs_nw.
 aeb6ee24df65f25af1b7a8d9956cb8a9|+|1011|agg,id:ma=172442||modarchive/lhs/lhs_ra.mod|mod|| Installer |
 d5c9ba2d2edfee8744375f9e8f22defb|+|10m1|agg,id:ma=174233||modarchive/lhs/lhs_rl2r.mod|mod|RLD Installer2 Remix
 8044f35901666d8ca4c887f4f67ba0d8|+|1031|id:ma=179541,rld||modarchive/lhs/lhs_rld10.xm|xm|RLD Installer #10
-f85ae100b68e600318bcebb628323884|+|1021|aggrld,id:ma=174721||modarchive/lhs/lhs_rld7.xm|xm|RLD Installer #7
+f85ae100b68e600318bcebb628323884|+|2021|aggrld,id:ma=174721||modarchive/lhs/lhs_rld7.xm|xm|RLD Installer #7
 6bd62e0c4b246b8008e573a6df14e983|+|1032|id:ma=177327,rld||modarchive/lhs/lhs_rld8.xm|xm|RLD Installer #8
 15b98b1970c4320d3d9ce77f339417b8|+|10m2|agg,id:ma=173339||modarchive/lhs/lhs_smlr.mod|mod|SuperMarioLand Remix
 fc14677d5c99f8b675a6ff030a7ab798|+|0001|agg,id:ma=173337||modarchive/lhs/lhs_spor.mod|mod|Super Punch-Out!!
@@ -1370,7 +1370,7 @@ adfa8b4c016623b462490c5f5a65d0b8|+|m032|cosm=.8,id:ma=33851||modarchive/aqua.xm|
 babd95149418c2e4ab9c542f34fe0adf|+|1011|cosm=.4,id:ma=32382||modarchive/AQUA.S3M|s3m|Aquaphobia - 1993 / spring
 426968e05c2231e1b707c4449454b184|+|m151|id:ma=34330||modarchive/av_un_db.xm|xm|deep beep /avator
 fda2fb46fb57b16595e9c193c76fa45d|+|m142|cosm,id:ma=34415,t:end=297|aquarious|modarchive/aws_aqua.xm|xm|aquarium
-bfbde3d98b731a71547e2854cb083540|+|m142|bfuture,cosm=1.5,id:ma=199178,screj,sunrise|moonrise|modarchive/bfmoon.it|it|Moonrise
+bfbde3d98b731a71547e2854cb083540|+|m142|bfuture,cosm=1.5,id:ma=199178,screj,sunrise,t:end=227|moonrise|modarchive/bfmoon.it|it|Moonrise
 8d714b6c64dbcee545036a2c62550315|+|11m1|id:ma=36859||modarchive/chipstry.mod|mod|The Chippy Story
 dbe8c141faa5cfdffe42433eb70e87ef|+|3132|bfuture,id:ma=34553,sunrise|bright-tomorrow|modarchive/BALLAD3.S3M|s3m|The Last Ballad
 df21c206df4b69a625afdf1a2317d1c6|+|3121|conveyor,d:vlc:ej,id:ma=181316,t:end=312|outnumberous|modarchive/chip_and_demmas_-_mostly_harmless_theme.it|it|Mostly Harmless Theme
@@ -3827,7 +3827,7 @@ a53c412aa51d61ac9849353b85f6e1da|+|n041|||kgm/h4x0r/h4x0r - Dead Rising 2 Off Th
 b993373521a845f50ef0f3a93dcd567f|+|n011|||kgm/h4x0r/h4x0r - Dirt 3 +7 trn.xm|xm|DJ s - happy h-core
 37b87942b07d7dd2753b39ada12b5118|+|1021|dupsus||kgm/h4x0r/h4x0r - Dishonored +10 trn.xm|xm|On the move!!!
 8ff360f2f107560670d3e9c9fbe1cc0c|+|0011|||kgm/h4x0r/h4x0r - Divinity II Ego Draconis 1.3.15.107 +8 trn.it|it|8-bit glowstick(Nightbeat)
-cda550cf459e621a1bdd5ac74f1f824b|+|n050|||kgm/h4x0r/h4x0r - Divinity II-DKS 1.4.9.32 +8 trn.xm|xm|
+cda550cf459e621a1bdd5ac74f1f824b|+|n05s|t:end=130,sorrow||kgm/h4x0r/h4x0r - Divinity II-DKS 1.4.9.32 +8 trn.xm|xm|
 16319f918e1e5cb43086e35c659882a6|+|n02s|||kgm/h4x0r/h4x0r - Duke Nuken Forever All Versions +7 trn.xm|xm|Angels Crying
 baaf0d2fcdaa9a76ed2332c542e7ea86|+|1020|flight=.5||kgm/h4x0r/h4x0r - Dungeon Siege 1.11.1486 +4 trn.xm|xm|IndiviDual!
 16e14d764ed57204b38e44522a989489|+|m031|cosm,sorrow=.5||kgm/h4x0r/h4x0r - Dungeon Siege III All Versions +8 trn.xm|xm|
@@ -6379,7 +6379,7 @@ c8e981a1e80f5aecfe88d004163281e9|+|0021|t:end=114||kgm/tRUE/tRUE - Pic10F Simula
 7de5af64f43f1ccf8a20bc81ce7d8e46|+|0021|||kgm/tRUE/tRUE - Power of Silence 1.0 crk.xm|xm|tRUE team forever
 0961553c9244910067d4e15e6b2c4752|+|x0__|d:v||kgm/tRUE/tRUE - Respectsoft Weather Clock 3.6 crk.xm|xm|time.is.bunk
 8f1f39109628d631a76f37145e609ba9|+|0021|cosm=.6||kgm/tRUE/tRUE - Sexy Poker 5.01b crk.xm|xm|.cryptic-Xylitol
-396730f923c6af2fa74eb847efac69fb|+|3022|cosm,school||kgm/tRUE/tRUE - Soft Vox 6 crk.xm|xm|" Techn-o-logical "
+396730f923c6af2fa74eb847efac69fb|+|3022|cosm,school,t:end=318||kgm/tRUE/tRUE - Soft Vox 6 crk.xm|xm|" Techn-o-logical "
 d10e78f85b0349666c61d7fb83569699| |____|||kgm/tRUE/tRUE - SolSuite 2008 8.10 crk.mid|mid|
 5d50bc56ee42c14d5a057d58f5f2a07f|+|n010|||kgm/tRUE/tRUE - SolSuite 2008 8.2 crk.xm|xm|
 c657813c225776d9b4b7438437f74060|+|m031|||kgm/tRUE/tRUE - SolSuite 2008 8.3 crk.it|it|Because.
