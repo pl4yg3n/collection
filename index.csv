@@ -8,66 +8,66 @@ d76e39d43c05203b0a6d41f13431cb44|+|n010|drozerix,id:ma=209624||modarchive/drozer
 e9e3b98cce8f6c655bd565c137e5da77|+|0010|drozerix,id:ma=200310||modarchive/drozerix/drozerix_-_fluxchip.xm|xm|Fluxchip
 9a16a94538470818d27699a19379a82f|+|1001|drozerix,id:ma=200041||modarchive/drozerix/drozerix_-_bakin_blueberry_pie.xm|xm|Bakin' Blueberry Pie
 246035c0e9632c484ca73070ac4e044f|+|0020|drozerix,id:ma=199968,t:end=56||modarchive/drozerix/drozerix_-_alone.xm|xm|Alone
-7275ded3df56101fdd96e1d62fa1805c|+|_0__|drozerix,id:ma=197917||modarchive/drozerix/drozerix_-_the_hawks_claw.mod|mod|The Hawk's Claw
-785d5c4c265926d77d0160b3f9700a2b|+|_0__|drozerix,id:ma=197296||modarchive/drozerix/drozerix_-_may_is_4_her.mod|mod|May is 4 Her
-d1e1acef4a54af310ade1160cd733890|+|_0__|drozerix,id:ma=196372||modarchive/drozerix/drozerix_-_sleepy_snow.xm|xm|Sleepy Snow
-9f3c8f12ec17b01d7268e1618b4e8f06|+|_0__|drozerix,id:ma=196371||modarchive/drozerix/drozerix_-_forgone_inamorata.xm|xm|Forgone Inamorata
-e6b3ba7081a3e1dbaaa27a73c82e0f67|+|_0__|drozerix,id:ma=192354||modarchive/drozerix/drozerix_-_cyber_spider.xm|xm|Cyber Spider
+7275ded3df56101fdd96e1d62fa1805c|+|n020|drozerix,id:ma=197917,t:end=241||modarchive/drozerix/drozerix_-_the_hawks_claw.mod|mod|The Hawk's Claw
+785d5c4c265926d77d0160b3f9700a2b|+|1010|flight,drozerix,id:ma=197296||modarchive/drozerix/drozerix_-_may_is_4_her.mod|mod|May is 4 Her
+d1e1acef4a54af310ade1160cd733890|+|n050|drozerix,id:ma=196372||modarchive/drozerix/drozerix_-_sleepy_snow.xm|xm|Sleepy Snow
+9f3c8f12ec17b01d7268e1618b4e8f06|+|10m1|drozerix,id:ma=196371||modarchive/drozerix/drozerix_-_forgone_inamorata.xm|xm|Forgone Inamorata
+e6b3ba7081a3e1dbaaa27a73c82e0f67|+|001u|drozerix,id:ma=192354||modarchive/drozerix/drozerix_-_cyber_spider.xm|xm|Cyber Spider
 8fc991ce86aba3b5119ed11aaacbb877|+|n030|drozerix,id:ma=192352||modarchive/drozerix/drozerix_-_this_is_how_we_do_it.xm|xm|This is how we do it
-59e9784bec28b2d9a1e6ee8e7db4925b|+|_0__|drozerix,id:ma=192270||modarchive/drozerix/drozerix_-_what_did_they_do_to_you.xm|xm|What Did They Do 2U?
-25bdfdf6b437a41c76b35ac56deef360|+|_0__|drozerix,id:ma=192001||modarchive/drozerix/drozerix_-_soht_-_conquest!.mod|mod|Conquest!
-db2cea3626867e44a0bdcfa1c45fffae|+|_0__|drozerix,id:ma=192000||modarchive/drozerix/drozerix_-_soht_-_of_swords_and_glory.mod|mod|Of Swords & Glory
-99c2fbafa852c9b0aaca078c01927e76|+|_0__|drozerix,id:ma=191999||modarchive/drozerix/drozerix_-_soht_-_voyage.mod|mod|Voyage
-2ae229644d065e7086966ae8eed8c52c|+|_0__|drozerix,id:ma=191998||modarchive/drozerix/drozerix_-_soht_-_the_high_ground.mod|mod|14-The High Ground
-1b27279ada962d0e9526bde414ede6e8|+|_0__|drozerix,id:ma=191997||modarchive/drozerix/drozerix_-_soht_-_slayers_of_high_toro.mod|mod|Slayers of High Toro
-bad56295b4ed3f50963437a9ecd0a763|+|_0__|drozerix,id:ma=191437||modarchive/drozerix/drozerix_-_peachy_chip.xm|xm|Peachy Chip
-1e4586f96d23187d2d4322ab3d92d121|+|_0__|drozerix,id:ma=190186||modarchive/drozerix/drozerix_-_master_select.xm|xm|Master Select
-06aa155e641ac78634951587dfcde30c|+|_0__|drozerix,id:ma=190185||modarchive/drozerix/drozerix_-_war_path.xm|xm|War Path
-4861bc70c49362ddf264a3a6dc0253a8|+|_0__|drozerix,id:ma=189433||modarchive/drozerix/drozerix_-_chica-pop!.xm|xm|Chica-pop!
-d575069a9ec5b90c0c6675f357087a07|+|_0__|drozerix,id:ma=185456||modarchive/drozerix/drozerix_-_building_energy.xm|xm|Building Energy
-a96a8ac78fa49d5e806306b9f804190f|+|_0__|drozerix,id:ma=185337||modarchive/drozerix/drozerix_-_playful_girl.xm|xm|Playful Girl
+59e9784bec28b2d9a1e6ee8e7db4925b|+|100u|drozerix,id:ma=192270||modarchive/drozerix/drozerix_-_what_did_they_do_to_you.xm|xm|What Did They Do 2U?
+25bdfdf6b437a41c76b35ac56deef360|+|n01s|drozerix,id:ma=192001||modarchive/drozerix/drozerix_-_soht_-_conquest!.mod|mod|Conquest!
+db2cea3626867e44a0bdcfa1c45fffae|+|m03s|drozerix,id:ma=192000||modarchive/drozerix/drozerix_-_soht_-_of_swords_and_glory.mod|mod|Of Swords & Glory
+99c2fbafa852c9b0aaca078c01927e76|+|n020|drozerix,id:ma=191999||modarchive/drozerix/drozerix_-_soht_-_voyage.mod|mod|Voyage
+2ae229644d065e7086966ae8eed8c52c|+|n011|drozerix,id:ma=191998||modarchive/drozerix/drozerix_-_soht_-_the_high_ground.mod|mod|14-The High Ground
+1b27279ada962d0e9526bde414ede6e8|+|1011|drozerix,id:ma=191997||modarchive/drozerix/drozerix_-_soht_-_slayers_of_high_toro.mod|mod|Slayers of High Toro
+bad56295b4ed3f50963437a9ecd0a763|+|1011|flight=.4,drozerix,id:ma=191437||modarchive/drozerix/drozerix_-_peachy_chip.xm|xm|Peachy Chip
+1e4586f96d23187d2d4322ab3d92d121|+|1011|gem,drozerix,id:ma=190186||modarchive/drozerix/drozerix_-_master_select.xm|xm|Master Select
+06aa155e641ac78634951587dfcde30c|+|1011|flight=.4,drozerix,id:ma=190185||modarchive/drozerix/drozerix_-_war_path.xm|xm|War Path
+4861bc70c49362ddf264a3a6dc0253a8|+|10m2|drozerix,id:ma=189433||modarchive/drozerix/drozerix_-_chica-pop!.xm|xm|Chica-pop!
+d575069a9ec5b90c0c6675f357087a07|+|1011|gem,drozerix,id:ma=185456||modarchive/drozerix/drozerix_-_building_energy.xm|xm|Building Energy
+a96a8ac78fa49d5e806306b9f804190f|+|10m1|drozerix,id:ma=185337||modarchive/drozerix/drozerix_-_playful_girl.xm|xm|Playful Girl
 36427e4672b1ca7a7047ef7c17aab896|+|0001|gem,drozerix,id:ma=185091||modarchive/drozerix/drozerix_sexxy_bit.xm|xm|sexxy_bit
 8dbfb1a7fae45794e13775769efabbe3|+|0021|drozerix,id:ma=183837||modarchive/drozerix/drozerix_-_leisurely_voice.xm|xm|Leisurely Voice
 6e8306d6c451188265880279c170bdb9|+|10m1|village=.5,drozerix,id:ma=180821||modarchive/drozerix/drozerix_-_digital_rendezvous.xm|xm|Digital Rendezvous
-1613a27c819396c6d4e74b426c21a36a|+|_0__|drozerix,id:ma=179581||modarchive/drozerix/drozerix_-_crush.xm|xm|Crush
-8576c1526e7af534e09e01766f038aff|+|_0__|drozerix,id:ma=178565||modarchive/drozerix/drozerix_-_dream_candy.xm|xm|Dream Candy
-fccb907f64483445e2ceceb6ba4f5f93|+|_0__|drozerix,id:ma=178415||modarchive/drozerix/drozerix_-_bit_loader.xm|xm|Bit Loader
-5e4b2a67a1ce6ab5f65ac0a511bc681c|+|_0__|drozerix,id:ma=178172||modarchive/drozerix/drozerix_-_neon_techno.mod|mod|Neon Techno
-8a0cb87059e945cdd099ffded4f79236|+|_0__|drozerix,id:ma=177968||modarchive/drozerix/drozerix_-_reloaded_insanity.xm|xm|Reloaded insanity
-37a23fbb81eb5d44888fbeebf4852404|+|_0__|drozerix,id:ma=177960||modarchive/drozerix/peak_and_drozerix_-_spectrum.xm|xm|Spectrum
-c13fd84edd786174f4be2b7847ae4c00|+|_0__|drozerix,id:ma=177708||modarchive/drozerix/drozerix_-_lost_without.xm|xm|Lost Without (Her)
-6cf6d8a930a8e00c4ee2498e09ff7996|+|_0__|drozerix,id:ma=177684||modarchive/drozerix/drozerix_-_chemical_16.xm|xm|Chemical 16
-67c4fb649eeefc1053f38f75536725d9|+|_0__|drozerix,id:ma=176020||modarchive/drozerix/drozerix_-_bubble_machine.xm|xm|Bubble Machine
-75cbab7639c5138d8ed7884250154174|+|_0__|drozerix,id:ma=175349||modarchive/drozerix/drozerix_-_mecanum_overdrive.xm|xm|Mecanum Overdrive
-251ef415c7e4a64b589f2fc3f86582df|+|_0__|drozerix,id:ma=175325||modarchive/drozerix/drozerix_-_poppy_flower_girls.xm|xm|Poppy Flower Girls
-9e5bb079842b13012c3c61a77bfee29a|+|_0__|drozerix,id:ma=175021||modarchive/drozerix/drozerix_-_computer_fuck!.xm|xm|Computer fuck!
-868d46f0cccdc4d990c628fb01358c90|+|_0__|drozerix,id:ma=174833||modarchive/drozerix/cabin_fever.xm|xm|Cabin Fever!
-9e846a44448c1392ab3f6e7b9e3a1546|+|_0__|drozerix,id:ma=174546||modarchive/drozerix/a_winter_kiss.xm|xm|A Winter Kiss
-1634bb3ac7d8ee3204197442d7773e23|+|_0__|drozerix,id:ma=174531||modarchive/drozerix/lost_in_her_eyes.xm|xm|Lost in her eyes
-3a46ba8a4282457988f551200274978d|+|_0__|drozerix,id:ma=174511||modarchive/drozerix/the_digital_dragon.xm|xm|The Digital Dragon
-7ca041c346a60f75ae131e0fbec49bdd|+|_0__|drozerix,id:ma=174461||modarchive/drozerix/pokemon_gym.mod|mod|Pokemon: Gym
-5bfaa1deda9bd6204e672ff7a4b76709|+|_0__|drozerix,id:ma=174416||modarchive/drozerix/bionic_girl.xm|xm|Bionic Girl
-87ee0222944be2680878cde2c21e8b9e|+|_0__|drozerix,id:ma=174293||modarchive/drozerix/her_kiss.xm|xm|Her Kiss
+1613a27c819396c6d4e74b426c21a36a|+|1001|gem=.5,drozerix,id:ma=179581||modarchive/drozerix/drozerix_-_crush.xm|xm|Crush
+8576c1526e7af534e09e01766f038aff|+|10m2|drozerix,id:ma=178565||modarchive/drozerix/drozerix_-_dream_candy.xm|xm|Dream Candy
+fccb907f64483445e2ceceb6ba4f5f93|+|1001|drozerix,id:ma=178415||modarchive/drozerix/drozerix_-_bit_loader.xm|xm|Bit Loader
+5e4b2a67a1ce6ab5f65ac0a511bc681c|+|0010|drozerix,id:ma=178172||modarchive/drozerix/drozerix_-_neon_techno.mod|mod|Neon Techno
+8a0cb87059e945cdd099ffded4f79236|+|101u|drozerix,id:ma=177968||modarchive/drozerix/drozerix_-_reloaded_insanity.xm|xm|Reloaded insanity
+37a23fbb81eb5d44888fbeebf4852404|+|2021|drozerix,id:ma=177960||modarchive/drozerix/peak_and_drozerix_-_spectrum.xm|xm|Spectrum
+c13fd84edd786174f4be2b7847ae4c00|+|1011|drozerix,id:ma=177708,t:end=131||modarchive/drozerix/drozerix_-_lost_without.xm|xm|Lost Without (Her)
+6cf6d8a930a8e00c4ee2498e09ff7996|+|201u|drozerix,id:ma=177684||modarchive/drozerix/drozerix_-_chemical_16.xm|xm|Chemical 16
+67c4fb649eeefc1053f38f75536725d9|+|20m2|drozerix,id:ma=176020||modarchive/drozerix/drozerix_-_bubble_machine.xm|xm|Bubble Machine
+75cbab7639c5138d8ed7884250154174|+|100u|drozerix,id:ma=175349||modarchive/drozerix/drozerix_-_mecanum_overdrive.xm|xm|Mecanum Overdrive
+251ef415c7e4a64b589f2fc3f86582df|+|2012|drozerix,id:ma=175325||modarchive/drozerix/drozerix_-_poppy_flower_girls.xm|xm|Poppy Flower Girls
+9e5bb079842b13012c3c61a77bfee29a|+|1001|drozerix,id:ma=175021||modarchive/drozerix/drozerix_-_computer_fuck!.xm|xm|Computer fuck!
+868d46f0cccdc4d990c628fb01358c90|+|201u|conveyor,drozerix,id:ma=174833||modarchive/drozerix/cabin_fever.xm|xm|Cabin Fever!
+9e846a44448c1392ab3f6e7b9e3a1546|+|2021|conveyor,drozerix,id:ma=174546||modarchive/drozerix/a_winter_kiss.xm|xm|A Winter Kiss
+1634bb3ac7d8ee3204197442d7773e23|+|100u|drozerix,id:ma=174531||modarchive/drozerix/lost_in_her_eyes.xm|xm|Lost in her eyes
+3a46ba8a4282457988f551200274978d|+|1011|drozerix,id:ma=174511||modarchive/drozerix/the_digital_dragon.xm|xm|The Digital Dragon
+7ca041c346a60f75ae131e0fbec49bdd|+|0001|drozerix,id:ma=174461||modarchive/drozerix/pokemon_gym.mod|mod|Pokemon: Gym
+5bfaa1deda9bd6204e672ff7a4b76709|+|1021|drozerix,id:ma=174416||modarchive/drozerix/bionic_girl.xm|xm|Bionic Girl
+87ee0222944be2680878cde2c21e8b9e|+|2011|drozerix,id:ma=174293||modarchive/drozerix/her_kiss.xm|xm|Her Kiss
 6aed4f531c9a4e37355f84bebfdd008f|+|102u|conveyor,drozerix,id:ma=174160||modarchive/drozerix/ambient_starfield.xm|xm|Ambient Starfield
 e91dbc23d3c78cab56447c4015aeec25|+|1001|flight=.5,drozerix,id:ma=173939||modarchive/drozerix/key_generators.xm|xm|Key Generators
 02b1f1dad70ea15a0b064c45468caa55|+|2021|conveyor,drozerix,id:ma=173938||modarchive/drozerix/keygen_9000.xm|xm|Keygen 9000
 8c2f81ab2d66e0937eb3e3cdd9ceab9d|+|1011|drozerix,id:ma=173937||modarchive/drozerix/the_computer_adventures_of_drozerix.xm|xm|Computer_Adventures!
-ee0b4eae39288e175a08847cacd3be9d|+|_0__|drozerix,id:ma=173936||modarchive/drozerix/viral_legacy.xm|xm|Viral Legacy
-7fa3ccae09361970dfb08a05a6bd756c|+|_0__|drozerix,id:ma=173935||modarchive/drozerix/girl_from_mars.xm|xm|Girl From Mars
-a1adcae2da3cf25e05e648c58c0a1bb1|+|_0__|drozerix,id:ma=173934||modarchive/drozerix/the_radix_point.xm|xm|The Radix Point
-e6aa4637e85319a2d59d7c4315a5f953|+|_0__|drozerix,id:ma=173086||modarchive/drozerix/knuckles_sucks!.xm|xm|Knuckles_Sucks!
+ee0b4eae39288e175a08847cacd3be9d|+|1011|drozerix,id:ma=173936||modarchive/drozerix/viral_legacy.xm|xm|Viral Legacy
+7fa3ccae09361970dfb08a05a6bd756c|+|2011|drozerix,id:ma=173935||modarchive/drozerix/girl_from_mars.xm|xm|Girl From Mars
+a1adcae2da3cf25e05e648c58c0a1bb1|+|1001|drozerix,id:ma=173934||modarchive/drozerix/the_radix_point.xm|xm|The Radix Point
+e6aa4637e85319a2d59d7c4315a5f953|+|1000|conveyor,drozerix,id:ma=173086||modarchive/drozerix/knuckles_sucks!.xm|xm|Knuckles_Sucks!
 acf720b23eea3792d55a7f5d7392c0aa|+|1021|hack=.4,drozerix,id:ma=173084|power-up|modarchive/drozerix/october_chip.xm|xm|October_Chip
-b0f6e442dcd6209e4cd41115659c11f4|+|_0__|drozerix,id:ma=173082||modarchive/drozerix/nerve_intro2.xm|xm|Nerve_2.00
-38aceabe681dfad0a17dc6598ea6b2b0|+|_0__|drozerix,id:ma=173081||modarchive/drozerix/nerve_intro.xm|xm|Nerve_intro
+b0f6e442dcd6209e4cd41115659c11f4|+|1000|drozerix,id:ma=173082||modarchive/drozerix/nerve_intro2.xm|xm|Nerve_2.00
+38aceabe681dfad0a17dc6598ea6b2b0|+|1001|drozerix,id:ma=173081||modarchive/drozerix/nerve_intro.xm|xm|Nerve_intro
 1aad42ca9ff07cd4ff60b2f2e4735a48|+|1020|hlwn=.5,conveyor,drozerix,id:ma=172898||modarchive/drozerix/4_rndd!.xm|xm|4_RNDD!
-2e5c1012c42ee7f07f709cf15fbea600|+|2011|conveyor,drozerix,id:ma=172897|elevator-conveyor|modarchive/drozerix/the_dim_dungeon_2.xm|xm|The_Dim_Dungeon_2
+2e5c1012c42ee7f07f709cf15fbea600|+|2011|conveyor=2,drozerix,id:ma=172897|elevator-conveyor|modarchive/drozerix/the_dim_dungeon_2.xm|xm|The_Dim_Dungeon_2
 d5c5e8661d259428a115537c536a59dc|+|001u|drozerix,id:ma=172896||modarchive/drozerix/rndd_keygen_1.xm|xm|RNDD_Keygen#1.0
-656af451d82f9c2ccc89c5c8ced8d848|+|_0__|drozerix,id:ma=172786||modarchive/drozerix/necromancers_castle.xm|xm|Necromancer's_Castle
-6ab6efc819a1787e5a009b72e844306b|+|3120|conveyor,summer=.5,drozerix,id:ma=172732|escalator-conveyor|modarchive/drozerix/the_dim_dungeon.xm|xm|The_Dim_Dungeon
-2d645602a23022be667d501496d14eea|+|_0__|drozerix,id:ma=172568||modarchive/drozerix/cornered!.xm|xm|Cornered!!
-9995e495297486a39b9eded1707d60fd|+|_0__|drozerix,id:ma=172424||modarchive/drozerix/the_epic_chip.xm|xm|The_Epic_Chip
-361ffc5232cf295695f14ff1464e8808|+|_0__|drozerix,id:ma=172423||modarchive/drozerix/dissorint.xm|xm|Dissorint
-014c8c0ac159a573ae7e1f52079fc0b7|+|_0__|drozerix,id:ma=172185||modarchive/drozerix/chip_overture.xm|xm|CHiP_OVERTURE
+656af451d82f9c2ccc89c5c8ced8d848|+|1010|conveyor=1.2,drozerix,id:ma=172786||modarchive/drozerix/necromancers_castle.xm|xm|Necromancer's_Castle
+6ab6efc819a1787e5a009b72e844306b|+|3120|conveyor=2,summer=.5,drozerix,id:ma=172732|escalator-conveyor|modarchive/drozerix/the_dim_dungeon.xm|xm|The_Dim_Dungeon
+2d645602a23022be667d501496d14eea|+|n01s|drozerix,id:ma=172568||modarchive/drozerix/cornered!.xm|xm|Cornered!!
+9995e495297486a39b9eded1707d60fd|+|m021|conveyor,drozerix,id:ma=172424||modarchive/drozerix/the_epic_chip.xm|xm|The_Epic_Chip
+361ffc5232cf295695f14ff1464e8808|+|00m1|drozerix,id:ma=172423||modarchive/drozerix/dissorint.xm|xm|Dissorint
+014c8c0ac159a573ae7e1f52079fc0b7|+|1021|drozerix,id:ma=172185||modarchive/drozerix/chip_overture.xm|xm|CHiP_OVERTURE
 ef0be06e68e4fbadeb7ee98de4a0ad93|+|1011|conveyor,drozerix,id:ma=172184||modarchive/drozerix/augmented_emotions.xm|xm|Augmented_Emotions
 06f37528b926f5863925d9fd49a662ce|+|0000|drozerix,id:ma=172183||modarchive/drozerix/l3v3l_33.xm|xm|L3V3L_33
 4de234b43df9d10adff34c20ee7984db|+|2011|id:ma=196187,maktone||modarchive/maktone/maktone_-_klabbe_30_years!.mod|mod|klabbe 30 years!
@@ -615,7 +615,7 @@ a4114c28c4671d1d5c4d8e92b884f79d|+|m040|c512wfav,id:ma=210748||modarchive/fillyf
 9bba1b81424bea5f7810cea752d9a3e6|+|0000|c512wfav,id:ma=209309||modarchive/modworks-starbucks.mod|mod|STARBUCKS!!!!!!!!!!!
 12da25bfc3bf3e147047bc21cfd148c3|+|1001|c512wfav,id:ma=210549||modarchive/cornfields74_-_asdf.mod|mod|finobe-chan
 c81432894495d0c0d7d86be34068b8af|+|10m2|c512wfav,cerror,gem,id:ma=211033||modarchive/cerror/cerror_-_crack_01.xm|xm|crack_01
-51d91ef090654ef79ae301427df6e883|+|212s|c512wfav,id:ma=145106,sour,t:end=62||modarchive/bergsmtaren_lever.xm|xm|bergsmätaren lever
+51d91ef090654ef79ae301427df6e883|+|212s|c512wfav,id:ma=145106,sour,t:end=61||modarchive/bergsmtaren_lever.xm|xm|bergsmätaren lever
 4f81cfb4e291933b10ba0a808366e48b|+|u00u|c512wfav,id:ma=201367||modarchive/swt.xm|xm|Stupid? What's that?
 e11206161c2d33c11dbe31cbf8a622d8|+|u010|c512wfav,d:v,id:ma=211981||modarchive/undergrnd_frequency.mod|mod|undergrnd frequency
 89cf8c81b9750bbec33b6a255b1b2060|+|00m1|c512wfav,id:ma=210870||modarchive/vitocock_-_evans.it|it|JUBEAT
@@ -986,7 +986,7 @@ ea101333307204dd21da685fa5d5de4a|+|n010|id:ma=758||modarchive/igaox.mod|mod|"IGA
 16c2e52593dcb5afd8a9153c3fe4bfca|+|m011|id:ma=171941||modarchive/robric982.xm|xm|>( Serena )<
 e70d0d89a1b7bf78049bcdb929420dd8|+|1010|id:ma=190824,t:end=139||modarchive/roboman-1768.xm|xm|
 a3ab228885953b40c924e6b5b70a2ff6|+|n001|id:ma=113582,xmas||modarchive/digital_christmas.mod|mod|digital christmas
-eb91815601437f7e75d10f7c8164aa83|+|n00u|error,id:ma=185684,t:end=309,technoise=3|corrupted-sample|modarchive/untitled4.mptm|mptm|Untitled 4
+eb91815601437f7e75d10f7c8164aa83|+|n00w|error,id:ma=185684,t:end=309,technoise=3|corrupted-sample|modarchive/untitled4.mptm|mptm|Untitled 4
 6d6d542fa834dac4be21a715e5c5f470|+|n00u|id:ma=79100,technoise||modarchive/loops_of_revolution.mod|mod|loops of revolution
 a756a2a262f777f19566889d9223f484|+|101s|id:ma=122146,sour||modarchive/hippel_thing_ext.mod|mod|Hippel_thing.ext
 456fa19504343e2178941d33b5a6c5fd|+|n041|id:ma=201441||modarchive/nghtlngl.xm|xm|Night long as life
@@ -2795,7 +2795,7 @@ fe1d7fe9da1de559ec24185df9353469|+|112u||wondering|kgm/BAKA!/BAKA! - Actify Spin
 263adea2cf136bcef0ab718eecb6b1e0|+|d030|||kgm/BAKA!/BAKA! - AstroScan Regulus 4.1E crk.xm|xm|june, 21st century
 ce84c3161d51fdaa20ff28af28413a94|+|n030|||kgm/BAKA!/BAKA! - Atomix Virtual DJ 4.1 crk.it|it|!Radioactivity (LOM Mix)!
 cfccbd8cf2e2e54902dc42509554180b|+|0011|||kgm/BAKA!/BAKA! - Clipboard Rover 1.0.3 crk.xm|xm|made during sex
-47c01d587dd569ea1970e8b6cf1b3568|+|1011|||kgm/BAKA!/BAKA! - CodeLobster 2.1.19 crk.it|it|Pokimono builds panimoja
+47c01d587dd569ea1970e8b6cf1b3568|+|2011|t:end=149,sour=.5||kgm/BAKA!/BAKA! - CodeLobster 2.1.19 crk.it|it|Pokimono builds panimoja
 64e3918418de69db8b7f5ea336d56fbd|+|1022|cosm=.8||kgm/BAKA!/BAKA! - Coral Reef 3D kg.xm|xm|8bit groof
 faf088794d2f05e434b80fab14be2f7c| |1020|dupsus||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_01.mo3|mo3|
 c18f0521af5eee176e8d4e7b5e1f073f| |1021|vrl||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_03.mo3|mo3|
@@ -3370,7 +3370,7 @@ e476b728bf2d064451eedcaef84a7a60|+|0111|d:buzz||kgm/DOT.EXE/DOT.EXE - MagicISO 5
 3c7482f0656cae0f3fcffbaedda5ebbc|+|n14s|dotmonth,sorrow||kgm/DOT.EXE/DOT.EXE - Steganos Internet Anonym 7.1.4 kg.xm|xm|.february...
 76726d517e9f9d44368d5b31d0b7de5c|+|n13s|dotmonth,sorrow||kgm/DOT.EXE/DOT.EXE - Zip Repair Pro 4.2.0.1281 crk.xm|xm|.november...
 ed39e442eb925f60e6986d10b38eb406|+|1021|||kgm/Dr.XJ/Dr.XJ - Advanced Installer 3.9.0.0 crk.mod|mod|moongazer
-5f594782f5f4bb4fb7d5dc866597b416|+|1021|flut,guitar||kgm/Dr.XJ/Dr.XJ - EasyForm Database Convert 5.x kg.mod|mod|Guitarous
+5f594782f5f4bb4fb7d5dc866597b416|+|2021|flut,guitar,t:end=247||kgm/Dr.XJ/Dr.XJ - EasyForm Database Convert 5.x kg.mod|mod|Guitarous
 ab5059e8850f7fc3bd7148f97ac71922|+|m010|||kgm/Dr.XJ/Dr.XJ - Game Speed Changer 6.x crk.mod|mod|bigrun-2
 41db671ec814f3aba6b7d3dcbafe135b|+|n030|||kgm/Dr.XJ/Dr.XJ - LingvoSoft Dictionary 2006 crk.mod|mod|fv.level.brain
 a71de98c3dd19a4bf50ec07aa200fa2a|+|n010|||kgm/Dr.XJ/Dr.XJ - No1 DVD Ripper x.x crk.mod|mod|Main_Tune
@@ -3526,7 +3526,7 @@ dbf682b87ab14c1ce58190ef822ff78f|+|n011|||kgm/EDGE/EDGE - Diffraction Ltd MaxIm 
 7e93f616803e40113d9856f75aecb1b9|+|m011|||kgm/EDGE/EDGE - Jaws PDF Creator 4.0 kg.xm|xm|PAL mode? Sure...
 65ecbeff9e50c05aa6fdb54f8c632df6|+|0011|d:v,flight=.5||kgm/EDGE/EDGE - MakeMusic Finale 2009 kg.xm|xm|
 bee84672bd158f6a251ee7efb0f6a95e|+|0001|||kgm/EDGE/EDGE - MaxDSLR 4.0.6 kg.xm|xm|synth-i remixed it
-587fad6d142246584613b92b6d66d2ed| |0011|flight=.5||kgm/EDGE/EDGE - Norton AntiVirus 2008 kg.fc14|fc14|
+587fad6d142246584613b92b6d66d2ed| |0011|flight=.5,t:end=444||kgm/EDGE/EDGE - Norton AntiVirus 2008 kg.fc14|fc14|
 24cd6033707451e2b11327e7f137c647|+|2111||implications|kgm/EDGE/EDGE - Norton Internet Security 2007 kg.xm|xm|complications ii
 1d9f1988d6e12683c54ff86b33ae80a9|+|2102|summer|game-box|kgm/EDGE/EDGE - NovaStor NovaBACKUP 8.0.3.0 kg.xm|xm|papillons intro
 af5aa4bb450fb803f9d9ea49e6f3e544|+|u010|||kgm/EDGE/EDGE - Pioneer Hill Software Spectra PLUS 5.0.26.0 kg.xm|xm|italohouse2
@@ -3936,7 +3936,7 @@ aa1dd0c0dce6670954326e102f4e8c7c|+|m111|||kgm/FFF/FFF - Summoner 1.4 French crk.
 b545e84c73a6038c71aa67eba1dccc86| |____|||kgm/FFF/FFF - SureThing Disc Labeler Deluxe 6.2.134 crk.sid|sid|
 22c0ec623b4e483622a9c59998bd5a1c|+|u000|d:tune||kgm/FFF/FFF - TeoreX Inpaint 4.5 kg.xm|xm|My Jet is back
 f86c77a9b49d3c6df6cac138cf7a0747|+|10m2|clarity=.5,gem||kgm/FFF/FFF - TreeSize Professional 4.1.1.308 crk.xm|xm|intro.dsx.4
-4a3d3ac76812a22489896f7b21601eb0|+|2112|ekm||kgm/FFF/FFF - TubeHunter Ultra 1.7 kg.xm|xm|3D Galax
+4a3d3ac76812a22489896f7b21601eb0|+|2112|ekm,t:end=221||kgm/FFF/FFF - TubeHunter Ultra 1.7 kg.xm|xm|3D Galax
 661eae398a75ff020d715497786e5bb9|+|1011|flight||kgm/FFF/FFF - TuneUp Utilities 2006 5.0.2331 crk.mod|mod|summertime-part_2
 fcf9227d8fa405e456edc3983fba4472|+|1011|gem||kgm/FFF/FFF - TuneUp Utilities 2007 6.0.1256 French crk.xm|xm|giftix to friends
 64efdc9d5110ef44fbe08f8b63a1e4ff|+|::::|dup||kgm/FFF/FFF - Tuneup Utilities 2008 7.0.8002 kg.xm|xm|insomniachip
@@ -4347,7 +4347,7 @@ e3d2a3744819cdcedbb4bf5b04c2e74c|+|m021|flut||kgm/HoG/HoG - Zombie Army Trilogy 
 b2a750f92e4ffc72cb33938d04b7dadf|+|1011|||kgm/HOODLUM/HOODLUM - Blowouttrainer.mod|mod|secret gardens
 d15004d63dd2cba60e3a52449d3256ed|+|1011|||kgm/HOODLUM/HOODLUM - Bugdom 2 trn.mod|mod|Paradox.crack13
 9df41d5032e919f9c0d1d707cadc9043|+|1010|||kgm/HOODLUM/HOODLUM - Burning Rubber intro.xm|xm|intro number 78
-0a880c369b003468e3e2eb99d4ed73ec|+|1021|||kgm/HOODLUM/HOODLUM - Catastronauts installer.xm|xm|
+0a880c369b003468e3e2eb99d4ed73ec|+|1021|t:end=78||kgm/HOODLUM/HOODLUM - Catastronauts installer.xm|xm|
 c4e7794f0474e4a428fcec19c5731370|+|21m1|agg|as-i-said|kgm/HOODLUM/HOODLUM - Chronicles Of Riddic intro.xm|xm|Horizon Skies
 a75a820f3ce187f741b414c2d4ac7b37|+|2111|flight|fighter-jet|kgm/HOODLUM/HOODLUM - ColdFea intro.xm|xm|her2
 7a78761a25c4d58f1a07dc90c08072fe|+|u01u|d:v||kgm/HOODLUM/HOODLUM - Creature in the Well installer.xm|xm|Coffin Express Extra
