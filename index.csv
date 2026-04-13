@@ -936,7 +936,7 @@ f83da071f2b8e26ac65aea848b5178ea|+|1010|c512wfav,id:ma=60288||modarchive/22650.m
 6af2739d17036e36cf4fbc505c5a7223|+|m020|id:ma=117978||modarchive/milking_machine.mod|mod|milking machine
 438b21e328cd4fd59718dcabe53aef17|+|n020|id:ma=54647||modarchive/relax2.xm|xm|relax II
 ffc0754829baa10e2f6553443b61d543|+|0010|id:ma=115824,repeat||modarchive/enchantment19.mod|mod|enchantment#19
-51c1f35c9cab2e5829803cc49dd3ce71|+|103u|cosm,id:ma=142590||modarchive/_greenfly_remix_.xm|xm|-=*Greenfly/Remix*=-
+51c1f35c9cab2e5829803cc49dd3ce71|+|203u|cosm,id:ma=142590||modarchive/_greenfly_remix_.xm|xm|-=*Greenfly/Remix*=-
 c6315c669bfe263cc775aae950989726|+|n010|id:ma=171331,t:end=158||modarchive/popcorn_-_advanced.mod|mod|advanced
 ab9f58b3c6867147c392b9bbb3815bb4|+|m011|id:ma=137141||modarchive/everything_you_need.xm|xm|Everything You Need
 6bc8167d7369a239929f3bf3df27078a|+|m010|id:ma=62344||modarchive/y3k_icl8.xm|xm|I Can't Leave You
@@ -1520,7 +1520,7 @@ e0eff7a5feca4485748b9c9ba2ddf591|+|1010|id:ma=52781,mrg||modarchive/mrg/mrgmou.x
 a22e9dd9c5ff3fe3a4fceff857791ebc|+|m031|cosm=.7,energy,id:ma=52783,mrg||modarchive/mrg/mrgmysti.xm|xm|MysticMorning/Gamer
 0c8d6471846b7ccd2e72021a775e21bd|+|n040|cosm=.4,id:ma=52809,mrg,t:end=189||modarchive/mrg/mrgpho2.xm|xm|PhoBoAno Remix
 438ca4a111fd4d08999fde5732293a7c|+|1021|id:ma=52813,mrg||modarchive/mrg/mrgphun2.xm|xm|Gamer goes Phunky!
-9ad552655178ad16a610754b011b25d1|+|m031|cosm=.8,id:ma=52864,mrg||modarchive/mrg/mrgspac2.xm|xm|SpaceNight 2000
+9ad552655178ad16a610754b011b25d1|+|m031|cosm=.8,id:ma=52864,mrg,t:end=227||modarchive/mrg/mrgspac2.xm|xm|SpaceNight 2000
 9961a45238e822b870f68f2d83cf3fe8|+|m030|id:ma=52671,mrg||modarchive/mrg/mrgcarro.xm|xm|Till Caroline K.
 6fb0464c7538707b7732560731f406da|+|m041|id:ma=52674,mrg||modarchive/mrg/mrgchar.xm|xm|Charon
 0f0c7d87b80adcaf017623adcd098389|+|u021|d:v,id:ma=52861,mrg||modarchive/mrg/mrgslaet.xm|xm|Gamer på Slätten
@@ -1687,7 +1687,7 @@ dcd33c8b1330e8cc69a78af1853a5b51|+|0101|id:ma=99011,village|circus|modarchive/co
 199b6122fe41f8d84423ec2412d37e76|+|3122|frost,id:ma=72573|frosty-escape|modarchive/narrow_escape.s3m|s3m|Narrow Escape
 0a46643d6d65d201fabb56aeb6cc7747|+|2132|id:ma=34594,sunrise,wothkefav|graceful-airship|modarchive/CHARIOT.S3M|s3m|Chariots Of Fire
 37dd08f6c904d0d4a356614510f2533f|+|3123|dec,id:ma=60693,t:end=277|colorful-rollercoaster|modarchive/strshine.s3m|s3m|Starshine - PM
-76a1434f429e0810d7a80920c98a8934|+|m031|dotmonth,id:ma=158281||modarchive/blz_-_march.xm|xm|.march...
+76a1434f429e0810d7a80920c98a8934|+|m031|dotmonth,id:ma=158281,t:end=143||modarchive/blz_-_march.xm|xm|.march...
 e74db04cb7ca1971789cebe3d96ef400|+|n02w|dotmonth,id:ma=137151||modarchive/april.xm|xm|.april...
 d8a38341210eb008c731b07709379000|+|2132|dotmonth,forest,id:ma=137531,sunrise||modarchive/may.xm|xm|.may...
 765ebd30d28243ba80ec2e132f997d26|+|203u|dotmonth,id:ma=158174,t:end=144||modarchive/blz_-_june.xm|xm|.june...
@@ -1937,7 +1937,7 @@ b92e42d30dad6eb389ba3d3e32639c5b|+|10mw|flight||kgm/!Others/FUTURiTY - Pro Chef 
 1cfa9edc4770dbc06bda99c8389dbea9| |1020|flight=.5||kgm/!Others/FXM - Jungle Jim +2 trn.fc13|fc13|
 d457fa3b0216ef7d31c341f0057be771|+|0001|||kgm/!Others/G-K - RED Patchers Skin crk.mod|mod|funland
 9f8d2f0aaec02d5e05bac82bbcf3f83a|+|1000|||kgm/!Others/G-K - Smart Install Maker 5.2 crk.mod|mod|welcome
-ad35ac7ca6f629f0cf15c2405727a1c8|+|n040|cosm||kgm/!Others/Gamehacklab - Amnesia The Dark Descent +5 trn.xm|xm|Crystal Eternity
+ad35ac7ca6f629f0cf15c2405727a1c8|+|n041|cosm,t:end=386||kgm/!Others/Gamehacklab - Amnesia The Dark Descent +5 trn.xm|xm|Crystal Eternity
 53ec16d1c1d0ebc1fb6f0b033254c288|+|2031|cosm||kgm/!Others/Gamehacklab - E.Y.E. Divine Cybermancy +5 trn.xm|xm|Time Reflective
 1d43d2dcd0771a3c95acfd6ad64e705f|+|0010|||kgm/!Others/Garik66 - Super Cyborg +1 trn.xm|xm|Flow-R-MIXED
 b614059700eb7b6f71668af54d3dbb4e|+|n011|remake||kgm/!Others/GCT - Avast 4.7 kg.xm|xm|Turkish Rondo
@@ -2803,7 +2803,7 @@ cfccbd8cf2e2e54902dc42509554180b|+|0011|||kgm/BAKA!/BAKA! - Clipboard Rover 1.0.
 faf088794d2f05e434b80fab14be2f7c| |1020|dupsus||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_01.mo3|mo3|
 c18f0521af5eee176e8d4e7b5e1f073f| |1021|vrl||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_03.mo3|mo3|
 acc93acbeac892ab3c86728841415d6d|+|n021|||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_05.it|it|Lonely Doomer
-6552c062fc964ac8fc580a3987d5b7a0|+|m041|frost||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_06.it|it|falling snowflakes
+6552c062fc964ac8fc580a3987d5b7a0|+|m041|frost,d:unseekable||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_06.it|it|falling snowflakes
 e1b00f80f52f55b588934bf757b03692|+|u020|||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_07.xm|xm|g.
 3a0418559b4895c0e24136ffac5d40b5|+|1011|||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_08.mod|mod|r3z l0ve gigi !
 affa0b1afd7ad9936aa5bc79c134ba84|+|u020|||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_09.mod|mod|Automatik
@@ -2817,7 +2817,7 @@ a970969fa2e8737c33e71a7cf56b770c|+|u001|||kgm/BAKA!/BAKA! - Decid Pro 6.15 kg_12
 1fc7342a7bab669636085abb9b0e49da|+|10m1|d:ee,gem,juic=.6,t:end=157||kgm/BAKA!/BAKA! - HTTP Analyzer Full Edition 1.6.2.156 crk.xm|xm|rainy summerdays
 52403789a073f30498151c0b057fce47|+|u000|||kgm/BAKA!/BAKA! - IntelliAdmin Outlook Profile Generator 20060605 crk.mod|mod|#Deep7
 b082b39582bf58d412c7276118008fbf|+|u0__|d:v||kgm/BAKA!/BAKA! - IonCube PHP Encoder 6.5.9 crk.mod|mod|cotton eye joe
-ab69e63b6ff4e50297e3f1897bc0b75e|+|1011|cosm=.8||kgm/BAKA!/BAKA! - RC-Timing 3.3.0 crk.it|it|zaj
+ab69e63b6ff4e50297e3f1897bc0b75e|+|1011|cosm=.8,t:end=123||kgm/BAKA!/BAKA! - RC-Timing 3.3.0 crk.it|it|zaj
 97e0abb64fff8a2840c35273288b83a9|+|n011|||kgm/BAKA!/BAKA! - SmartFTP 2.0.996.29 crk.it|it|i miss those days
 2dba6a4485c3645c5cb8914a1f7640eb|+|20m1|vrl||kgm/BAKA!/BAKA! - Solid Converter PDF 2.2.158 crk.xm|xm|a knight atthe opera
 9f898b21274f3ff6c8beddfcb85a4fda|+|x0__|d:v||kgm/BAKA!/BAKA! - Solid Converter PDF Professional 3.0.299 crk.it|it|neptunedepot
@@ -2973,7 +2973,7 @@ afd558d3a92478c60eb445f1a6635f0a|+|2112|ekm,gem=2,summer=.5,t:end=76|valuable|kg
 3ae4f093f8fe19ea6f4fbb0eaf511955|+|n000|||kgm/CFF/CFF - Recover My Files 3.98 kg.xm|xm|Airwolf theme
 b4d0d14d7a5a7b92b60f5144646c350c|+|1010|||kgm/CFF/CFF - Toast Organiszer 1.0.0.562 crk.mod|mod|at last! v2
 024faa179188e6d1828a70e5ce63d473|+|n011|||kgm/CFF/CFF - Ultra DVD Creator kg.xm|xm|sirius
-4435e9ce0211f3ad9c9bcf1b37ec49d7|+|1001|||kgm/CFF/CFF - Webpage Thumbnailer 1.1 kg.mod|mod|c64v2
+4435e9ce0211f3ad9c9bcf1b37ec49d7|+|2001|||kgm/CFF/CFF - Webpage Thumbnailer 1.1 kg.mod|mod|c64v2
 a2294d5947e2621399727529ed652efe|+|2113|gem,summer|sweet-water|kgm/CFF/CFF - WinRAR 3.x.x crk.xm|xm|fångad aven korvring
 16288cda7e6019f7ac5f8cbd1c1fbb36|+|::::|dup||kgm/CFF/CFF - Xilisoft ImTOO Magicbit +52 kg.xm|xm|sourcream chips!
 a7d0daaff61bce6d8b8959850ee2c3ea|+|1100|gem|needle|kgm/CFF/CFF - ZwCAD Pro 2007 crk.mod|mod|nike#01
@@ -3429,7 +3429,7 @@ e2441adeda72248006573045689b435c|+|n010|repeat||kgm/DYNAMiCS140685/DYNAMiCS14068
 bf99139334b0db6caacfdf9a6c296163|+|u010|||kgm/DYNAMiCS140685/DYNAMiCS140685 - EarthView 3.12.x-3.13.x crk.xm|xm|Dj SM - Han Tengri
 7be91269b72352e08d3d893b606736c3|+|1101|village||kgm/DYNAMiCS140685/DYNAMiCS140685 - EarthView 4.2.4 crk.xm|xm|j00 b teh 1
 e1e5f50dfe9b907c387a961b45172285|+|d010|rock||kgm/DYNAMiCS140685/DYNAMiCS140685 - Easy Disk Drive Safeguard 3.x crk.xm|xm|what's there?
-75900ab330cb157e92694e377ba5661e|+|n132|t:end=160|little-casket|kgm/DYNAMiCS140685/DYNAMiCS140685 - Easy Video to iPod MP4 PSP 3GP Converter 1.x crk.it|it|
+75900ab330cb157e92694e377ba5661e|+|n132|t:end=155|little-casket|kgm/DYNAMiCS140685/DYNAMiCS140685 - Easy Video to iPod MP4 PSP 3GP Converter 1.x crk.it|it|
 000996d597f241f98ad12e2220e47df8|+|n121|||kgm/DYNAMiCS140685/DYNAMiCS140685 - FastFolders 5.2.0 crk.mod|mod|now what???
 b785841c653a33037f43a3d8df1fa86e|+|d010|||kgm/DYNAMiCS140685/DYNAMiCS140685 - Flash Player Pro 5.x crk.xm|xm|noffyn2001[dh.vs.sh]
 204801c920d3cbd8f66b03ccae896c0b| |____|||kgm/DYNAMiCS140685/DYNAMiCS140685 - Flash Player Pro x.x crk.ahx|ahx|
