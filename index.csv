@@ -1017,7 +1017,7 @@ aa5fd6d76a22f2a62a84e2f91c9f9664|+|m021|id:ma=119812||modarchive/flying_high.mod
 ba70c206c897e78daef59839526cd6cf|+|m032|id:ma=40602||modarchive/dreamygaze2001.it|it|Dreamy Gaze 2001
 32f65b80a24152cab4a828fd0ddac7fb|+|n020|id:ma=70146||modarchive/vampyra_3-mutant.s3m|s3m|VAMPYRA 3: "MUTANT"
 6746418a85424c1c7b6be8fd36c4f4cd|+|m031|id:ma=44070||modarchive/goodbyes.it|it|Goodbyes
-c87f93ab445e46f6d8bdb52878beb436|+|0000|id:ma=97337||modarchive/i_need_a_new_world.mod|mod|i need a new world
+c87f93ab445e46f6d8bdb52878beb436|+|0000|id:ma=97337,t:end=78||modarchive/i_need_a_new_world.mod|mod|i need a new world
 415b9a927eb91a7633128c2f7d0f9164|+|n040|id:ma=150863||modarchive/sunday_7_34.xm|xm|sunday... 7:34
 9d363b6166d8e3ad324af92cd47888d3|+|n030|id:ma=35307||modarchive/DIABLO.MOD|mod|endtheme2-diablo
 f0d9cd1d081503c0e06269c6ba4133c3|+|0000|id:ma=96599||modarchive/chipachoup02.mod|mod|Chip a'Choup 02
@@ -1094,7 +1094,7 @@ ee392b26b6c8442342fa74b845eb0018|+|m011|id:ma=151558||modarchive/pulled_from_air
 462fe9d670eea653236b3574aabbb8cd|+|n02u|id:ma=148038||modarchive/skys.xm|xm|Sky's
 3a08bebae8da77ca4a3592ac2de2c01b|+|m031|id:ma=163222,slightly_magic,t:end=240||modarchive/slightly_magic_-_beauty_makes_us_suffer.it|it|Beauty makes us suffer
 d2553f8e77a81aa1f16e920296a75078|+|m031|id:ma=163223,slightly_magic||modarchive/slightly_magic_-_forgotten_sunrise.it|it|Forgotten sunrise
-39c3d69d8dc52d3ac2e273eacfa3de09|+|1021|id:ma=163226,slightly_magic||modarchive/slightly_magic_-_new_year_melodie.it|it|New year melodie
+39c3d69d8dc52d3ac2e273eacfa3de09|+|2022|id:ma=163226,slightly_magic,t:end=275||modarchive/slightly_magic_-_new_year_melodie.it|it|New year melodie
 074d9968f547778ddaec21fb22838364|+|1031|cosm,id:ma=163228,slightly_magic||modarchive/slightly_magic_-_spacecraft.it|it|Spacecraft
 81e2f5571b48ea85130af081735847fa|+|m020|cosm=.6,id:ma=163213,slightly_magic||modarchive/slightly_magic_-_underwater_world_3.it|it|Underwater world.Part III
 570b899b9c37517274c03e2b397ede1c|+|n010|id:ma=148039||modarchive/space_illusion.xm|xm|Space illusion
@@ -1116,6 +1116,24 @@ a85219c25a637a1e9311029aed1df7c0|+|1011|id:ma=207839,viraxor||modarchive/viraxor
 dd297ad27452cb4a9086417e71ce5446|+|1021|id:ma=200448,viraxor||modarchive/viraxor/viraxor_-_32k_love.it|it|32k love
 3e519c3abdf792d840f75c226f3ea97c|+|21m2|id:ma=164852||modarchive/joe_-_judgement_day.mod|mod|judgement day
 
+1ce78e8e1bca9583b87bd132b66f651e|+|1021|c512w,gem,remix,id:ma=214040||modarchive/c512w/c512w_-_remixasd.mptm|mptm|AcuteStressDisorder Remix
+69e085207e74e9c6186d29fd678683d1|+|0000|c512w,id:ma=214016||modarchive/c512w/c512w_-_andy.mod|mod|Andy MOD
+2e2d91a2edf8f3e505e8648b4d002942|+|1011|c512w,remix,id:ma=214011||modarchive/c512w/c512w_-_lfn.mod|mod|Last Friday Night
+70cb28eacdb31ab6e34be70390db73a4|+|1011|c512w,remix,id:ma=213890||modarchive/c512w/c512w_-_modulemedia.it|it|You found module media
+adb5f5f46f50dcedda3f6b86ca068703|+|1001|c512w,id:ma=213815||modarchive/c512w/c512w_-_tuesday.mod|mod|tuesday
+615d03ec6c6835716f1ca2a196a4222d|+|1001|c512w,flight=.5,id:ma=213781||modarchive/c512w/c512w_-_sticky_key.s3m|s3m|Gamer's most fear
+202ae329ca176fbd1456f316bb7a082c|+|10m2|c512w,id:ma=213774,t:end=58||modarchive/c512w/c512w_-_keygenopardy.xm|xm|Keygenopardy Time
+e61028af8f54d785e5b6239675d55186|+|m021|c512w,id:ma=213773,t:end=188||modarchive/c512w/c512w_-_mcalling.mptm|mptm|Memory Calling
+922493f51c81a4c698c4d552dc6fcf95|+|10m2|c512w,id:ma=213717||modarchive/c512w/c512w_-_dedications.it|it|Dedications
+7fe98e43fa6607e0f02aeac6a4b0aa2e|+|10m2|c512w,id:ma=213716,t:end=112||modarchive/c512w/c512w_-_rchda_v2.xm|xm|Remix Chip Day ! v2
+282be4df28d0d6e6c5ffb2a2aa885aee|+|1021|c512w,id:ma=213714||modarchive/c512w/c512w_-_art.s3m|s3m|A Random Triangle
+ff49ebd512b84c560125f798c1d0d4ae|+|1021|c512w,id:ma=213701,remix||modarchive/c512w/c512w_-_whatischip.s3m|s3m|What is chiptune?
+82f4a64893ac9138915d8d87b26f65f4|+|00m1|c512w,id:ma=213638,village=.8,t:end=96||modarchive/c512w/c512w_-_sunshine_lollipops_n_rainbow.xm|xm|sun lol rai
+2e7cb346951da137bbdceb55ecaf31ce|+|1011|c512w,viraxor,id:ma=213637||modarchive/c512w/c512w_and_viraxor_-_fancy_chase.xm|xm|Fancy chase
+2ddb5c4fdc2ed62d0fb88c522fad8b39|+|10m2|c512w,viraxor,gem,id:ma=213538,t:end=170||modarchive/c512w/c512w_and_viraxor_-_ynf-old.xm|xm|Your new friend(old)
+67fadbbd7126c08fa67f1433e3714630|+|m020|c512w,id:ma=213515,flut||modarchive/c512w/c512w_-_sm64_select_file.it|it|Select File
+5eae134a71591b54e0cf2d84fc49ce26|+|10m2|c512w,id:ma=213509,remix||modarchive/c512w/c512w_-_ihrm4.it|it|Inside her random mind 4
+d6eacd850fb39f50ea8a3b304b566266|+|001w|c512w,id:ma=213420||modarchive/c512w/c512w_-_rttc.it|it|recruit_the_toppat_clans!
 e8430897287e6eec12e8cfaadbda96aa|+|1012|c512w,id:ma=213302||modarchive/c512w/kern_and_c512w_-_kerns_alien.xm|xm|Kern's Alien
 97087436ebd86e9371ad3424b94e5d4d|+|1021|remix,c512w,id:ma=213284||modarchive/c512w/c512w_-_lilchip10remix.xm|xm|lilly chip 10 remix
 c6989943f5a96a1836d727329e00e69b|+|1001|c512w,id:ma=213211||modarchive/c512w/c512w_-_kazotskyvodk3.xm|xm|Kazotsky vOdKadance3
@@ -1268,7 +1286,7 @@ c3e0470b90c52d3e52496cf08ec84071|+|n021|id:ma=201195,josss||modarchive/josss/jos
 d787d3d3a7181acb26f86d97db8b7551|+|0000|flight=.5,id:ma=200819,josss||modarchive/josss/josss_-_ridingagain.mod|mod|riding again
 118111cd07ec4eeea406d3425c4b8aa1|+|0021|id:ma=200818,josss||modarchive/josss/josss_-_supahfunkers.mod|mod|SupahFunkers
 c4f42ad7654298753eeaf91468358c07|+|0011|id:ma=200817,josss||modarchive/josss/josss_-_khriminal.mod|mod|jos-khriminal_
-ae4d917120f651ad9108921dd6551652|+|n020|id:ma=200816,josss||modarchive/josss/josss_-_shortcircuited.mod|mod|short circuited
+ae4d917120f651ad9108921dd6551652|+|n020|id:ma=200816,josss,t:end=100||modarchive/josss/josss_-_shortcircuited.mod|mod|short circuited
 dad77cf36f53f6860be5a463d08b347c|+|u030|id:ma=197710,josss||modarchive/josss/josss_-_stainless_strings.mod|mod|stainless strings
 8fdfa88578558f7069d75c2487424c90|+|n010|id:ma=197709,josss||modarchive/josss/josss_-_khromical_science.mod|mod|khromical science
 4f9d691979f76ae62fb9fa5c93b7f4df|+|u01u|id:ma=197708,josss||modarchive/josss/josss_-_antelogium.mod|mod|antelogium by josss
@@ -1322,45 +1340,45 @@ eca4745256f413371c83395def724365|+|1021|cosm=.5,id:ma=138548,josss||modarchive/j
 e617632bb347801309976141df3ad9f9|+|m041|id:ma=138549,josss||modarchive/josss/sweet_lullaby.xm|xm|Sweet Lullaby
 f2955273fc57dcc8728cbdc41d8d80b8|+|m03s|id:ma=143275,josss||modarchive/josss/angeldevil.xm|xm|Angel&Devil by JosSs
 213b464605243408561f1ddee27ebe6a|+|m012|id:ma=139016,josss||modarchive/josss/da_feelin.xm|xm|Da Feelin' by JosSs
-2983466f600f82feb145c3b2ce44278a|+|_0__|id:ma=135903,josss||modarchive/josss/jazznroll.xm|xm|Jazz'n'Roll by JosSs
+2983466f600f82feb145c3b2ce44278a|+|u011|id:ma=135903,josss,d:v||modarchive/josss/jazznroll.xm|xm|Jazz'n'Roll by JosSs
 215d66fca0dc824ae2b9e98248a328a6|+|n020|id:ma=106359,josss||modarchive/josss/_the_flash_is_back_.mod|mod|-The Flash is Back-
 6c7bb478e95b099403a440f13dcf508b|+|m021|id:ma=104740,josss||modarchive/josss/aroundtheworld.mod|mod|AroundTheWorld JosSs
 9f294966ea76b4d7c4ad575f6ff9fc5f|+|m010|flut,id:ma=104434,josss||modarchive/josss/aztec_soul.mod|mod|Aztec soul
 0ca45ea25c1806c235a5509f52e5a977|+|m011|id:ma=102981,josss,piano||modarchive/josss/blackmissisipi.mod|mod|BlackMissisipi JosSs
 9b61820b23009a1ce259c271f789a0d2|+|2011|id:ma=135906,josss||modarchive/josss/magnetik_girl.xm|xm|Magnetik Girl->JosSs
 788756e51c114e89b7bd823b0dceebf5|+|10m2|id:ma=102889,josss||modarchive/josss/brokenbrain.mod|mod|BrokenBrain by JosSs
-6bdcd94a6e41a0133f678f52b1227ca3|+|_0__|id:ma=104008,josss||modarchive/josss/crazykeyboard.mod|mod|CrazyKeyboard JosSs
+6bdcd94a6e41a0133f678f52b1227ca3|+|n011|id:ma=104008,josss||modarchive/josss/crazykeyboard.mod|mod|CrazyKeyboard JosSs
 12ccfa674b955d37cb75ea4dc4075b6c|+|m021|id:ma=140173,josss||modarchive/josss/my_beach.xm|xm|My Beach By JosSs
 096c73b37625c98d808c0d3787f5bf2e|+|n010|id:ma=136258,josss||modarchive/josss/paranoid-e.xm|xm|pArAnOId-E by JosSs
 d3809a5eea53b86dc3d0c28afcc70da5|+|m011|d:v,id:ma=135645,josss||modarchive/josss/universe96.xm|xm|UNIVERSE'96 by JosSs
 8e1e9956c6da886a57de35f53283c0b5|+|0011|id:ma=104631,josss||modarchive/josss/galileosdeath.mod|mod|Galileo'sDeath JosSs
-8c587a0f071a1e430872a07f95372168|+|_0__|id:ma=105129,josss||modarchive/josss/hammer_hit_of.mod|mod|Hammer Hit of JosSs
-1120f61bccd16c3d5461e69f81d2a87a|+|_0__|id:ma=106718,josss||modarchive/josss/gus_blues.mod|mod|Gus Blues by JosSs
+8c587a0f071a1e430872a07f95372168|+|n01u|id:ma=105129,josss||modarchive/josss/hammer_hit_of.mod|mod|Hammer Hit of JosSs
+1120f61bccd16c3d5461e69f81d2a87a|+|m012|id:ma=106718,josss||modarchive/josss/gus_blues.mod|mod|Gus Blues by JosSs
 f48a162a09e855df2074d523b375985b|+|00m1|id:ma=104930,josss||modarchive/josss/happy_day.mod|mod|Happy Day by JosSs
-a3c68b94306a81448c95ef49fd15b052|+|_0__|d:v,id:ma=104845,josss||modarchive/josss/hard_dance.mod|mod|Hard Dance by JosSs
+a3c68b94306a81448c95ef49fd15b052|+|n010|d:v,id:ma=104845,josss||modarchive/josss/hard_dance.mod|mod|Hard Dance by JosSs
 6547422c61be352e39886a012d39877e|+|0010|id:ma=104382,josss||modarchive/josss/igntncountdown.mod|mod|IgntnCountdown JosSs
 cdeaac133828a89b32ff633eccf475e8|+|0010|id:ma=102916,josss||modarchive/josss/intromission.mod|mod|IntroMission JosSs
 487102e6602d63c2616880abd47facdc|+|m021|id:ma=103358,josss||modarchive/josss/jazzsession.mod|mod|JazzSession by JosSs
-79c6c2bc7a792612e896ccc55c50a2b0|+|_0__|id:ma=105487,josss||modarchive/josss/live_94.mod|mod|Live '94 by JosSs
-29ec74633117c73a0ee297a79eb1b3bf|+|_0__|id:ma=103142,josss||modarchive/josss/nostromossong.mod|mod|Nostromo'sSong JosSs
-9af269c4ecaa3e59eecc768067df07c1|+|_0__|id:ma=105474,josss||modarchive/josss/orbitalvoyager.mod|mod|OrbitalVoyager JosSs
-dff97a7e754c95cb30558cf2ce3e7767|+|_0__|id:ma=103212,josss||modarchive/josss/peeperbeeper.mod|mod|PeeperBeeper JosSs
-58f3b23ee60085576194debfea065e44|+|_0__|id:ma=105344,josss||modarchive/josss/rusticacoustic.mod|mod|RusticAcoustic JosSs
-52d14875f90a3072691d7d403d5f6d01|+|_0__|id:ma=106372,josss||modarchive/josss/senna_eternal.mod|mod|Senna Eternal JosSs
+79c6c2bc7a792612e896ccc55c50a2b0|+|n010|id:ma=105487,josss||modarchive/josss/live_94.mod|mod|Live '94 by JosSs
+29ec74633117c73a0ee297a79eb1b3bf|+|n04s|id:ma=103142,josss||modarchive/josss/nostromossong.mod|mod|Nostromo'sSong JosSs
+9af269c4ecaa3e59eecc768067df07c1|+|n030|id:ma=105474,josss||modarchive/josss/orbitalvoyager.mod|mod|OrbitalVoyager JosSs
+dff97a7e754c95cb30558cf2ce3e7767|+|m031|id:ma=103212,josss||modarchive/josss/peeperbeeper.mod|mod|PeeperBeeper JosSs
+58f3b23ee60085576194debfea065e44|+|n011|id:ma=105344,josss||modarchive/josss/rusticacoustic.mod|mod|RusticAcoustic JosSs
+52d14875f90a3072691d7d403d5f6d01|+|u010|d:v,id:ma=106372,josss||modarchive/josss/senna_eternal.mod|mod|Senna Eternal JosSs
 41a84bb651d86dc4076fb7450ffe22a4|+|1022|id:ma=105016,josss,piano||modarchive/josss/simple_love.mod|mod|Simple love by JosSs
-94e59d81649f8c6ac583b5513cc1f43b|+|_0__|id:ma=103345,josss||modarchive/josss/spanish_shadow.mod|mod|Spanish Shadow JosSs
+94e59d81649f8c6ac583b5513cc1f43b|+|u021|id:ma=103345,josss||modarchive/josss/spanish_shadow.mod|mod|Spanish Shadow JosSs
 d8000a7d9c8b6d10d43334607fdb9a6a|+|0021|id:ma=106177,josss||modarchive/josss/stockholm96.mod|mod|Stockholm96 by JosSs
 4f9b922b9f08b1e1cab2c3482340ca51|+|m011|id:ma=105121,josss||modarchive/josss/sweet_dreams_2.mod|mod|Sweet Dreams 2 JosSs
-cb13a584b2545cf038ef7aa374765921|+|_0__|id:ma=104954,josss||modarchive/josss/synchronimia.mod|mod|Synchronimia JosSs
+cb13a584b2545cf038ef7aa374765921|+|1031|id:ma=104954,josss||modarchive/josss/synchronimia.mod|mod|Synchronimia JosSs
 fbf4a26598e1b01bfedf1c469b82f206|+|u010|d:v,id:ma=104724,josss||modarchive/josss/teknodance.mod|mod|TeknoDance by JosSs
 10605d6b91d95ebc805b14d2a0f8d0bb|+|m011|id:ma=103735,josss,piano||modarchive/josss/thepianoman.mod|mod|ThePianoman by JosSs
-50bf6ec9b6bbb13a3d10950bf3122d4d|+|_0__|id:ma=105926,josss||modarchive/josss/wlcm2paradise.mod|mod|Wlcm2Paradise JosSs
+50bf6ec9b6bbb13a3d10950bf3122d4d|+|m031|id:ma=105926,josss||modarchive/josss/wlcm2paradise.mod|mod|Wlcm2Paradise JosSs
 c197f4dda022dc6c4c748142488a90e4|+|u0__|d:v,id:ma=143067,josss||modarchive/josss/funk_off.xm|xm|Funk Off! by JosSs
 b563473ed747856cc3117bdcb2390952|+|00m1|ekm,id:ma=136259,josss||modarchive/josss/pixeltropia.xm|xm|Pixeltropia by JosSs
-88036a971cd4d9f63c33ad7c6c9407ce|+|_0__|dupsus,id:ma=42487,josss||modarchive/josss/flc_schip.mod|mod|***Starchip***
+88036a971cd4d9f63c33ad7c6c9407ce|+|::::|dup,id:ma=42487,josss||modarchive/josss/flc_schip.mod|mod|***Starchip***
 1eab4bf0cbb25576d70908b8ad367fd0|+|1001|ekm,gem,id:ma=135646,josss||modarchive/josss/xs_edzesss.xm|xm|Xs EdzesSs by JosSs
 29c9a9b4e97ae31857e320ecca0f31f3|+|1021|gem,id:ma=138544,josss||modarchive/josss/reed-e-kal.xm|xm|Reed-e-Kal by JosSs
-f45cc714b1616f8c2f79d38ba4f2ed2c|+|_0__|id:ma=139015,josss||modarchive/josss/da_beat.xm|xm|Da Beat' by JosSs
+f45cc714b1616f8c2f79d38ba4f2ed2c|+|_0__|d:v,id:ma=139015,josss||modarchive/josss/da_beat.xm|xm|Da Beat' by JosSs
 d8eb3a3985639c754e75ccf6626fce87|+|_0__|dupsus,id:ma=46334,josss||modarchive/josss/jos-yr_hmmm.xm|xm|Hmmm by JosSs&Yero
 de20f6798ca81495336f973f5a500f1e|+|3122|id:ma=46236,josss,run|lightweight|modarchive/josss/jos-fuck.xm|xm|FuckDaRippr by JosSs
 956d16ff500df1e2e6ba2ed316f3c6fe|+|10m1|gem,id:ma=140175,josss||modarchive/josss/outofcontrl.xm|xm|OutOfContrl by JosSs
@@ -2915,7 +2933,7 @@ f12599625e068d12895dedfe2fa01e15|+|2121|repeat|passed-hours|kgm/BRD/BRD - Rinjan
 5917b367f4d94f284edce95d285fc7a4|+|2112|summer,svenzzon|wheat-flour|kgm/BReWErS/BReWErS - Conflict - Denied Ops +3 trn.xm|xm|Graduation
 c7d729ddbadc0043cefd52b4265d0b96|+|::::|dup|triangle|kgm/BReWErS/BReWErS - Crimes Of War +5 trn.xm|xm|
 468409b89aa72ebef9691cdb78f2a746|+|1021|||kgm/BReWErS/BReWErS - Driver Parallel Lines +8 trn.xm|xm|Quartex Re-made
-476416b4a467714be2bd9d5d772d7151|+|10m1|||kgm/BReWErS/BReWErS - Far Cry 2 +13 trn.xm|xm|* * * Starchip * * *
+476416b4a467714be2bd9d5d772d7151|+|10m1|id:dup:ma=42487,josss||kgm/BReWErS/BReWErS - Far Cry 2 +13 trn.xm|xm|* * * Starchip * * *
 9f665a87d960bf125f4cd76513495bed|+|n002|remake,xmas|jingle-bells-1|kgm/BReWErS/BReWErS - HellGate London 1.35.44.4020 DX9 +5 trn.xm|xm|Ages Christmas
 2451346dabf924bc7e992c5c9541787f|+|21m2||trillion|kgm/BReWErS/BReWErS - Iron Man +8 trn.xm|xm|being boiled
 8eab9896407ee129d46f44abf67f86a4|+|::::|dup||kgm/BReWErS/BReWErS - James Camerons Avatar 1.02 +7 trn.xm|xm|pizza01
@@ -3109,7 +3127,7 @@ cbd146f56c004303922d95a42d625010|+|n031|||kgm/CORE/CORE - BusyCal 1.5.3 MacOSX k
 d1c698e94cc7563b2d8f81bdba9a6478|+|n010|||kgm/CORE/CORE - CandyWare RarMachine 2.0 MacOSX kg.xm|xm|chase-hq(medleymix)
 7de7e59f950cfd69cb0ad24394c05a8d|+|m010|cosm=.3|ice-finalization|kgm/CORE/CORE - Circus Ponies NoteBook 3.1.1.507 MacOSX kg.xm|xm|nebula.groove
 39a87e179976f99bac2fad8317d7f9cc|+|u010|||kgm/CORE/CORE - Clarus 1.5.6 MacOSX kg.xm|xm|SELECT     / HYPERON
-c9a672c68b6ddb2ad53423e6f6b1f964|+|n030|piano,remake||kgm/CORE/CORE - Code Sorcery Workshop Pukka 1.8.5 MacOSX kg.xm|xm|Reflexion
+c9a672c68b6ddb2ad53423e6f6b1f964|+|n030|piano,remake,t:end=161||kgm/CORE/CORE - Code Sorcery Workshop Pukka 1.8.5 MacOSX kg.xm|xm|Reflexion
 db5eef5d5495e25e9c04641517114a8c|+|10m2|||kgm/CORE/CORE - ConceptDraw Pro NetDiagrammer PlugIn 2.0 MacOSX kg.xm|xm|Phallanx
 9405ffd78032d7af60cd2327f0d2a521|+|n110|remake||kgm/CORE/CORE - CopyWrite 2.297 MacOSX kg.xm|xm|Joint Bells Bo
 3030c9c82dbb7d15502eab781ef2881d|+|n141|||kgm/CORE/CORE - DaisyDisk 2.0.7 MacOSX kg.it|it|all night alone
@@ -3413,7 +3431,7 @@ e6ffc45f82a2051b31207217519ffead|+|10m1|dualtrax,id:ma=41456||kgm/DVT/DVT - WinA
 0277f72f3ff4ba6905008e9a68b4d6c2|+|1011|d:ee,ench,t:end=135|something-enchanted|kgm/DYNAMiCS140685/DYNAMiCS140685 - BWMeter 5.x-6.x crk.mod|mod|something enchanted
 edcce02ed05a37874be11109ae289fb0|+|2121|japan|japanese-winds|kgm/DYNAMiCS140685/DYNAMiCS140685 - BWMeter 6.5.0 crk.xm|xm|<unnamed>
 24040c9b9410fbbfdf035587665bebdb| |____|||kgm/DYNAMiCS140685/DYNAMiCS140685 - BWMeter 6.5.1 crk.ahx|ahx|
-89724fec98000965b29a665323ad6d04|+|n020|||kgm/DYNAMiCS140685/DYNAMiCS140685 - BWMeter 6.5.2 crk.mod|mod|zepeline
+89724fec98000965b29a665323ad6d04|+|n020|d:ee,t:end=158||kgm/DYNAMiCS140685/DYNAMiCS140685 - BWMeter 6.5.2 crk.mod|mod|zepeline
 675df724f4b54446ed07319cbb84ac44|+|m021|||kgm/DYNAMiCS140685/DYNAMiCS140685 - CheckMail 5.4.x crk.xm|xm|
 789a20c3af94c688d0c16822dcfac284|+|n021|||kgm/DYNAMiCS140685/DYNAMiCS140685 - CheckMail 5.5.0 crk.mod|mod|She Drives Me Crazy
 43a62881c8447922fe3eae8f72b5207f|+|n010|||kgm/DYNAMiCS140685/DYNAMiCS140685 - CHM2Word 4.3 crk.xm|xm|
@@ -4041,7 +4059,7 @@ e9c7babbd3cd311371a658223351ce84|+|m020|d:ee,t:end=207||kgm/GEAR/GEAR - IconToy 
 1cf04acff882f5a993a009af0e09c284|+|m011|||kgm/GEAR/GEAR - IOK PromoWare 3.0.0.8 crk.mod|mod|chop suey
 aa599520d9adb7d0bab3ba44198e7f02|+|n011|||kgm/GEAR/GEAR - Make Your Album 1.2.4.x crk.mod|mod|Shadow Movements#2
 dedf15ba045ad7f2c4bd2c1aa2dc52a6|+|0001|remake||kgm/GEAR/GEAR - MSN Webcam Recorder 1.2.0x crk.xm|xm|i love popcorn
-6b4b788ee0dc895bf3eee9f5b3fdc69f|+|m032|||kgm/GEAR/GEAR - Ones 2.0.358 crk.xm|xm|Where are you?
+6b4b788ee0dc895bf3eee9f5b3fdc69f|+|m032|piano,t:end=133||kgm/GEAR/GEAR - Ones 2.0.358 crk.xm|xm|Where are you?
 96fa7f58f68fd7eb98668eeb0841fc46|+|m011|cosm||kgm/GEAR/GEAR - profiSUBMIT 9.3.3 crk.mod|mod|back to my roots
 221b373bbfd097cd9163f17a732ab493|+|n010|grove=.5||kgm/GEAR/GEAR - Slideshow and Diashow pro 9.8 crk.mod|mod|rsi.telephone
 30bf0f25e8ec76f49d4f5e251df3ea6c|+|n020|||kgm/GEAR/GEAR - Stenzel SD Reisekosten Fahrtenbuch 2007 ESTG crk.mod|mod|culhoon
@@ -4249,7 +4267,7 @@ cfd6a8acddfc61ff7ee3d7cfa97b2e42|+|1011|gim|barrel-ship|kgm/HERiTAGE/HERiTAGE - 
 5486a5e501d852dd563694a83283ca81|+|0001|gem||kgm/HERiTAGE/HERiTAGE - Lockdown Plus PC 3.2 crk.mod|mod|koirani me ja sinä
 6e26b792432da5f9c619b238121c1273|+|0020|remix||kgm/HERiTAGE/HERiTAGE - Penguins Mania 1.0 +3 trn.xm|xm|Myth Installer Tune
 b8ee4aca173c8f4c611af29dcd554ab4|+|n03s|||kgm/HERiTAGE/HERiTAGE - Pirateville trn.xm|xm|GoG goes SaaD
-8da6cb74c22a1751e3dab92be6aa0ac6|+|1002|gem||kgm/HERiTAGE/HERiTAGE - RA Eqyptoid 2 +1 trn.xm|xm|crm_alvenbreath
+8da6cb74c22a1751e3dab92be6aa0ac6|+|1002|gem,t:end=104||kgm/HERiTAGE/HERiTAGE - RA Eqyptoid 2 +1 trn.xm|xm|crm_alvenbreath
 0a86cf1b10937278f146a05f1916dfa7|+|1000|flight||kgm/HERiTAGE/HERiTAGE - Registry Easy 3.0 crk.xm|xm|algar - Sid-style
 98ad817653b0bc400f623de9d5e9d0ef|+|1011|summer=.7||kgm/HERiTAGE/HERiTAGE - Rubber Dubber 1.0 +3 trn.xm|xm|sliding rainbow 2
 eccf50852136d364b4c9f1e7daa08537|+|1021|||kgm/HERiTAGE/HERiTAGE - Schach3D 2.8 kg.xm|xm|Orange Juice Theme
@@ -4449,7 +4467,7 @@ de7c1ba7f7659c5fecc18fba3d6cc8dd|+|n010|||kgm/ICU/ICU - X-Setup Pro 9.0.060beta 
 cb7636acba40ced6cb8210df83a16a41|+|m010|||kgm/ICU/ICU - XoftSpySE 4.23 crk.xm|xm|evoke-report#2
 c7437ec656a94b7994939cf220c7cb6d|+|3021|forest|mutant-flower|kgm/ICU/ICU - ZX Games 1.00 kg.xm|xm|dna-dream
 f8d4be4de6f47c849bb598ee1b92381d|+|0000|||kgm/iCWT/iCWT - 1st Mail Server 3.2 crk.mod|mod|santzia's shoes
-8f533fec91dde84dae4a54c2fd06d253|+|n011|rock||kgm/iCWT/iCWT - Akala EXE Lock 3.20 Build 31122 kg.mod|mod|bigrun-title
+8f533fec91dde84dae4a54c2fd06d253|+|n011|rock,screj||kgm/iCWT/iCWT - Akala EXE Lock 3.20 Build 31122 kg.mod|mod|bigrun-title
 8a76d8f0e2f3027762d95bbe77e0ee08|+|x___|||kgm/iCWT/iCWT - AnvSoft DVD Burning Xpress 3.30 crk.mod|mod|hysteria
 505618c20dc22924852eb171447e7e26|+|n010|||kgm/iCWT/iCWT - Avex DVD Ripper Platinum 4.5 B.02 crk.it|it|he plays with tropes
 097f7ca64733747c9ccb01a2cb85eacd|+|n010|||kgm/iCWT/iCWT - Avex DVD to iPod Converter 4.0b1 crk.mod|mod|trichinobezoar
@@ -4741,7 +4759,7 @@ f0b9b66ed52f4f9d451046b736d59332|+|u001|||kgm/Kindly/Kindly - Warmuskerken Plugi
 88211ef0b8056b250695f0e1a901b16c|+|n010|||kgm/Kindly/Kindly - WinSnap 2.1.2 crk.xm|xm|SM-Bloody tears
 2426cc64323f5d3361d5887a93b3cb7e|+|3123|d:ee,dec,t:end=267|no-worries|kgm/KpTeam/KpTeam - Reget Deluxe 4.1.242 kg.xm|xm|
 4c1b40d807fc9b5ad28a1d770392a003|+|n031|||kgm/KpTeam/KpTeam - RegetDxb188 crk.xm|xm|strange land
-f3cf3c5cc1bc68d53cb2545a300e951d|+|m042|t:end=290||kgm/kZ/kZ - Acala DVD iPod Ripper 3.2.2 crk.xm|xm|Dj SM - SummerTime
+f3cf3c5cc1bc68d53cb2545a300e951d|+|m042|t:end=290,garden||kgm/kZ/kZ - Acala DVD iPod Ripper 3.2.2 crk.xm|xm|Dj SM - SummerTime
 c2b06cd2450b2fe74a555f928b27dc5f|+|n021|||kgm/kZ/kZ - Aero SWF.max Flash Player 1.6.862 crk.xm|xm|Dj SM - Radikal
 44061fb9afa790d033adefc86a6c7a0b| |____|||kgm/kZ/kZ - ArtIcons Pro 5.24 crk.v2m|v2m|
 43ac065e7ececf0b2f107aa1de7e6e73|+|x0__|||kgm/kZ/kZ - Ashampoo Gadge It 1.0.0.86.0070u2 crk.mod|mod|0896242096
@@ -5087,7 +5105,7 @@ c925c8704205cfc29b1a101a8476e080|+|11m1|dupsus,remake||kgm/OUTLAWS/OUTLAWS - Ami
 9add28b9a1989386f6bf190eddbe3381|+|0001|||kgm/OUTLAWS/OUTLAWS - Hollywood Tycoon 1.4.9 kg.xm|xm|
 625f979d4281b97efabf975748a9c8ad| |____|||kgm/OUTLAWS/OUTLAWS - Jet Strike intro_1.sc68|sc68|Crystal
 b9c14bcf3a4a68c5a322a742a65ba2ac| |____|||kgm/OUTLAWS/OUTLAWS - Jet Strike intro_2.sc68|sc68|Beat To The Pulp
-07b7e7d8a037de4177c3878be63bd9df|+|n030|||kgm/OUTLAWS/OUTLAWS - Metro 2033 +10 trn.xm|xm|the inconceptual one
+07b7e7d8a037de4177c3878be63bd9df|+|n030|t:end=240||kgm/OUTLAWS/OUTLAWS - Metro 2033 +10 trn.xm|xm|the inconceptual one
 2180f0ac646165f1c1247827c67686cd|+|u00_|||kgm/OUTLAWS/OUTLAWS - Monopoly Galactic Imperia 1.0 crk.xm|xm|
 9ed5e98617b78f369c6542bc76fdc35e|+|0001|||kgm/OUTLAWS/OUTLAWS - Partners In Crime 94 intro.xm|xm|bis
 b9d78d2d6c32f56402fb7aa4e57f324c|+|n011|||kgm/OUTLAWS/OUTLAWS - Transplanet intro.mod|mod|otl-Chippijaje-03
@@ -5183,10 +5201,10 @@ c33215dc5870db65f3c984c6df1ede47|+|d0__|||kgm/PiZZA/PiZZA - Snack 1.0 crk.mod|mo
 2a6c259c7c55eeb183d0870611881418|+|2101|flight|lightning-bolt|kgm/PiZZA/PiZZA - The Settlers. Heritage of Kings 1.05 +5 trn.mod|mod|thunder
 b7e76d2458baa9ddb30a825b448f0b7a|+|n011|||kgm/Postmortem/Postmortem - Arena Wars Reloaded intro.xm|xm|cracktune#1
 9994e5d29ecc3925935875eae06df18e| |____|||kgm/Postmortem/Postmortem - Handball Manager 09 intro.sc68|sc68|Platoon
-3f98040eb5ba3aeafdec24a42c5f3419|+|1011|||kgm/Postmortem/Postmortem - Harley-Davidson Motorcycles intro.xm|xm|
+3f98040eb5ba3aeafdec24a42c5f3419|+|20m2|t:end=170||kgm/Postmortem/Postmortem - Harley-Davidson Motorcycles intro.xm|xm|
 85147becca3ab0748baa1bcbe369f5a7|+|1011|||kgm/Postmortem/Postmortem - Legend Hand of God intro.xm|xm|
 111499c157639a249a850eb5a856fba2|+|n011|||kgm/Postmortem/Postmortem - Motoracer 3 Gold intro.xm|xm|piano
-460f072019c99e701eefc583bfd7b477|+|0001|||kgm/Postmortem/Postmortem - The Show intro.xm|xm|dna_warrior
+460f072019c99e701eefc583bfd7b477|+|00m1|||kgm/Postmortem/Postmortem - The Show intro.xm|xm|dna_warrior
 e3c51ad78e1674ba3d403c0329488d25|+|0021|||kgm/PSC/PSC - 4Leaf Apple TV Video Converter 1.9 crk.mod|mod|liberation
 4aa9b1b0c4f3fc7efd9659d9c771bc6b|+|d0__|||kgm/PSC/PSC - 4Leaf AVI Video Converter 1.5 crk.xm|xm|
 ee9ddbd7a574cf579ecf285d36dd69aa|+|n03u|||kgm/PSC/PSC - 4Leaf FLV Video Converter 1.9 crk.mod|mod|[ life ]
@@ -5423,7 +5441,7 @@ e4d8809c12af66ef69a1c03c20cbc8e7|+|u010|d:v||kgm/RED/RED - EZ Softmagic MP3 CD R
 f2a852595bfda508e4369e0b215d5617|+|u020|||kgm/RED/RED - Farsight Calculator 3.1 kg.xm|xm|Desiderium
 0b886ae142bf254aaf5f7bf3f2f02474|+|::::|dup,stolen||kgm/RED/RED - Fax Machine 4.33 crk.xm|xm|flying away!
 24104e5a0eaa3b40869620a183f350ab|+|n02s|guitar||kgm/RED/RED - Femta Ovulation Calendar 3.1 crk.xm|xm|Just The Way It Is
-eac698d18244bd88efe1c772c096da56|+|n02u|||kgm/RED/RED - File Property Edit Pro 3.51 crk.mod|mod|trickortreatmain
+eac698d18244bd88efe1c772c096da56|+|n02u|hlwn=2||kgm/RED/RED - File Property Edit Pro 3.51 crk.mod|mod|trickortreatmain
 6634e2b7eb76cf3e020ffbc46da7d42c|+|n011|||kgm/RED/RED - GS Typing Tutor 2.99 kg.xm|xm|DanceV
 37524f8fdc2e5e3ba58ecf7046d08fab|+|m021|cosm||kgm/RED/RED - Hootech AIFF MP3 Converter 2.6b799 crk.xm|xm|Vertigo
 fe4229729062f263d28e5dbdaf79d62f|+|d0__|||kgm/RED/RED - HooTech WAV MP3 Converter 2.9 build 889 crk.xm|xm|KilleR - 7x4
@@ -6182,7 +6200,7 @@ ed3648543f5799f5344ed75d3d52dc59| |____|||kgm/TorbyTorrents/TorbyTorrents - BioS
 1cfd2912fc0efa63d8e2f9c0f91517c4|+|1001|||kgm/TorbyTorrents/TorbyTorrents - Black Bird All Products kg.it|it|a forest full of fools
 d3ccf6332be1f3f4f39fcfea07ec1268| |____|||kgm/TorbyTorrents/TorbyTorrents - Black Bird System Info crk.sid|sid|
 31c9d49f9a368bccb1cdc1bce6f52771|+|n020|cosm=.8||kgm/TorbyTorrents/TorbyTorrents - Bluementals Screensaver Factory crk.xm|xm|the ebb
-b98e22c6fcef71f4ed76343afde78ffc|+|1010|||kgm/TorbyTorrents/TorbyTorrents - Bono Longtion Products kg.mod|mod|dark-knights-lament
+b98e22c6fcef71f4ed76343afde78ffc|+|1010|t:end=364||kgm/TorbyTorrents/TorbyTorrents - Bono Longtion Products kg.mod|mod|dark-knights-lament
 75ffaf0858f5df0924c2f8ed1fcc8003|+|1021|cosm=.6||kgm/TorbyTorrents/TorbyTorrents - Borderlands 2 intro.mod|mod|supernova
 af20c1e08f148e0cdc84a63b4f6c7eaa| |____|||kgm/TorbyTorrents/TorbyTorrents - Borderlands 2 trn.amd|amd|
 77df433880f9da3d35a6c3f7ae0b9206|+|1021|cosm=.3||kgm/TorbyTorrents/TorbyTorrents - Borderlands intro.mod|mod|mushroom colored
@@ -6338,7 +6356,7 @@ bc752958497aae9dd6e695e55e5de515|+|0021|||kgm/TorbyTorrents/TorbyTorrents - Seri
 cbb84c6f0ca9774e0785e9128f5d531a| |____|||kgm/TorbyTorrents/TorbyTorrents - Sid Meyer's Civilization 6 intro.sid|sid|
 4de46742751f47e615f7fed2646d52bb|+|1020|remix|tetris-retro|kgm/TorbyTorrents/TorbyTorrents - Size Five Games Collection intro.xm|xm|Tetris Menu
 d31a045ece1b551b181cb0bfb28c6bf5|+|m031|cosm=.6,sorrow||kgm/TorbyTorrents/TorbyTorrents - Skyborn intro.xm|xm|little star
-6c032dbc1ac75fa8e61bc7239132bb15|+|2021|cosm=.8,id:dup:ma=182920||kgm/TorbyTorrents/TorbyTorrents - Skyrim intro.xm|xm|Last step
+6c032dbc1ac75fa8e61bc7239132bb15|+|3021|c512wfav,cosm,id:dup:ma=182920||kgm/TorbyTorrents/TorbyTorrents - Skyrim intro.xm|xm|Last step
 2589c9930d7d9f0ef703e80b39bb341e|+|0000|||kgm/TorbyTorrents/TorbyTorrents - Small Games Collection Multicrk.xm|xm|the postbox
 3afa09da53c8d57d0a12031022d7f6e3| |____|||kgm/TorbyTorrents/TorbyTorrents - Solusseum Maestro Disabler.sid|sid|
 47c5e8dc9783edc619080bcaf77ca4f2| |____|||kgm/TorbyTorrents/TorbyTorrents - Sonic the Hedgehog 2 intro.rad|rad|
@@ -6386,7 +6404,7 @@ fc052b2ef05336d514d4120adcc41ab0|+|0010|||kgm/TorbyTorrents/TorbyTorrents - Tota
 b4b8893aee68744d503fb9457333b874| |____|||kgm/TorbyTorrents/TorbyTorrents - Unreal Tournament 3 intro.sap|sap|
 5d370320fd3104e07860c95fe26ea4a7|+|102u|||kgm/TorbyTorrents/TorbyTorrents - Virtual DJ crkfix intro.xm|xm|EMPTY SONG*Bass Sys.
 41868980df9e5d27179ad5f7b7f3ef0a| |____|||kgm/TorbyTorrents/TorbyTorrents - VMWare Workstation 11 crk.amd|amd|
-cc0d9163da75dc44e08cbd24f4ff5ae3|+|1022|clarity=.4,d:lvol,summer=.6||kgm/TorbyTorrents/TorbyTorrents - Warcraft 3 intro.xm|xm|red soda
+cc0d9163da75dc44e08cbd24f4ff5ae3|+|2022|clarity=.4,d:lvol,summer=.6||kgm/TorbyTorrents/TorbyTorrents - Warcraft 3 intro.xm|xm|red soda
 04f60c2d16822cbe2d20b1b473b46ab0| |____|||kgm/TorbyTorrents/TorbyTorrents - Warcraft intro.hsc|hsc|
 54cbf908106dc2a71b01a72f6f2d6394|+|n011|||kgm/TorbyTorrents/TorbyTorrents - Warez Collection 2015 kg.xm|xm|komhitda theme
 ab8169be9870a20b658c1c8f6e11df2c| |____|||kgm/TorbyTorrents/TorbyTorrents - WinAmp 6 crk_1.ahx|ahx|
