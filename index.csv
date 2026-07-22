@@ -1,14 +1,14 @@
 6db17d27ef25a01174551590ca24cb1d|+|1021|id:ma=180688,radix,summer=.4,t:end=89||modarchive/radix/peachykeen.xm|xm|peachykeen
 0e7ff51e2d4ca901af061d05e3cfcc29|+|n040|id:ma=177362,radix||modarchive/radix/32coop.xm|xm|
-68f8d4b824ff660d799b06e38e9293b8|+|20m2|ekm,gem,id:ma=173206,jng,radix,cerror,summer=.4,t:end=209||modarchive/radix/rainbowdash.xm|xm|Rainbow Dash
+68f8d4b824ff660d799b06e38e9293b8|+|20m2|cerror,ekm,gem,id:ma=173206,jng,radix,summer=.4,t:end=209||modarchive/radix/rainbowdash.xm|xm|Rainbow Dash
 90368ee934775d4891ff9608546b7431|+|n030|id:ma=169628,radix||modarchive/radix/radix_-_feng_shui_schematics.xm|xm|feng shui schematics
 ec0b6070e1000417e1981151a4aaa3c9|+|00m0|gem,id:ma=167158,radix||modarchive/radix/radix_-_bubblefish.xm|xm|bubblefish
 8c76bd78c5fc4f05b4ea08e64902d009|+|n02u|d:v,id:ma=167157,radix||modarchive/radix/radix_-_yuki_satellites.xm|xm|yuki satellites
-19e5aa830e01f8371ffe6ad441001279|+|1001|ekm,gem,summer=.6,id:ma=167156,radix,t:end=148||modarchive/radix/radix_-_the_mission.xm|xm|the mission
+19e5aa830e01f8371ffe6ad441001279|+|1001|ekm,gem,id:ma=167156,radix,summer=.6,t:end=148||modarchive/radix/radix_-_the_mission.xm|xm|the mission
 93aa70b2ccf89f14a0e5a1f54b33ed1b|+|1021|cosm=.4,flight=.6,id:ma=164665,radix,t:end=236||modarchive/radix/radix_-_confusion.mod|mod|confusion
 2936088b1c32bf002ad359fa4c087c96|+|m021|cosm=.4,id:ma=164563,radix,t:end=158||modarchive/radix/radix_-_sunchild.xm|xm|sunchild
 f8b950959a8753c11ea713e370037379|+|0010|id:ma=164539,radix||modarchive/radix/radix_-_friendchip.mod|mod|friendchip
-71ed6a867d28dd032663d06ca8c256cd|+|n000|technoise,id:ma=164532,radix||modarchive/radix/radix_-_scandal.xm|xm|scandal
+71ed6a867d28dd032663d06ca8c256cd|+|n000|id:ma=164532,radix,technoise||modarchive/radix/radix_-_scandal.xm|xm|scandal
 9463bff32011b4e0bced39dee34cac08|+|1020|cosm=.4,id:ma=164417,radix||modarchive/radix/radix_-_nemesis.mod|mod|---===nemesis===----
 dd6155aa5bc17aa3cc6e886582c3c619|+|m021|cosm=.7,id:ma=164258,radix||modarchive/radix/radix_-_icing_invitation.xm|xm|Icing Invitation
 9bb0c291aa1a832ee15690ac35e22895|+|n010|flight=.4,id:ma=164198,radix||modarchive/radix/radix_-_sunrise.mod|mod|sunrise
@@ -18,11 +18,11 @@ e74df4d339eb66353836fb2b362eb421|+|u031|d:v,id:ma=164118,radix||modarchive/radix
 81b6f7294b815783d6dd495566ecf07a|+|n020|cosm=.4,id:ma=164026,radix,t:end=142||modarchive/radix/radix_-_bomb_da_bass.mod|mod|bomb da bass!!
 69db6c2a71942c7bed374b1e104a8075|+|n031|cosm=.6,id:ma=163911,radix||modarchive/radix/radix_-_images.xm|xm|images
 d0d1539b9f1f685dd3271af876e70e5f|+|::::|dup,id:ma=163905,radix||modarchive/radix/radix_-_take_on_me.xm|xm|take on me
-aaf6e31fc688a8a2cb658179b8eb3ae2|+|10m1|summer=.5,id:ma=162008,radix||modarchive/radix/radix_-_you_and_me.xm|xm|you & me
+aaf6e31fc688a8a2cb658179b8eb3ae2|+|10m1|id:ma=162008,radix,summer=.5||modarchive/radix/radix_-_you_and_me.xm|xm|you & me
 18287e685acaa3042bd9e393cd058ab3|+|1021|id:ma=162001,radix||modarchive/radix/radix_-_impact.mod|mod|impact
-b750dabd51dfd20e0bc0f040855125f5|+|u04w|technoise,id:ma=68797,radix||modarchive/radix/dandruff_groove.mod|mod|dandruff groove
+b750dabd51dfd20e0bc0f040855125f5|+|u04w|id:ma=68797,radix,technoise||modarchive/radix/dandruff_groove.mod|mod|dandruff groove
 491a3a703960dd42c415c11553103b00|+|n031|id:ma=68796,radix||modarchive/radix/colours.xm|xm|* CoLoUrS *
-cd9a269acf697c3d11971770da6c37fc|+|0021|summer=.5,gem,id:ma=68794,radix,t:end=118||modarchive/radix/ma_petite_fleur.xm|xm|ma petite fleur
+cd9a269acf697c3d11971770da6c37fc|+|0021|gem,id:ma=68794,radix,summer=.5,t:end=118||modarchive/radix/ma_petite_fleur.xm|xm|ma petite fleur
 02d5bd0a77a17a2d849946c2c70a1924|+|0021|id:ma=68793,radix||modarchive/radix/la_blue_girl.xm|xm|la blue girl
 5f24b28711b24562401e724ebf12ca43|+|::::|dup,id:ma=68792,radix||modarchive/radix/icing_invitation.xm|xm|Icing Invitation
 5f1251b69089956366ff84288ea55166|+|n010|id:ma=68790,radix||modarchive/radix/groovin_moomin.mod|mod|groovin moomin
@@ -33,14 +33,14 @@ d24eed2e682df7922f0d4e4ec361eb64|+|m031|id:ma=68786,radix,t:end=215||modarchive/
 65a6402f89442e49cce84ddd5d72c107|+|m031|id:ma=68784,radix||modarchive/radix/sometimes.xm|xm|sometimes
 41d9ff3a964daf0d090abb8bc1425eea|+|m031|d:v,id:ma=68783,radix||modarchive/radix/seldom_seen.xm|xm|seldom seen
 c3c4d843993c678ea4df0c7366bf0fa6|+|1012|id:ma=67621,radix||modarchive/radix/radix-chiptjat.mod|mod|chiptjat
-90885021042d2af53fcc45e57c473198|+|10m2|summer=.4,id:ma=67619,radix||modarchive/radix/radix-hammastahna.mod|mod|hammastahna
+90885021042d2af53fcc45e57c473198|+|10m2|id:ma=67619,radix,summer=.4||modarchive/radix/radix-hammastahna.mod|mod|hammastahna
 4d8800c57dd0c5cacdc3ffa5f598e464|+|1011|id:ma=67614,radix||modarchive/radix/radix-happy_sundays.mod|mod|happy sundays
 3e42cd743445d61b67b8b57dbcb84cc2|+|2112|c512wfav,gem,id:ma=67609,radix,summer=1.3||modarchive/radix/radix-imaginary_friend.xm|xm|imaginary friend
 7143baaf55aac6cac307b5df47e358c5|+|10m1|gem,id:ma=67592,radix||modarchive/radix/radix-phone_home.mod|mod|radix phone home
-b6b2c8241809567ce52968f2b60607ee|+|20m2|d:ee,gem,juic=.6,t:end=157,summer=.8,id:ma=67590,radix||modarchive/radix/radix-rainy_summerdays.mod|mod|rainy summerdays
+b6b2c8241809567ce52968f2b60607ee|+|20m2|d:ee,gem,id:ma=67590,juic=.6,radix,summer=.8,t:end=157||modarchive/radix/radix-rainy_summerdays.mod|mod|rainy summerdays
 d9f4a42b6a1e220665e1907967449079|+|0011|gem,id:ma=67573,radix||modarchive/radix/radix-weather_girl.xm|xm|weather girl
-6fec4f0b6a7f105e5cafd911f4382463|+|00m1|d:ee,t:end=68,id:ma=67564,radix||modarchive/radix/radix-tpolmboy.xm|xm|tpolmboy
-e69e22d9aa0eb2bfc9fd9c9ad8fcfbc6|+|10m2|gem,summer=.6,id:ma=67562,radix||modarchive/radix/radix-unreal_goes_camping.xm|xm|unreal goes camping
+6fec4f0b6a7f105e5cafd911f4382463|+|00m1|d:ee,id:ma=67564,radix,t:end=68||modarchive/radix/radix-tpolmboy.xm|xm|tpolmboy
+e69e22d9aa0eb2bfc9fd9c9ad8fcfbc6|+|10m2|gem,id:ma=67562,radix,summer=.6||modarchive/radix/radix-unreal_goes_camping.xm|xm|unreal goes camping
 569dd04046a61772d78903a994f9976d|+|1031|gem=.5,id:ma=68795,radix||modarchive/radix/forever_love.it|it|Forever Love
 0703ab75c61c3f0f16c42e14d6339027|+|m021|cosm=.4,id:ma=65108,radix||modarchive/radix/sunjamm.xm|xm|sunjammer
 5eb39b44d46e25744254a9c342cf06b8|+|m021|cosm=.5,id:ma=65090,radix||modarchive/radix/peekaboo.xm|xm|peekaboo
@@ -49,7 +49,7 @@ a3c39d175b5f34c035c4821c517d6652|+|1032|bfuture,id:ma=164527,radix||modarchive/r
 adb7bc300bd708e9e06e4b2990e9f9fe|+|0001|id:ma=117382,radix||modarchive/radix/libero_soundtrack.mod|mod|libero.soundtrack
 9474df97e59eade0fde9d85e1537c2a0|+|0011|id:ma=118323,radix||modarchive/radix/system_opera.mod|mod|system opera
 b856ccfadc721b25dc0f77cbe0981403|+|u010|id:ma=148489,radix||modarchive/radix/deus_ex_machina_ii.xm|xm|
-2b9844b84ce8318a44eb853627e6572c|+|m031|d:v,id:ma=148452,radix,t:start=3,t:end=314||modarchive/radix/a_shogun_named_paul.xm|xm|a shogun named paul
+2b9844b84ce8318a44eb853627e6572c|+|m031|d:v,id:ma=148452,radix,t:end=314,t:start=3||modarchive/radix/a_shogun_named_paul.xm|xm|a shogun named paul
 82a83b4c28fc0b6babc8641ad081ac05|+|m021|id:ma=148453,radix,t:end=135||modarchive/radix/abbey_road.xm|xm|Abbey Road
 6fa026c02dfb082c7cfe5415c5575b5f|+|1021|cosm,id:ma=148458,radix,t:end=157||modarchive/radix/donovans_moonbike.xm|xm|donovan's moonbike
 0e2a46ebbc06b6795038ac9840db6eca|+|n021|cosm=.6,id:ma=117686,radix,t:end=363||modarchive/radix/family_ties_final.mod|mod|family ties final
@@ -118,7 +118,7 @@ ff27b80eebe16b6a51310393aeb71fc3|+|_0__|id:ma=148474,radix||modarchive/radix/riv
 56d3100488d378f91408070cd84f04d9|+|_0__|id:ma=148475,radix||modarchive/radix/sarsippius_ark.xm|xm|sarsippius' ark
 6648ff39c683d6acddfe933a48abf90a|+|_0__|id:ma=148476,radix||modarchive/radix/saucers.xm|xm|saucers
 35e832564de8eb59ec89445038c1b264|+|_0__|id:ma=148487,radix||modarchive/radix/shapes.xm|xm|shapes
-936d558dba56b7fb16584e772a91d6b2|+|n011|juic=1.6,id:ma=118439,radix||modarchive/radix/space-spasms.mod|mod|space-spasms
+936d558dba56b7fb16584e772a91d6b2|+|n011|id:ma=118439,juic=1.6,radix||modarchive/radix/space-spasms.mod|mod|space-spasms
 599a4dff8dd24db7dfb18db503359c6c|+|_0__|id:ma=116302,radix||modarchive/radix/spaceblinded.mod|mod|spaceblinded
 197421d4360fa32a8e685820b7c11ca6|+|_0__|id:ma=116307,radix||modarchive/radix/spaceflowers_part_1.mod|mod|spaceflowers part#1
 ec1d6455cd3a68db4fabeb0959effe72|+|_0__|id:ma=117524,radix||modarchive/radix/sunrise_part2.mod|mod|sunrise (part2)
@@ -141,12 +141,11 @@ bbc343b961c7e0e5fee4df8da9ad2d0f|+|_0__|id:ma=148481,radix||modarchive/radix/tra
 ea506827867dce2d8cbf32cccb2bb05a|+|m021|gem,id:ma=46568,radix||modarchive/radix/judo.xm|xm|judo grooves
 0a795fe8dc785a56a298c2513141587d|+|m021|id:ma=36474,radix||modarchive/radix/beyond_.mod|mod|beyond
 5942590b337030df9eb8039b24a0e173|+|1021|cosm=.4,id:ma=53201,radix||modarchive/radix/mushrooc.mod|mod|mushroom colored
-2bceebead94d314f9084c884db47ead6|+|2112|gem=2.5,summer=.5,id:ma=53421,radix||modarchive/radix/paul.mod|mod|paul the penguin
+2bceebead94d314f9084c884db47ead6|+|2112|gem=2.5,id:ma=53421,radix,summer=.5||modarchive/radix/paul.mod|mod|paul the penguin
 86598ecdf9ebba5db89c340f52f1ac71|+|0011|grove,id:ma=116047,radix||modarchive/radix/bridget_hall.mod|mod|bridget hall
-f7c1ac76f56424a4e2b956e70ab2b6ae|+|21m2|gem,summer=.5,id:ma=38799,radix|bright-eyes|modarchive/radix/bright_e.xm|xm|bright eyes
+f7c1ac76f56424a4e2b956e70ab2b6ae|+|21m2|gem,id:ma=38799,radix,summer=.5|bright-eyes|modarchive/radix/bright_e.xm|xm|bright eyes
 57bbb97cd3cddb4f1b58ff36227e9551|+|u030|d:v,id:ma=148463,radix||modarchive/radix/i_realize_compo_edit.xm|xm|i realize
 0da89f50e4908dda3c54c7e677146d0e|+|n020|id:ma=114971,radix,t:end=122||modarchive/radix/tilbury_fair.mod|mod|tilbury fair
-
 04318458581491be90cc0c7e51e2b1a7|+|n010|d:v,drozerix,id:ma=209692,t:end=218||modarchive/drozerix/drozerix_-_silicon_dancer.mod|mod|Silicon Dancer
 d76e39d43c05203b0a6d41f13431cb44|+|n010|drozerix,id:ma=209624||modarchive/drozerix/drozerix_-_perfect_pale.it|it|Perfect Pale
 4ecbc5458a4b6afd22feb5c0cf7ebeec|+|0000|drozerix,id:ma=209551||modarchive/drozerix/drozerix_-_assembly!.xm|xm|Assembly!
@@ -240,7 +239,7 @@ ba517e877c3551cfc5015481d5409d19|+|001u|id:ma=166065,maktone||modarchive/maktone
 7249adb5def58a107ac9f12b674bd5cd|+|2021|id:ma=107919,maktone,repeat,sour=.5||modarchive/maktone/powerplant.mod|mod|powerplant
 95c73fd2003533c1db67684dd49f064d|+|1011|id:ma=108867,maktone||modarchive/maktone/boozeline_2006.mod|mod|boozeline 2006
 8af8c087ba091084d4396ebcee7f2946|+|0000|id:ma=43067,maktone||modarchive/maktone/foj.mod|mod|fuck off josefin
-658683c2a396db51f232fded31e45f34|+|0010|sour=.5,id:ma=166481,maktone||modarchive/maktone/maktone_-_check.mod|mod|check
+658683c2a396db51f232fded31e45f34|+|0010|id:ma=166481,maktone,sour=.5||modarchive/maktone/maktone_-_check.mod|mod|check
 072b22b78ddecf46031d37b0d00814e9|+|0001|id:ma=55182,maktone||modarchive/maktone/pizza02.mod|mod|pizza02.attack
 8ab86102e6347fdd8db06250bf25dc5d|+|1001|id:ma=33800,maktone,sour||modarchive/maktone/apati.mod|mod|apati
 22f5e6436318630bdedf63d113b94a2e|+|0001|id:ma=35096,maktone||modarchive/maktone/baloo.mod|mod|baloo
@@ -785,7 +784,7 @@ b9e9dda3b6f7c2bfcca916d735bb2a9c|+|1011|c512wfav,grove=.4,id:ma=208935||modarchi
 54fa0f73b9603f38416f1df933651adc|+|m020|c512wfav,id:ma=211874||modarchive/glebogryzarka_-_morning_jogging_hamster_style.xm|xm|morn jogg hamst styl
 842ef1d628085a86e24708667a407b79|+|212s|c512wfav,id:ma=66674,sour=.5||modarchive/wotw-commodore_rulez.mod|mod|commodore rulez!
 620a5d10fc4d25dddb1dce04001541a9|+|n010|c512wfav,id:ma=211869,t:end=229||modarchive/gmn-bts.xm|xm|back to saturn
-8adbe198e4aca982782c0e6288c3ebdd|+|n040|cosm=.4,c512wfav,id:ma=211804||modarchive/ether_-_the_search_in_the_ether.mptm|mptm|The Search in the Ether
+8adbe198e4aca982782c0e6288c3ebdd|+|n040|c512wfav,cosm=.4,id:ma=211804||modarchive/ether_-_the_search_in_the_ether.mptm|mptm|The Search in the Ether
 ef0a53c79cc8461a9d27af953dbbaf7a|+|n031|c512wfav,id:ma=211821||modarchive/ether_audio_-_position_5.mptm|mptm|Position 5
 68c2d38291386b498aa4ba47354e3315|+|m031|c512wfav,id:ma=211778,viraxor||modarchive/viraxor/viraxor_-_waltzing_on_the_moon.xm|xm|waltzing on the moon
 f46f33292b1d291de34e055bdff7d4dc|+|n020|c512wfav,id:ma=211801,xmas||modarchive/beyond_-_shortchristmas.it|it|Short christmas
@@ -1239,7 +1238,7 @@ ee392b26b6c8442342fa74b845eb0018|+|m011|id:ma=151558||modarchive/pulled_from_air
 8ed79437fb2d0bc63b4e21d58da33138|+|n030|id:ma=148035||modarchive/reflection.xm|xm|reflection (b)
 2a2a5c95d0afefd0db12c2a6312610f3|+|m021|cosm,id:ma=148037||modarchive/sky_travel.xm|xm|sky travel
 462fe9d670eea653236b3574aabbb8cd|+|n02u|id:ma=148038||modarchive/skys.xm|xm|Sky's
-3a08bebae8da77ca4a3592ac2de2c01b|+|m031|id:ma=163222,slightly_magic,t:end=240||modarchive/slightly_magic_-_beauty_makes_us_suffer.it|it|Beauty makes us suffer
+3a08bebae8da77ca4a3592ac2de2c01b|+|m031|cosm=.5,id:ma=163222,slightly_magic,t:end=240||modarchive/slightly_magic_-_beauty_makes_us_suffer.it|it|Beauty makes us suffer
 d2553f8e77a81aa1f16e920296a75078|+|m031|id:ma=163223,slightly_magic||modarchive/slightly_magic_-_forgotten_sunrise.it|it|Forgotten sunrise
 39c3d69d8dc52d3ac2e273eacfa3de09|+|2022|id:ma=163226,slightly_magic,t:end=275||modarchive/slightly_magic_-_new_year_melodie.it|it|New year melodie
 074d9968f547778ddaec21fb22838364|+|1031|cosm,id:ma=163228,slightly_magic||modarchive/slightly_magic_-_spacecraft.it|it|Spacecraft
@@ -1262,13 +1261,12 @@ a85219c25a637a1e9311029aed1df7c0|+|1011|id:ma=207839,viraxor||modarchive/viraxor
 7c09a71d206217ec67d36a65346a6f5a|+|0010|id:ma=202107,viraxor||modarchive/viraxor/viraxor_-_rough_start.xm|xm|rough start
 dd297ad27452cb4a9086417e71ce5446|+|1021|id:ma=200448,viraxor||modarchive/viraxor/viraxor_-_32k_love.it|it|32k love
 3e519c3abdf792d840f75c226f3ea97c|+|21m2|id:ma=164852||modarchive/joe_-_judgement_day.mod|mod|judgement day
-
 54eb647d3981a4cfbaf41e337605776c|+|1021|c512w,id:ma=214358,t:end=249||modarchive/c512w/c512w_-_impostersyndrome.mptm|mptm|Impostor Syndrome
 e65900918ec4242b12308c227318832c|+|1011|c512w,id:ma=214287,t:end=142||modarchive/c512w/c512w_-_chip512.xm|xm|Chip512
-1d2bca7776da10bf4544dddce51bdc5c|+|1011|remix,hybrid,c512w,id:ma=214227||modarchive/c512w/c512w_-_melodynal.xm|xm|Hybrid Melody Remix
+1d2bca7776da10bf4544dddce51bdc5c|+|1011|c512w,hybrid,id:ma=214227,remix||modarchive/c512w/c512w_-_melodynal.xm|xm|Hybrid Melody Remix
 c71992e982f36d8d66294c06d3040d48|+|1010|c512w,id:ma=214211||modarchive/c512w/c512w_-_blackhole.mod|mod|Black Hole Song
 23c83c2411a4c19d8eeb83677f0e0356|+|2011|c512w,id:ma=214105||modarchive/c512w/c512w_-_credits_scan_for_my_death.it|it|credits scan for my death
-b80cb976a956a9d134bc3cc98f5be4b7|+|10m1|remix,c512w,id:ma=214058,t:end=76||modarchive/c512w/c512w_-_icecm.mod|mod|Ice Cream Melody
+b80cb976a956a9d134bc3cc98f5be4b7|+|10m1|c512w,id:ma=214058,remix,t:end=76||modarchive/c512w/c512w_-_icecm.mod|mod|Ice Cream Melody
 e9e3461f4a181411569680043e0e5f02|+|1011|c512w,id:ma=214056||modarchive/c512w/c512w_-_ltm.xm|xm|Looping The Modules
 1ce78e8e1bca9583b87bd132b66f651e|+|1021|c512w,gem,id:ma=214040,remix||modarchive/c512w/c512w_-_remixasd.mptm|mptm|AcuteStressDisorder Remix
 69e085207e74e9c6186d29fd678683d1|+|0000|c512w,id:ma=214016||modarchive/c512w/c512w_-_andy.mod|mod|Andy MOD
@@ -1703,10 +1701,10 @@ a22e9dd9c5ff3fe3a4fceff857791ebc|+|m031|cosm=.7,energy,id:ma=52783,mrg||modarchi
 e0728d69dc2fcaed76829037236943f2|+|m021|id:ma=52853,mrg||modarchive/mrg/mrgsimpl.xm|xm|Just Simple (XM ED)
 e692cfbf57c96a8d6e435e7c91ef4767|+|2031|cosm=1.2,id:ma=52867,mrg||modarchive/mrg/mrgspace.xm|xm|SpaceNight by MrG
 1867ee8d7300e4613a62bd67d2e8e5e7|+|203u|cosm=1.1,id:ma=52874,mrg||modarchive/mrg/mrgstrat.xm|xm|Over Strato
-7038e09bbb7dd5b88c51f7d9f30e7c39|+|m021|id:ma=52895,mrg||modarchive/mrg/mrgwalk.xm|xm|Walking In Lysekil..
+7038e09bbb7dd5b88c51f7d9f30e7c39|+|m021|cosm=.4,id:ma=52895,mrg||modarchive/mrg/mrgwalk.xm|xm|Walking In Lysekil..
 4cc4e02f980134ec1284a9d582b51f96|+|10m1|id:ma=52892,mrg||modarchive/mrg/mrgvic20.xm|xm|Return of Vic-20
 efd5ebdc89d5e574fa233a1c982fd460|+|n020|d:v,id:ma=157457||modarchive/shyz_-_p_s_y_c_h_o_p_u_l_s.xm|xm|p s y c h o p u l s
-5a39bbbb73fe2843061b8e00e48fc747|+|m021|cosm=.5,ekm,jng,id:ma=176176,t:end=257||modarchive/vince_kaichan_-_milky_way.it|it|ama no gawa
+5a39bbbb73fe2843061b8e00e48fc747|+|m021|cosm=.5,ekm,id:ma=176176,jng,t:end=257||modarchive/vince_kaichan_-_milky_way.it|it|ama no gawa
 d24d4a6f10380795164c48a6b0065fa2|+|m032|clarity,ekm,id:ma=168881||modarchive/malmen_and_joule-tomorrow_without_you.xm|xm|tomorrow without you
 3418a17f491025debd345310e3bf0c28|+|1011|ekm,gem,id:ma=162324||modarchive/ko0x_-_zenon.xm|xm|zenon
 bfa4714de398ddbfb5ed0532e651a44e|+|1001|ekm,id:ma=36654||modarchive/db_sts2.xm|xm|Botkyrka Sidekickers
@@ -1841,7 +1839,7 @@ fda2fb46fb57b16595e9c193c76fa45d|+|m142|cosm,id:ma=34415,t:end=297|aquarious|mod
 bfbde3d98b731a71547e2854cb083540|+|m142|bfuture,cosm=1.5,id:ma=199178,screj,sunrise,t:end=227|moonrise|modarchive/bfmoon.it|it|Moonrise
 8d714b6c64dbcee545036a2c62550315|+|11m1|id:ma=36859||modarchive/chipstry.mod|mod|The Chippy Story
 dbe8c141faa5cfdffe42433eb70e87ef|+|3132|bfuture,id:ma=34553,sunrise|bright-tomorrow|modarchive/BALLAD3.S3M|s3m|The Last Ballad
-df21c206df4b69a625afdf1a2317d1c6|+|3121|remix,hybrid,conveyor,d:vlc:ej,id:ma=181316,t:end=312|outnumberous|modarchive/chip_and_demmas_-_mostly_harmless_theme.it|it|Mostly Harmless Theme
+df21c206df4b69a625afdf1a2317d1c6|+|3121|conveyor,d:vlc:ej,hybrid,id:ma=181316,remix,t:end=312|outnumberous|modarchive/chip_and_demmas_-_mostly_harmless_theme.it|it|Mostly Harmless Theme
 8b13da2ad572456a438f623fd9207445|+|3122|id:ma=170504,slq,t:end=262|fruit-bat|modarchive/beek_and_virt_-_fruitbat.it|it|fruitbat
 97ec01d5c546c9cba8094ac79d988175|+|m141|bfuture,id:ma=173364,sunrise|night-outro|modarchive/ingame.it|it|Pocket Tanks (ingame)
 93c767de7a1c96f77a6c24a267f9b4b2|+|m13s|frost,id:ma=177772||modarchive/cold_breath.xm|xm|Cold Breath / Merlin
@@ -2394,7 +2392,7 @@ c545b8210c572d8f07bbc8d16a508faf|+|20m2|d:v,energy,ice,t:end=186|ice-complexity|
 8dd406e9aa4b0c1701dba7cc10dd95da|+|n011|d:ee,t:end=130||kgm/!Others/ROCK - Professional Notepad 2.6 kg.xm|xm|
 779a686c93782e75fadedb9a79291215|+|1011|flight=.6||kgm/!Others/ROCK - ZipRecord 1.21 kg.xm|xm|timeless
 9f3b9b06b60122ec28b868f16a26f940|+|2131|d:ee,t:end=217|helping-eachother|kgm/!Others/ROR - DVD Photo Slideshow 3.0 kg.xm|xm|
-c08b50657b5f1cc74eb72638c276a588|+|1111|d:ee,remix,hybrid,t:end=240|numbers-decomposed|kgm/!Others/ROR - VirtualDrivePersonal8.0 kg.xm|xm|Funky Stars RMX
+c08b50657b5f1cc74eb72638c276a588|+|1111|d:ee,hybrid,remix,t:end=240|numbers-decomposed|kgm/!Others/ROR - VirtualDrivePersonal8.0 kg.xm|xm|Funky Stars RMX
 f22e20cc434dd6736486fc2685470915|+|n010|||kgm/!Others/RR Works - Cucusoft Ultimate DVD Video Converter Suite 7.6.7 crk.mod|mod|Der Elk Ist Tot
 4e7f65fc13e0bda5e728273afec9c26b|+|0011|||kgm/!Others/RSP - Windows Vista memory crk.xm|xm|ajx gianahighscore.2
 5412ba2b4498793c4c6353cdb7879366|+|n03u|||kgm/!Others/SAB + XOR37H - Rixler Access Password Recovery Master 1.0 kg.xm|xm|cosmetic
@@ -2884,7 +2882,7 @@ cf39392a22d0e4054ba41c01af6fb090|+|n031|||kgm/AT4RE/AT4RE - Internet Download Ma
 234d68f620d6aa9e6e370be536344725|+|n041|||kgm/AT4RE/AT4RE - KeyLemon 2.4.4 crk.xm|xm|Egypt Revelution
 da39d9539cb7de79b2a6c99214a891f7|+|m031|||kgm/AT4RE/AT4RE - LanFlow 6.00.2011 crk.xm|xm|Theme from Cheers
 c73160c32cdf2f129632425927bc2580|+|n021|||kgm/AT4RE/AT4RE - Limewire Turbo Accelerator 4.2.7 crk.it|it|chubby girl
-93027bfba67f6c799636a5e6a770af2c|+|2111|radix,crud,summer=.5,id:dup:ma=114778|stubborn|kgm/AT4RE/AT4RE - Magic Audio Recorder 5.4.1serial.xm|xm|--==brainless 3==--
+93027bfba67f6c799636a5e6a770af2c|+|2111|crud,id:dup:ma=114778,radix,summer=.5|stubborn|kgm/AT4RE/AT4RE - Magic Audio Recorder 5.4.1serial.xm|xm|--==brainless 3==--
 e07127e2fb8544c3a456003dfb75cc18|+|n020|arabic||kgm/AT4RE/AT4RE - MagicTweak 4.01 kg.xm|xm|
 70559b7f9a8e64f84dbe89c3ae99f874|+|::::|dup||kgm/AT4RE/AT4RE - MakBit Virtual CD-DVD 1.3.0.0 serials.xm|xm|s!p.intro
 41c1e1a04d0f8afdeb369052f7dd5b47|+|x0__|d:v||kgm/AT4RE/AT4RE - Mixcraft Recording Studio 3.1b36 crk.s3m|s3m|
@@ -4996,7 +4994,7 @@ ad7de1caa71aec55df99d6ee4ab43aef|+|::::|dup||kgm/live_4_ever/live_4_ever - Hitma
 3aaaa9a66659a2f3169f3667faeee141|+|x0__|||kgm/live_4_ever/live_4_ever - Ignite 1.0 +1 trn.xm|xm|Fast Mod for Slach'
 9f12edb33a79165e6e869faeef9238d4|+|1011|flight||kgm/live_4_ever/live_4_ever - Jane's Advanced Strike Fighters All Versions +1 trn.xm|xm|live in harmony
 5c060069200e9c4948807e26f94880ce|+|00m1|||kgm/LnDL/LnDL - Ashampoo Products kg.mod|mod|gods of war
-e8dbe649e648636179dfbb3e526b754d|+|2021|radix,remake,id:dup:ma=163905|take-on-me|kgm/LnDL/LnDL - Atomic Player 3.0.6.13 kg.xm|xm|take on me
+e8dbe649e648636179dfbb3e526b754d|+|2021|id:dup:ma=163905,radix,remake|take-on-me|kgm/LnDL/LnDL - Atomic Player 3.0.6.13 kg.xm|xm|take on me
 e072280764e3d0fb554b340c95ccde7f|+|n031|dotmonth,sorrow||kgm/LnDL/LnDL - B.Vormbaum EDV AutoMail 2.3.0.0 crk.xm|xm|.december...
 8794c98c7e2c0bf5448fe674f4642366|+|n03s|dotmonth,sorrow=2||kgm/LnDL/LnDL - B.Vormbaum EDV Hybrid L 1.36.0.0 crk.xm|xm|.july...
 085344682847dca6ba614f0fe840c9e6|+|1011|||kgm/LnDL/LnDL - Grindsoft Trojan Killer 2.0.7.7 crk.mod|mod|laxity
@@ -6846,7 +6844,7 @@ c8e981a1e80f5aecfe88d004163281e9|+|0021|t:end=114||kgm/tRUE/tRUE - Pic10F Simula
 7de5af64f43f1ccf8a20bc81ce7d8e46|+|0021|||kgm/tRUE/tRUE - Power of Silence 1.0 crk.xm|xm|tRUE team forever
 0961553c9244910067d4e15e6b2c4752|+|x0__|d:v||kgm/tRUE/tRUE - Respectsoft Weather Clock 3.6 crk.xm|xm|time.is.bunk
 8f1f39109628d631a76f37145e609ba9|+|0021|cosm=.6||kgm/tRUE/tRUE - Sexy Poker 5.01b crk.xm|xm|.cryptic-Xylitol
-396730f923c6af2fa74eb847efac69fb|+|3022|cosm,school=.5,t:end=318,awesome||kgm/tRUE/tRUE - Soft Vox 6 crk.xm|xm|" Techn-o-logical "
+396730f923c6af2fa74eb847efac69fb|+|3022|awesome,cosm,school=.5,t:end=318||kgm/tRUE/tRUE - Soft Vox 6 crk.xm|xm|" Techn-o-logical "
 d10e78f85b0349666c61d7fb83569699| |____|||kgm/tRUE/tRUE - SolSuite 2008 8.10 crk.mid|mid|
 5d50bc56ee42c14d5a057d58f5f2a07f|+|n010|||kgm/tRUE/tRUE - SolSuite 2008 8.2 crk.xm|xm|
 c657813c225776d9b4b7438437f74060|+|m031|||kgm/tRUE/tRUE - SolSuite 2008 8.3 crk.it|it|Because.
