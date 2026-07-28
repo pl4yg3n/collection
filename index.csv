@@ -1,6 +1,7 @@
+c0e8cb9152521b3fda2b8b47f84c0268|+|20m2|cerror,gem,id:ma=213245||modarchive/cerror/cerror_-_crack_05.xm|xm|crack_05
 6db17d27ef25a01174551590ca24cb1d|+|1021|id:ma=180688,radix,summer=.4,t:end=89||modarchive/radix/peachykeen.xm|xm|peachykeen
 0e7ff51e2d4ca901af061d05e3cfcc29|+|n040|id:ma=177362,radix||modarchive/radix/32coop.xm|xm|
-68f8d4b824ff660d799b06e38e9293b8|+|20m2|cerror,ekm,gem,id:ma=173206,jng,radix,summer=.4,t:end=209||modarchive/radix/rainbowdash.xm|xm|Rainbow Dash
+68f8d4b824ff660d799b06e38e9293b8|+|30m2|cerror,ekm,gem,id:ma=173206,jng,radix,summer=.4,t:end=209||modarchive/radix/rainbowdash.xm|xm|Rainbow Dash
 90368ee934775d4891ff9608546b7431|+|n030|id:ma=169628,radix||modarchive/radix/radix_-_feng_shui_schematics.xm|xm|feng shui schematics
 ec0b6070e1000417e1981151a4aaa3c9|+|00m0|gem,id:ma=167158,radix||modarchive/radix/radix_-_bubblefish.xm|xm|bubblefish
 8c76bd78c5fc4f05b4ea08e64902d009|+|n02u|d:v,id:ma=167157,radix||modarchive/radix/radix_-_yuki_satellites.xm|xm|yuki satellites
@@ -58,16 +59,16 @@ c140ea480e088dca1f3ef83a1b1d3771|+|1022|cosm,id:ma=148465,radix||modarchive/radi
 73f1906c91d10ab26b60f58f192279cf|+|m031|id:ma=148472,radix,t:end=146||modarchive/radix/pony_pop_princess.xm|xm|pony pop princess
 ea5401c17193940237c4239495fb23a1|+|1011|id:ma=114751,radix||modarchive/radix/soultrain.mod|mod|soultrain
 d7942b5bb5b937bbdf73ac6accbb6665|+|n010|id:ma=117933,radix,t:end=128||modarchive/radix/arnie_ate_my_waltz.mod|mod|arnie ate my waltz
-3389b5a4f6a33bc96b59b7b361763b0c|+|_0__|id:ma=116587,radix||modarchive/radix/bionic.mod|mod|--== bionic ==--
-0ecd79034bbad4112ff1111d05d0e9f3|+|_0__|id:ma=116933,radix||modarchive/radix/brainless_2.mod|mod|brainless2
+3389b5a4f6a33bc96b59b7b361763b0c|+|n010|id:ma=116587,radix||modarchive/radix/bionic.mod|mod|--== bionic ==--
+0ecd79034bbad4112ff1111d05d0e9f3|+|000s|id:ma=116933,radix||modarchive/radix/brainless_2.mod|mod|brainless2
 85e1e4d7be569fac9a564e9b24eb9723|+|::::|dup,id:ma=114778,radix||modarchive/radix/brainless_3.mod|mod|--==brainless 3==--
-bc3be8e0335b5be0f7fbf5f19e8bf386|+|_0__|id:ma=114490,radix||modarchive/radix/breakbeat_17.mod|mod|breakbeat.17
+bc3be8e0335b5be0f7fbf5f19e8bf386|+|u010|technoise,id:ma=114490,radix||modarchive/radix/breakbeat_17.mod|mod|breakbeat.17
 7adeb6ffd7feb982fb47582ee6602c2f|+|u03u|id:ma=117915,radix||modarchive/radix/captured_dreams_2.mod|mod|Captured Dreams.2
-18a1a84aae727e804c639c4a3c9f488c|+|_0__|id:ma=148454,radix||modarchive/radix/cascade.xm|xm|cascade
-48b86282b380ea6fb231331875602a83|+|_0__|id:ma=119518,radix||modarchive/radix/check_yer_feet.mod|mod|check yer feet
+18a1a84aae727e804c639c4a3c9f488c|+|n020|id:ma=148454,radix||modarchive/radix/cascade.xm|xm|cascade
+48b86282b380ea6fb231331875602a83|+|u02u|id:ma=119518,radix||modarchive/radix/check_yer_feet.mod|mod|check yer feet
 229e559e51e31249641bc445288cdbe5|+|::::|dup,id:ma=148455,radix||modarchive/radix/check_yer_feet.xm|xm|check yer feet
-31dcee67f7f855fdcfe0f1c353f694e4|+|_0__|id:ma=120288,radix||modarchive/radix/chip_experience.mod|mod|chip experience
-c97c3bf00715f4c45a655123bc9c9912|+|_0__|id:ma=117380,radix||modarchive/radix/clairvoyance.mod|mod|clairvoyance
+31dcee67f7f855fdcfe0f1c353f694e4|+|0010|id:ma=120288,radix||modarchive/radix/chip_experience.mod|mod|chip experience
+c97c3bf00715f4c45a655123bc9c9912|+|n030|id:ma=117380,radix||modarchive/radix/clairvoyance.mod|mod|clairvoyance
 22cf1901fdcf06f6fed4e709f687cc15|+|_0__|id:ma=119861,radix||modarchive/radix/convulsion_to_obey.mod|mod|convulsion to obey
 f57b133c9ed3c12822ce113f143a3c25|+|_0__|id:ma=115119,radix||modarchive/radix/cosmix.mod|mod|cosmix
 dd8575e3bef1603f48ecbbe6a5c3ef6b|+|_0__|id:ma=148457,radix||modarchive/radix/daytripper.xm|xm|Daytripper
@@ -204,7 +205,7 @@ ee0b4eae39288e175a08847cacd3be9d|+|1011|drozerix,id:ma=173936||modarchive/drozer
 7fa3ccae09361970dfb08a05a6bd756c|+|2011|drozerix,id:ma=173935||modarchive/drozerix/girl_from_mars.xm|xm|Girl From Mars
 a1adcae2da3cf25e05e648c58c0a1bb1|+|1001|drozerix,id:ma=173934||modarchive/drozerix/the_radix_point.xm|xm|The Radix Point
 e6aa4637e85319a2d59d7c4315a5f953|+|1000|conveyor,drozerix,id:ma=173086||modarchive/drozerix/knuckles_sucks!.xm|xm|Knuckles_Sucks!
-acf720b23eea3792d55a7f5d7392c0aa|+|1021|drozerix,hack=.4,id:ma=173084|power-up|modarchive/drozerix/october_chip.xm|xm|October_Chip
+acf720b23eea3792d55a7f5d7392c0aa|+|2021|drozerix,hack=.4,id:ma=173084|power-up|modarchive/drozerix/october_chip.xm|xm|October_Chip
 b0f6e442dcd6209e4cd41115659c11f4|+|1000|drozerix,id:ma=173082||modarchive/drozerix/nerve_intro2.xm|xm|Nerve_2.00
 38aceabe681dfad0a17dc6598ea6b2b0|+|1001|drozerix,id:ma=173081||modarchive/drozerix/nerve_intro.xm|xm|Nerve_intro
 1aad42ca9ff07cd4ff60b2f2e4735a48|+|1020|conveyor,drozerix,hlwn=.5,id:ma=172898||modarchive/drozerix/4_rndd!.xm|xm|4_RNDD!
@@ -253,7 +254,7 @@ a46ed634721c48e50cd3d4412355980e|+|1001|id:ma=50303,maktone,sour=.5||modarchive/
 16e45c8b6a4f627219fcdfa4752d33f8|+|1011|id:ma=112279,maktone||modarchive/maktone/sunset_in_the_wilds.mod|mod|sunset in the wilds
 3fd17321cf17f4c1a37b0a244cca340b|+|1011|id:ma=57048,maktone,sour=.5||modarchive/maktone/shocktop.mod|mod|shocktopus
 82c9822306166689dc91471ede093942|+|000u|id:ma=38975,maktone,sour||modarchive/maktone/bsmh.mod|mod|be steel my heart
-34a931a4dc7bfd47db800154e1ab87a9|+|1011|id:ma=37628,maktone||modarchive/maktone/class12.mod|mod|class12.the struggle
+34a931a4dc7bfd47db800154e1ab87a9|+|1010|id:ma=37628,maktone,sour||modarchive/maktone/class12.mod|mod|class12.the struggle
 fe8ffeff1487ba6471eacd287c7fba9e|+|1011|id:ma=40238,maktone,sour||modarchive/maktone/cwk.mod|mod|chillin' with kings!
 b357ef811e148b99b56a1bc3c6adced6|+|1011|id:ma=41248,maktone||modarchive/maktone/false_a.mod|mod|false alarm
 733c276ba3d37d99dd54699a84ed0979|+|20m0|id:ma=42707,maktone,remix,sour||modarchive/maktone/flt01.mod|mod|flt introtune01
@@ -477,7 +478,7 @@ da8d04551893c5b2040300ad68e4230f|+|1021|id:ma=54087,paledeth||modarchive/paledet
 da864fa5aac415aac3f77bee7933ce84|+|0000|id:ma=53817,paledeth||modarchive/paledeth/pd-hb.xm|xm|
 b6772c90b9dccc9e94dd6601ec97fddb|+|1021|id:ma=54184,paledeth||modarchive/paledeth/pd-stft.xm|xm|Secret Forrest
 e200f450a0cdf9336bc14d51ab4f374c|+|2011|grove,id:ma=53992,paledeth||modarchive/paledeth/pd-mon.xm|xm|Middle Of The Night
-06156ebbb27eceae2498a1688281b5bf|+|1021|id:ma=53790,paledeth||modarchive/paledeth/pd-foh.xm|xm|Feel Of Hope
+06156ebbb27eceae2498a1688281b5bf|+|1021|grove,id:ma=53790,paledeth||modarchive/paledeth/pd-foh.xm|xm|Feel Of Hope
 1e20a371bd1e6b4387a291a74a04da3a|+|101s|flight=.5,id:ma=53590,paledeth||modarchive/paledeth/pd-ah.xm|xm|Amongst Heroes
 d810b94ab261ed396912ec0655d19178|+|::::|dup,id:ma=53722,paledeth|digital-feelings|modarchive/paledeth/pd-df.xm|xm|digital feelings
 c4223970ec220c830741a3f5206cde22|+|0021|id:ma=53656,paledeth||modarchive/paledeth/pd-c.xm|xm|neo&paledeth
@@ -521,7 +522,7 @@ feb4da613d70b80758e338713f8c3f2e|+|101s|id:ma=53701,paledeth||modarchive/paledet
 1257f3b6e2fcfa42caaba8e78cf253e6|+|1010|id:ma=53710,paledeth||modarchive/paledeth/pd-days.xm|xm|When days go by
 766cf265cf8cc27baf90b97a9773e332|+|1010|id:ma=53713,paledeth||modarchive/paledeth/pd-db.xm|xm|
 308225f07afa2b07656942990e305b93|+|101s|id:ma=53725,paledeth||modarchive/paledeth/pd-di.xm|xm|Distorted Illusion
-6463605b476d493ecf06511e394cb94f|+|1021|id:ma=53734,paledeth||modarchive/paledeth/pd-dr.xm|xm|Dreaming
+6463605b476d493ecf06511e394cb94f|+|2021|id:ma=53734,paledeth||modarchive/paledeth/pd-dr.xm|xm|Dreaming
 c6f7e5e2320963743ee0e6ebcb0393b4|+|2011|id:ma=53742,paledeth||modarchive/paledeth/pd-dtd.xm|xm|Down The Drain
 1d1d7d54aab92b219fc6dee1f8c282cb|+|20m1|id:ma=53750,paledeth||modarchive/paledeth/pd-en.xm|xm|
 fdcfaacefa1a51f9263f5cdbd2962ed0|+|2010|id:ma=53761,paledeth||modarchive/paledeth/pd-falap.xm|xm|
@@ -842,7 +843,7 @@ edd9dd3fb90a02a62a649ddce7110f62|+|10m2|c512wfav,id:ma=178910||modarchive/dark_r
 e0d9d93346c363f5dc033b976bf1643a|+|1001|c512w,c512wfav,id:ma=211592,kane||modarchive/kane/kane_and_c512w_-_parallax_polygon.xm|xm|Parallax Polygon
 cdfeed50e640c7a9e3c3fe7ae25d41c3|+|1001|c512wfav,id:ma=107207||modarchive/fairlight_crack05.mod|mod|0
 7d665b6215f317e46d59d0a1a2f8c433|+|n02u|c512wfav,id:ma=174348||modarchive/biotech.xm|xm|biotech.rth
-6b45466be1819fdf60ceb1e982724405|+|2122|c512wfav,cerror,id:ma=140279,remake|numa-numa-e|modarchive/for_funky_fish.xm|xm|for funky fish
+6b45466be1819fdf60ceb1e982724405|+|2122|c512wfav,cerror,id:ma=140279,remake,t:end=90|numa-numa-e|modarchive/for_funky_fish.xm|xm|for funky fish
 852dfe776c96a10c44e9277ac0499087|+|1010|c512wfav,id:ma=66483||modarchive/lilly_chip-09.mod|mod|lilly_chip_9
 f9dfaf1abfcb5b7fffecc8d30faa7d13|+|n03u|c512wfav,hlwn,id:ma=208646,t:end=209,xmas||modarchive/christmasld.xm|xm|christmas last days
 d43e64d7fbf03b1e331739f6e66e155c|+|1001|c512wfav,id:ma=209511||modarchive/trottinmyhorse.xm|xm|trotin with my horse
@@ -1178,7 +1179,7 @@ a1ccb35c525bc34e8f9c7226dc7315ae|+|m021|id:ma=132423||modarchive/trisodium.mod|m
 751bdcd9cf1409b2598b50e1b7cc4f36|+|n02u|id:ma=133594||modarchive/dim_door.it|it|Dimension Door
 5b3a849397751a106fe2063455af7511|+|1001|id:ma=197822||modarchive/imberx_-_space_war.it|it|Space War
 bfdf370b00cc7011379064fa5ab36c8d|+|0001|id:ma=163520||modarchive/cartoon_-_whatever.mod|mod|whatever
-0ced46167cdb2d05731560842170e28d|+|0011|id:ma=112075||modarchive/nobodys_home.mod|mod|moby-nobody's home
+0ced46167cdb2d05731560842170e28d|+|1020|id:ma=112075||modarchive/nobodys_home.mod|mod|moby-nobody's home
 6cad298d7f65b1b6062139d5e8e085e4|+|1001|id:ma=106712||modarchive/mysterious_cards.mod|mod|!mysterious_cards
 4d3f23d3ff43cbcda7cf41ca8920a217|+|n021|id:ma=185388||modarchive/kleeder_-_look_into_the_mirror.mptm|mptm|Look into the Mirror
 4732ce45902ef2a72e79d6b0fe68b8d2|+|m021|id:ma=41938,remix||modarchive/ff3drmx.xm|xm|final fantasy III rx
@@ -1261,6 +1262,11 @@ a85219c25a637a1e9311029aed1df7c0|+|1011|id:ma=207839,viraxor||modarchive/viraxor
 7c09a71d206217ec67d36a65346a6f5a|+|0010|id:ma=202107,viraxor||modarchive/viraxor/viraxor_-_rough_start.xm|xm|rough start
 dd297ad27452cb4a9086417e71ce5446|+|1021|id:ma=200448,viraxor||modarchive/viraxor/viraxor_-_32k_love.it|it|32k love
 3e519c3abdf792d840f75c226f3ea97c|+|21m2|id:ma=164852||modarchive/joe_-_judgement_day.mod|mod|judgement day
+020172bae6f3a6dcdc32fa256c3f7661|+|n000|c512w,id:ma=214535||modarchive/c512w/c512w_-_ymbf.it|it|c512w the musician
+16922942862c7af58d1ff8380c03e523|+|101u|c512w,remake,id:ma=214462||modarchive/c512w/c512w_-_shbuma.s3m|s3m|Short but Masterpiece
+4058760d11e11b14f3f5bda4b1198ad1|+|1011|c512w,id:ma=214438,t:end=52||modarchive/c512w/c512w_-_eccehomo.it|it|eccehomo
+87be5424edf73916d3c2a41e0cdde9f8|+|10m1|agg=.5,c512w,id:ma=214437,t:end=174||modarchive/c512w/c512w_vs_master_nama.xm|xm|c512w vs Master Nama
+2e2abfce60685fce8d292f0514a231cd|+|1011|c512w,id:ma=214417||modarchive/c512w/c512w_-_adfi.it|it|Addiction field
 54eb647d3981a4cfbaf41e337605776c|+|1021|c512w,id:ma=214358,t:end=249||modarchive/c512w/c512w_-_impostersyndrome.mptm|mptm|Impostor Syndrome
 e65900918ec4242b12308c227318832c|+|1011|c512w,id:ma=214287,t:end=142||modarchive/c512w/c512w_-_chip512.xm|xm|Chip512
 1d2bca7776da10bf4544dddce51bdc5c|+|1011|c512w,hybrid,id:ma=214227,remix||modarchive/c512w/c512w_-_melodynal.xm|xm|Hybrid Melody Remix
@@ -1689,7 +1695,7 @@ e0eff7a5feca4485748b9c9ba2ddf591|+|1010|id:ma=52781,mrg||modarchive/mrg/mrgmou.x
 99ac8cc03604d6615b950af96cab87dc|+|2031|amaz,cosm=.9,id:ma=52731,mrg||modarchive/mrg/mrgindi.xm|xm|Indian Land
 a22e9dd9c5ff3fe3a4fceff857791ebc|+|m031|cosm=.7,energy,id:ma=52783,mrg||modarchive/mrg/mrgmysti.xm|xm|MysticMorning/Gamer
 0c8d6471846b7ccd2e72021a775e21bd|+|n040|cosm=.4,id:ma=52809,mrg,t:end=189||modarchive/mrg/mrgpho2.xm|xm|PhoBoAno Remix
-438ca4a111fd4d08999fde5732293a7c|+|1021|id:ma=52813,mrg||modarchive/mrg/mrgphun2.xm|xm|Gamer goes Phunky!
+438ca4a111fd4d08999fde5732293a7c|+|1021|id:ma=52813,mrg,t:end=139||modarchive/mrg/mrgphun2.xm|xm|Gamer goes Phunky!
 9ad552655178ad16a610754b011b25d1|+|m031|cosm=.8,id:ma=52864,mrg,t:end=227||modarchive/mrg/mrgspac2.xm|xm|SpaceNight 2000
 9961a45238e822b870f68f2d83cf3fe8|+|m030|id:ma=52671,mrg||modarchive/mrg/mrgcarro.xm|xm|Till Caroline K.
 6fb0464c7538707b7732560731f406da|+|m041|id:ma=52674,mrg||modarchive/mrg/mrgchar.xm|xm|Charon
@@ -1845,7 +1851,7 @@ df21c206df4b69a625afdf1a2317d1c6|+|3121|conveyor,d:vlc:ej,hybrid,id:ma=181316,re
 93c767de7a1c96f77a6c24a267f9b4b2|+|m13s|frost,id:ma=177772||modarchive/cold_breath.xm|xm|Cold Breath / Merlin
 da4a749086e6324b8c65fdb3b392fa16|+|2101|4mat,id:ma=66420|carve-up|modarchive/4mat-carvup2.mod|mod|carvup-2
 b6c16e7b00df58cf559e76c5c8c35f28|+|3023|4mat,bfuture=.4,clarity,cosm=.5,ekm,gem,id:ma=182782||modarchive/4mat_-_broken_heart.xm|mod|<3 broken heart <3
-39c57007b8bd6ea04de556e0002e74e0|+|1111|id:ma=151794,japan||modarchive/butterfly_nibbles.xm|xm|Butterfly Nipples
+39c57007b8bd6ea04de556e0002e74e0|+|1111|id:ma=151794,japan,t:end=93||modarchive/butterfly_nibbles.xm|xm|Butterfly Nipples
 dd4929da7dc3150857d0915a9167b6e0|+|2111|crud,flight,id:ma=67681|overcome|modarchive/pink-alleyway_chat.mod|mod|alleyway_chat
 0e3bb8c9049c71bae9dc45c45f41bcbe|+|21m2|id:ma=106762,village|mario-castle|modarchive/castles_adventures.mod|mod|Castles & Adventures
 0693c47e254959cef900f035d5355249|+|2111|id:ma=108427,repeat,summer=.5||modarchive/lowsi_jeti_maah.mod|mod|lowsi-jeti-maah
@@ -2089,7 +2095,7 @@ f5b2c1181635b9d2e18c551e56e75dbe|+|111w||day-they-landed|kgm/!Others/FATAL ERROR
 94eceecf7f252d4d5234e0e34c0c143f|+|n010|||kgm/!Others/FatalError - Marc Ecko's Getting Up Contents Under Pressure +2 trn.xm|xm|milk in veins
 9dc85204e6d2e22a267c016022ef10fa| |u0__|||kgm/!Others/FATALiTY - discoDSP ThrillMe VST 2.1 installer.wav|wav|
 3f275918cb3645329defb4cb2260d2f9|+|d0__|||kgm/!Others/FHCF - 12Ghosts COMPLETE 9.70 kg.xm|xm|ghostbusters
-0c4f0da974650d78a6ac667487d4e096|+|0011|||kgm/!Others/FHCF - Atop All Programs kg.xm|xm|oxpytt
+0c4f0da974650d78a6ac667487d4e096|+|1011|ghidorah,t:end=56||kgm/!Others/FHCF - Atop All Programs kg.xm|xm|oxpytt
 8e831213b7f038f625239b492d90fd0d|+|::::|dup||kgm/!Others/FHCF - SystemTools Hyena 8.5c kg.xm|xm|lilly_chip_10
 e89eb18520b4fc9ad417365c59bb4651| |____|||kgm/!Others/Flash of Lightning - HAANDI's multikg.mid|mid|
 53dc355d86592c1f66561e4ea72f74dc|+|n010|id:ma=62278||kgm/!Others/Flatline - Ahead DVD to iPod crk.xm|xm|West Chipremix
@@ -2265,7 +2271,7 @@ ecbc3b0f1eb81ee9fb3c12322542cc59|+|0010|||kgm/!Others/MrSzzS - Wise Care 365 Pro
 97f41c9acfc3639948f3b177db986715|+|0010|d:vlc:ej,id:ma=192589||kgm/!Others/MrT - MorphVOX Pro 3.0.5b39239 crk.xm|xm|THORARENSEN-chip1
 aaa19dea9e1f08d34ac5c1f09da66a9e|+|n010|id:ma=166297||kgm/!Others/mudlord - Delphi to C++ Builder 1.5 crk.xm|xm|. commando
 1a688981d84dd9825177bf048ca2d4d3|+|2112|c512wfav,id:ma=67730|just-for-funk|kgm/!Others/MUGS - Hot Potato +1 trn.mod|mod|just_to_funk
-d02e883eb76966d432edffe4b22cfc82|+|n021|id:ma=161823||kgm/!Others/MUPS - Spider Man PSX Region Selector +14 trn.mod|mod|Greenery
+d02e883eb76966d432edffe4b22cfc82|+|n021|id:ma=161823,t:end=202||kgm/!Others/MUPS - Spider Man PSX Region Selector +14 trn.mod|mod|Greenery
 ea5c35e34b9bfed2346526fd35569b6f|+|0021|||kgm/!Others/MUPS - Tactical Armor Custom Gasaraki PSX Region selector.mod|mod|galaxy-tune
 a18595b30593fbb3a42f825f205fbe19|+|002w|||kgm/!Others/MYSTiC - Armour Geddon II intro.mod|mod|synthetik 2
 bebe45e6e2fe5da656eb1a69744e6c93|+|u020|d:v,id:ma=59251||kgm/!Others/Nael - Internet Download Manager 6.20-6.xx crk.xm|xm|0operKarmaHallusin
@@ -2372,7 +2378,7 @@ f5084e7ee8db801dc7532baa4612a417| |____|||kgm/!Others/RCN - IconChanger 3.8 crk.
 ed1de68e174d4eb33460775c72b0d91b|+|1011|cosm,id:ma=196427||kgm/!Others/RCN - SkyMaze 3.0 crk 2.0.it|it|Undeground 1
 d28917fc0738316625deb42ee101cdbe|+|n040|cosm=2,id:ma=196485||kgm/!Others/RCN - SkyMaze 3.0 crk.it|it|Indefinite
 76755aa3516835f8200d6d6ac16767b4| |____|||kgm/!Others/REBELS - CJ Elephant Antics +9 trn.sc68|sc68|Wonderland BBS
-1ab6d74424929fa8cc9bfa01b8a3dd41|+|1011|||kgm/!Others/REBELS - Poo Poo Dreams trn.xm|xm|sll1
+1ab6d74424929fa8cc9bfa01b8a3dd41|+|1011|t:end=150||kgm/!Others/REBELS - Poo Poo Dreams trn.xm|xm|sll1
 3bb6a5165d20ce5f3d55cd735e1be1a4|+|d000|||kgm/!Others/REBELS - Total Triple Trouble intro.xm|xm|reb
 cae72f42f8a8f9c55a3446fbb190b2f8|+|d000|id:ma=55128||kgm/!Others/RED - Swiftdogs PC Thrust 1.x.xx.2009 crk.xm|xm|pissi
 2f1f85637e7c73d52faf162c7e6f815d|+|10m1|||kgm/!Others/RES - CloneCD 5.3.1.0 crk.mod|mod|SlySoft =P ... trall
@@ -2541,7 +2547,7 @@ aa03fd4726627878414cc2d3f187fdc0|+|n020|id:ma=74131,rock||kgm/!Others/Vnekrilov 
 e3c012d42e4f8cf39b063dcb13081dde| |1011|||kgm/!Others/VOODOO - Rick Dangerous II intro.sc68|sc68|No Name
 0f40d30d79e1172af55850b1ebbabf12|+|n010|id:ma=49532||kgm/!Others/WaLMaRT - Cockos REAPER 3.73 crk.mod|mod|marksong1
 513de4e83a50eccfe947863a1cb1993f|+|0011|||kgm/!Others/WAR - Jrim Software H5 RaceWarKingdoms Bot 1.0.4319.27811 crk.mod|mod|overscan
-9451db82ed28813c34bc63f4634f188e|+|n030|flut=.6||kgm/!Others/WAR - Jrim Software RWK KDHunter crk.s3m|s3m|"12oz." -darkwolf '95
+9451db82ed28813c34bc63f4634f188e|+|n030|cosm=.5,flut=.6||kgm/!Others/WAR - Jrim Software RWK KDHunter crk.s3m|s3m|"12oz." -darkwolf '95
 2bec3149fe26c9f5ff8875c09373ffe8|+|1111||arrowing|kgm/!Others/WAR - Renovatio The Lost Runes Bot 1.0.0.48 crk.mod|mod|MOD.IntoTheWoods
 d0444526414f81849a71d87fe2a91dd4|+|1111|c512wfav,id:ma=153944||kgm/!Others/WAR Hammer - Loquendo TTS 6.x crk.xm|xm|alf2 (zalza-edit)
 3acae6291515748b87778302a81a6ada|+|n040|id:ma=66031,sorrow=.5||kgm/!Others/Warez_Down - Masters ITC Software Scanitto Pro 3.11 crk.it|it|Reflections
@@ -3213,7 +3219,7 @@ de450f1cf2993e92ce306f36701409bd|+|1011|id:ma=196221||kgm/CLASS/CLASS - Delta Fo
 2fe808d150da62cdd3e159304016d58b|+|u110|d:v,id:ma=187398||kgm/CLASS/CLASS - Delta Force Land Warrior setup_3.xm|xm|children of god...
 8190a9e2af6ba1c15f3d5fc01dfecec3|+|10m1|id:ma=171473||kgm/CLASS/CLASS - Dogs of War +1 trn.mod|mod|journey
 55947652e2eb3d40ee5ed56addc40b07|+|2011|d:vlc:ej,flight=.5,hut=.4,id:ma=67758||kgm/CLASS/CLASS - Dominion Storm Over Gift 3 intro.mod|mod|draw_a_wilson
-a54a7856a5a43c7594b678002075b0e2|+|1001|||kgm/CLASS/CLASS - Earth 2158.Lost Souls_2.mod|mod|
+a54a7856a5a43c7594b678002075b0e2|+|::::|dup|class12|kgm/CLASS/CLASS - Earth 2158.Lost Souls_2.mod|mod|
 0a7571de76fd8bea65ed2632d09b170e|+|::::|dup,id:ma=196188|jingle-bells-3|kgm/CLASS/CLASS - EB World installer.mod|mod|jingle bells2
 9cb77913e59b3f36b65111850a88dbb2|+|x0__|d:v||kgm/CLASS/CLASS - Extreme Angler installer.s3m|s3m|southpark song #1
 f4c897376d4c1d8f7ff31cb1264ed183|+|m021|id:ma=47690||kgm/CLASS/CLASS - FIFA 2002 installer_1.mod|mod|legendaric
@@ -3723,10 +3729,10 @@ b4c90876a352676ba0f9ca66c0d5ac96|+|n02u|id:ma=172298||kgm/EiTheL/EiTheL - Direct
 f6322666f5775d4de7402ce1ebfa58de|+|n040|||kgm/EiTheL/EiTheL - Picture Window Pro 4.0.1 crk.xm|xm|.faerie realm.
 3dbe174f9bc4bf29bbaa5af78c7100ee|+|n131|frost||kgm/EiTheL/EiTheL - Pixel Font Maker 1.4.0.1625 kg.xm|xm|Drifitng away
 c6e1ab82b581fef98fe3e009339b614e|+|u020|id:ma=139430||kgm/EiTheL/EiTheL - Rewards Multiply 2.02 kg.xm|xm|Access For All
-ed3d8777178fa56ec5a8d3742fe0fa88|+|d0__|||kgm/EiTheL/EiTheL - SpeakToText 2.0 crk.mod|mod|FULLMOON2
+ed3d8777178fa56ec5a8d3742fe0fa88|+|u00u|technoise||kgm/EiTheL/EiTheL - SpeakToText 2.0 crk.mod|mod|FULLMOON2
 2506a6328eb50f566ff993a07165c278|+|n040|frost,sorrow=2||kgm/EiTheL/EiTheL - Tracks Eraser 4.10 kg.xm|xm|by DRAX
 e63ab083c1d0ff42eff59fb9b5bcd1a9|+|n141|id:ma=46466||kgm/EiTheL/EiTheL - WavePad Master Edition 2.0 kg.xm|xm|1999 by WAVE / M.o.N
-f8862a0cd1033c98866e01c198690937|+|u1__|||kgm/EiTheL/EiTheL - World News Screensaver 1.7 crk.mod|mod|NoName
+f8862a0cd1033c98866e01c198690937|+|u13u|t:end=140||kgm/EiTheL/EiTheL - World News Screensaver 1.7 crk.mod|mod|NoName
 a30f42a6158cf588a19863ed5c612063|+|u1__|id:ma=67519||kgm/EMBRACE/EMBRACE - Adobe Lightroom 2.0 kg.xm|xm|mark a.j. pisses off
 00f01118ed0823e22aa12c74bf4494f4|+|20m1|flight=.8,id:ma=206675,t:end=147||kgm/EMBRACE/EMBRACE - AMac Address Change 5.1 kg.xm|xm|Don't touch my milks
 de112b37fd406a933c32f7985f2c2f5d|+|3112|d:lvol,summer=1.5,t:start=5|remote-friends|kgm/EMBRACE/EMBRACE - AutoPlay Menu Builder 6.0 kg.xm|xm|World of plastic
@@ -3845,7 +3851,7 @@ cb09e41a7eba7a1938c4dfd329edffe0|+|1011|||kgm/FAiRLiGHT/FAiRLiGHT - Tropico 4 kg
 437bcd8e18f8e90cfc440fe440a3383f|+|::::|dup||kgm/FFF/FFF - 32bit Convert It c9.67.01 kg.xm|xm|summer parks
 bb97b62c96f7f0919896120539170d41|+|0011|id:ma=36674,ru||kgm/FFF/FFF - 32bit Email Broadcaster e9.64.01 kg.xm|xm|Kolobkis vOdKadance3
 a9446256617c2215cf5c34931bdf675a|+|n000|||kgm/FFF/FFF - 32bit Web Browser 9.67.01 kg.xm|xm|freedom
-75e48fcac35fd42c7c826da363175c2b|+|u0__|id:ma=46713||kgm/FFF/FFF - 3D Flash Animator 3.72 crk.xm|xm|It's your turn....
+75e48fcac35fd42c7c826da363175c2b|+|n010|id:ma=46713||kgm/FFF/FFF - 3D Flash Animator 3.72 crk.xm|xm|It's your turn....
 c3c85ee9e88a9631176d1b0bec740269|+|1011|||kgm/FFF/FFF - 3D Matrix Screensaver Inside the Matrix 1.3 crk.xm|xm|l.k chip#1_disco!
 3e2c95e71af215b431d1aa3c82984e1c|+|::::|dup||kgm/FFF/FFF - 7SinsUnlocker.xm|xm|sac08
 76739fa78b458db972246a86bdbc0bdb|+|1021|id:dup:ma=36534||kgm/FFF/FFF - AB Commander XP 6.94 crk.xm|xm|CORE Invite Intro
@@ -4317,7 +4323,7 @@ b31c5b22ec8a679f76a686364cec6b99|+|n030|cosm=.7,id:ma=49764|levitation|kgm/h4x0r
 01aed6146723f0052db34c12b6f91788|+|1011|id:ma=176130||kgm/h4x0r/h4x0r - Hitman Absolution 1.0.447.0 +10 trn.xm|xm|whats up
 bc34b741ee8e88d78360acf3b6f0b9cf|+|::::|dup|escalator-conveyor|kgm/h4x0r/h4x0r - Jagged Alliance Crossfire 1.01 +18 trn.xm|xm|The_Dim_Dungeon
 7e57ac32b53465b784feb09453f314cb|+|1010|id:ma=60205||kgm/h4x0r/h4x0r - JAWS Unleashed 1.0 +3 trn.mod|mod|Stop For A Minute
-a56c94cd16342dfcee5bf36329471692|+|1021|ekm,gem||kgm/h4x0r/h4x0r - L.A. Noire 1.0.2396 +6 trn.xm|xm|'tuborg heaven'
+a56c94cd16342dfcee5bf36329471692|+|2021|d:lvol,ekm,gem,summer=.9||kgm/h4x0r/h4x0r - L.A. Noire 1.0.2396 +6 trn.xm|xm|'tuborg heaven'
 bc3d90cb23901311854d312473d4fbad|+|0000|id:ma=154458||kgm/h4x0r/h4x0r - Lara Croft and the Temple of Osiris CPY 1.2 +7 trn.xm|xm|the old good timez:)
 bf8081e4f67648190c2eb6bf6cf1f29b|+|10m2|clarity=.4,gem=.4,id:ma=153961||kgm/h4x0r/h4x0r - LEGO Pirates of the Caribbean 1.0 +3 trn.xm|xm|cph rides high!
 f2bc829095d6432f178373a0fccdcab7|+|1011|gem,id:ma=160569||kgm/h4x0r/h4x0r - LEGO The Lord of the Rings 1.0 +4 trn.mod|mod|lego
@@ -4336,7 +4342,7 @@ d3044b5f5d4dc69568d8e5c8bc96f4c6|+|n011|id:ma=142431||kgm/h4x0r/h4x0r - Naval Wa
 ad56418eaf2a09aba2e6a51d8dec8cd4|+|0011|gem||kgm/h4x0r/h4x0r - Plants vs Zombies 1.2.0.1096 +8 trn.xm|xm|promenade
 736bcefc029f596273356f4fe0bd5ce9|+|10m1|gem,id:ma=139791,summer=.8|summer-morning|kgm/h4x0r/h4x0r - Prototype 1.0.0.1 +12 trn.xm|xm|fucked
 3bd622cc5a538c4265216ce76d2aa8d9|+|10m1|id:ma=136861||kgm/h4x0r/h4x0r - Recettear-An Item Shop's Tale 1.106 +8 trn.xm|xm|
-13197ae0aee4a3fc877f3ed258698560|+|m031|id:ma=47198||kgm/h4x0r/h4x0r - Red Faction Armageddon DX9 All Versions +8 trn.xm|xm|laalaa
+13197ae0aee4a3fc877f3ed258698560|+|m031|cosm=.5,id:ma=47198||kgm/h4x0r/h4x0r - Red Faction Armageddon DX9 All Versions +8 trn.xm|xm|laalaa
 71c3233573679443eb28cdda934a7ea1|+|2021|gem,id:ma=144139||kgm/h4x0r/h4x0r - Resident Evil 5 DX10 1.0.0.129 +17 trn.xm|xm|ginseng
 9c42f20f848edc63dfff6cb4736cf702|+|n010|id:ma=172301||kgm/h4x0r/h4x0r - Resident Evil Operation Raccoon City +11 trn.xm|xm|Soundtrack of PINA
 82b3ffb57bfc84b6e8008f61ca67f97a|+|0010|||kgm/h4x0r/h4x0r - Risen 2 Dark Waters v1.0.1210.0 +7 trn.xm|xm|Short trainer tune
@@ -4648,7 +4654,7 @@ f56f8ef3fa7b403113f42e75723aca52|+|u0__|||kgm/iNDUCT/iNDUCT - TurboLaunch 5.x.x 
 4d82a691e44b3ffb6c78a7dded876a83|+|1011|agg||kgm/iNFECTiON/iNFECTiON - Absolute Sound Recorder 4.2.01 kg.xm|xm|Bee Walk
 50c7dd7365802977e996dc3488feb7e3|+|0001|id:ma=168882||kgm/iNFECTiON/iNFECTiON - FLV Grabber 2.3 kg.xm|xm|Snowflake
 c67bc01e37d3dc63fd2fae3b6b9bd8ef|+|1022|clarity,id:ma=168910||kgm/iNFECTiON/iNFECTiON - FLV Ripper 1.71 kg.xm|xm|rabbit outfits
-585fbc1863fb393759b75c2affdc0dd9|+|0000|flight=.5,id:ma=35649||kgm/iNFECTiON/iNFECTiON - Frontline Registry Cleaner 2010 kg.xm|xm|Intro tune #7
+585fbc1863fb393759b75c2affdc0dd9|+|1000|flight=.5,id:ma=35649||kgm/iNFECTiON/iNFECTiON - Frontline Registry Cleaner 2010 kg.xm|xm|Intro tune #7
 c58b1f141c7786f3517f405798f13f3e|+|1022|clarity=.5,gem,id:ma=68076,summer|battery-love|kgm/iNFECTiON/iNFECTiON - Magic Calendar Maker v3.0 kg.xm|xm|battery love
 567e406bfd0936cecc7bd2b6bdbfbf35|+|::::|dup||kgm/iNFECTiON/iNFECTION - Stop Software Installation Tool 2.2.2.1 kg.xm|xm|Happy Halloween
 0746fa029827120720cd4987e5330fad|+|0000|||kgm/iNFECTiON/iNFECTiON - StreamingStar HiDownload Platinum 7.75 kg.xm|xm|xbox
@@ -4889,7 +4895,7 @@ ca97d386d5e897600a1a76ee9c3820bb|+|0001|||kgm/Kindly/Kindly - iSkysoft All Produ
 bee2efd18636bcef68945556f24371ef|+|n010|id:ma=181084||kgm/Kindly/Kindly - Morpheus All Products 3.10 Build 4120 crk.mod|mod|b 11
 1abb5db858196b3f86333731e607367c|+|10m2|id:ma=186175||kgm/Kindly/Kindly - ObjectRescue Pro v5.0 Build 478 crk.xm|xm|aden-apelsin [3chnl]
 7a7035266fa3ce3c636478d43f2324cb|+|10m1|arabic=.3,id:ma=112501||kgm/Kindly/Kindly - PluginPowerPack 2.0 for AutoPlay Media Studio 6.0 Ful installer.mod|mod|Red velvet(sac int.)mrdeath/xps'99.yeah.
-ff996f10e02f66d60c736be65140f222|+|1000|id:ma=67565,sour||kgm/Kindly/Kindly - PluginPowerPack for AMS 6.0 installer.mod|mod|analyzer
+ff996f10e02f66d60c736be65140f222|+|0000|id:ma=67565,sour||kgm/Kindly/Kindly - PluginPowerPack for AMS 6.0 installer.mod|mod|analyzer
 cbb18ab6b6084db19d46900b9acae16a| |____|||kgm/Kindly/Kindly - PowerISO 6.2.0.0 crk.nsf|nsf|
 e378e0964b2cac07c62be05b5f780720|+|1011|id:ma=124870||kgm/Kindly/Kindly - QuizEngine 1.0.1.0 crk.mod|mod|chip-polkka
 28b7ef3195e67924b5c9d0a37291fd52|+|000s|||kgm/Kindly/Kindly - Restorator 2007 3.70.174 installer.mod|mod|shivan dragon
@@ -4945,7 +4951,7 @@ a6aec42df4c44f71ce428ff138000f1e|+|n01u|id:ma=91551||kgm/kZ/kZ - Lost Treasures 
 f0288e2c1051c037b09281002f288008| |____|||kgm/kZ/kZ - Moleskinsoft Clone Remover 3.8 Pro crk.v2m|v2m|
 89c7458de62f5e99052d1ad0cd372e6d|+|m020|d:ee,d:vlc:broken,t:end=147||kgm/kZ/kZ - Moleskinsoft Clone Remover Pro 3.2 crk.xm|xm|
 34055c729e98504dff5d5808deb3eca9| |____|||kgm/kZ/kZ - Moleskinsoft Clone Remover Pro 3.4 crk.v2m|v2m|
-76dc6df759c262b20896993de2288456|+|n040|cosm=.6||kgm/kZ/kZ - Moo0 ImageViewer SP 1.69 crk.xm|xm|Dj SM - SONiCFLYer
+76dc6df759c262b20896993de2288456|+|n040|cosm=.6,t:end=411||kgm/kZ/kZ - Moo0 ImageViewer SP 1.69 crk.xm|xm|Dj SM - SONiCFLYer
 41538fc9507f53812284878f4f8a9a2f|+|m042|cosm||kgm/kZ/kZ - Moo0 ImageViewer SP 1.x.x crk.xm|xm|Virtual Humanity
 005fd270b8234f3481012f326b7767c3| |____|||kgm/kZ/kZ - Moo0 RightClicker Pro 1.x.x.x crk.v2m|v2m|
 ad4ae87424c460d35979828b96a8095c|+|0000|||kgm/kZ/kZ - My Notes Keeper 1.9.9.1205 crk.mod|mod|Dj SM - MiniTouch
@@ -4978,7 +4984,7 @@ ea9536b6205bbed57ab61b1ce13ba17f|+|n010|id:ma=169923||kgm/l0wb1t/l0wb1t - Red Fa
 779c1fe8ede8ed39ebf63e9023890021|+|n011|id:ma=161201||kgm/l0wb1t/l0wb1t - Stronghold Crusader +19 trn.xm|xm|Chippie
 fbc7437ac5fed2f1efcb628ec1307d69|+|2010|id:ma=42478,t:end=188||kgm/l0wb1t/l0wb1t - Stronghold Crusader II +2 trn.xm|xm|Love demo
 d3696059f02f6784598f43f192b19b36|+|u0__|id:ma=36630||kgm/l0wb1t/l0wb1t - The Sims Medieval +1 trn.xm|xm|Paradox #1
-c51dd79699afbfd8d2369302c0af1305|+|n021|dupdiftune|helping-eachother|kgm/LEGEND/LEGEND - Baby Joe +6 trn.xm|xm|sunny
+c51dd79699afbfd8d2369302c0af1305|+|n021|dupdiftune,t:end=221|helping-eachother|kgm/LEGEND/LEGEND - Baby Joe +6 trn.xm|xm|sunny
 2750d60ee17fd9880acdd534758d6156|+|u010|||kgm/LEGEND/LEGEND - Cover Girl Strip Poker +3 trn.xm|xm|ice
 f3245d43d3a24ef8ea27c40b3574ac00| |____|||kgm/LEGEND/LEGEND - Dark Legions intro.hsc|hsc|
 fb90eb409579bd0846667e215c5e4116|+|0010|||kgm/LEGEND/LEGEND - Donkey Kong intro.mod|mod|wax(out o' ya ear!)
@@ -4987,7 +4993,7 @@ ed88e0b9aa3ecfeb8fd536b333c59bb5| |____|||kgm/LEGEND/LEGEND - Dynamite Dick intr
 68df9198d38f704d5f96940f2edd25e2|+|0021|||kgm/LEGEND/LEGEND - Hunter +6 trn.xm|xm|digits blues!
 091c7bc029d894136959df29f07266e6|+|u000|||kgm/LEGEND/LEGEND - New Year Lemmings 1991_1992 +3 trn.xm|xm|badmoon
 d1cc13af05563000d8ac25132e0a7000|+|u000|||kgm/LEGEND/LEGEND - Prehistorik +4 trn.xm|xm|happy new year
-ba6819e1642a568c95ad64815347950b|+|d0__|id:ma=45270||kgm/live_4_ever/live_4_ever - Call of Duty. Modern Warfare 3 +3 trn.xm|xm|Heavy Metal
+ba6819e1642a568c95ad64815347950b|+|n010|id:ma=45270,rock,t:end=176||kgm/live_4_ever/live_4_ever - Call of Duty. Modern Warfare 3 +3 trn.xm|xm|Heavy Metal
 10c732c6d13a133af90d1a19374a7030|+|0000|||kgm/live_4_ever/live_4_ever - Dead Space 2 1.0 +7 trn.xm|xm|live_4_ever Trainer
 4fa4cf14091c4b59178d9e7cd191555b|+|1011|dec=.5||kgm/live_4_ever/live_4_ever - Hitman 2 Silent Assassin 1.0 +7 trn.xm|xm|inferno
 ad7de1caa71aec55df99d6ee4ab43aef|+|::::|dup||kgm/live_4_ever/live_4_ever - Hitman Contracts 1.0 +7 trn.xm|xm|what is love?
@@ -5110,7 +5116,7 @@ a0aa66eb57d4a14351c00f63ddc9f898|+|0011|id:ma=80040||kgm/MTCT/MTCT - Internet Do
 2dfd2ddd59f46b1f7a9a08de5600e43d|+|0011|||kgm/MTCT/MTCT - Regisry Help Pro 1.71 crk.xm|xm|tetris
 945fd8fa755d0e9dd254f0e55255e11c|+|n010|||kgm/MTCT/MTCT - Veronisoft Get IP and Host 1.4.6 crk.xm|xm|arkanoid.c64_09
 9521f2b6672dc7ba57f26a907cb371cb| |____|||kgm/MTCT/MTCT - Windows Doctor 2.7.3.0 kg.mid|mid|
-093c1a085bf9eb7c316c5b85025777f3|+|d010|id:ma=151742||kgm/MYTH/MYTH - Age Of Empires 2 Conqueror installer.xm|xm|Dream Tear Down
+093c1a085bf9eb7c316c5b85025777f3|+|n01w|id:ma=151742,t:end=453||kgm/MYTH/MYTH - Age Of Empires 2 Conqueror installer.xm|xm|Dream Tear Down
 d42f15fa0978890217d14208dfcd296b|+|00m1|id:ma=34927||kgm/MYTH/MYTH - Age of Wonders 2installer_1.xm|xm|radio caca
 e01f67f954b8c53cf21a6d9588b710a2|+|101w|flight,id:ma=139549||kgm/MYTH/MYTH - Age of Wonders 2installer_2.xm|xm|sid sid sid sid sid.
 defdc7ed619eca5eaef4ffecd2cd4ae8|+|1012|c512wfav,cosm,id:ma=136815||kgm/MYTH/MYTH - Airline Tycoon First Class installer.xm|xm|Robocop 3 / Alien
@@ -5150,7 +5156,7 @@ bca980d66e27a24e4253d11f3e8b0898|+|1011|agg,id:ma=172680||kgm/MYTH/MYTH - Warlor
 8c28e2ce77468b50ea146d8c263ec3e1|+|2101|agg,id:ma=172431||kgm/MYTH/MYTH - Warlords Battlecry IIIinstaller_3.xm|xm|The Mythic Warriors
 633002a143407f5c7bcfe9d9561fb66b|+|10m2|agg=.7,gem,id:ma=171956||kgm/MYTH/MYTH - Warlords Battlecry IIIinstaller_4.xm|xm|4Kb summer
 8925744aa4b28347a0436aa9a932059f|+|n01s|id:ma=57648||kgm/NAPALM/NAPALM - Gradius III +2 trn.mod|mod|so what...
-e33246e7db1163df487cc96183b4d102|+|u0__|id:ma=106956||kgm/NAPALM/NAPALM - Magical Taruruutokun Magic Adventure +3 trn.mod|mod|munk-jams
+e33246e7db1163df487cc96183b4d102|+|n011|id:ma=106956||kgm/NAPALM/NAPALM - Magical Taruruutokun Magic Adventure +3 trn.mod|mod|munk-jams
 4be5a747a42c1632a524e5734e97959d|+|d000|id:ma=32359||kgm/NAPALM/NAPALM - Realm +4 trn.mod|mod|acidbat2
 fbc715c0766e1b100a8a9ea5f0658ed3| |____|||kgm/NAPALM/NAPALM - Virtua Fighter crack.amd|amd|
 3f9e9344b6ff22945455006bc674eeaa|+|00m1|agg||kgm/nGen/nGen - 3A PDF to Text Batch Converter 2.0 kg.xm|xm|Fast Lane
@@ -5197,7 +5203,7 @@ e6e6a9affb6830ab3da34302d34bcb26|+|n020|id:ma=66569||kgm/NoPE/NoPE - E.M Youtube
 e3f9d72ddd0bf88c5f0de55a55bd841b|+|0000|id:ma=66472||kgm/NoPE/NoPE - gBurner 2.4 crk.mod|mod|check's in the mail
 54101a3eefc09a9ee07c7c5f02020ae0|+|1021|||kgm/NoPE/NoPE - Geometry Expressions 1.0.34 crk.mod|mod|blubberhupf
 bcad5da1203da142c1248f931b29320f|+|2102|difplay|blasting-out|kgm/NoPE/NoPE - Handy Backup 5.7.0.1 crk.mod|mod|skogens djur 004
-e00cf8aa944628f76da2b552c227b012|+|u000|id:ma=67389||kgm/NoPE/NoPE - HardCopy Pro 2.7.10 crk.mod|mod|e b o l a _ addy
+e00cf8aa944628f76da2b552c227b012|+|m0m0|id:ma=67389||kgm/NoPE/NoPE - HardCopy Pro 2.7.10 crk.mod|mod|e b o l a _ addy
 94adcc7bbe437ca7d82815e39d628957|+|2102|id:ma=55591|scales-of-joy|kgm/NoPE/NoPE - HD Tune Pro 3.10 crk.mod|mod|scales of joy
 ae161900ee752308daab824af60518b3|+|1001|id:ma=121350||kgm/NoPE/NoPE - History Sweeper 2.86 crk.mod|mod|intro #23453445634
 50e636073131b2a8f87b305ad7033868|+|1001|id:ma=68102||kgm/NoPE/NoPE - InstallShield 2009 Professional 15.0.0.591 crk.mod|mod|][ chip 06 ][
@@ -5886,7 +5892,7 @@ ee1b74117f33880236d99362b2caab76|+|n010|||kgm/SERGANT/SERGANT - Dead Rising 2 1.
 2f556d54a607674ff499e82116a63cd7|+|1011|d:v||kgm/SERGANT/SERGANT - Disciples 3 1.04 +8 trn.xm|xm|The day after_
 bb17a681a60153bd1024964a8507c11c|+|n041|||kgm/SERGANT/SERGANT - Disciples III trn.xm|xm|Emme Ya
 7cd907c68e033ec58eb8eea7f9a01545|+|____|||kgm/SERGANT/SERGANT - Dungeon Cleaners 2 1.0-1.01 +4 trn.xm|xm|nakkiremixnackenmix
-51cb09c8c14cec4a633663d31216e2a6|+|n050|id:ma=169491||kgm/SERGANT/SERGANT - Eador 1.04.1 +7 trn.xm|xm|you
+51cb09c8c14cec4a633663d31216e2a6|+|n051|id:ma=169491||kgm/SERGANT/SERGANT - Eador 1.04.1 +7 trn.xm|xm|you
 5b45ccd26e74021c4dbeff863bfcfd85|+|0010|id:ma=169132||kgm/SERGANT/SERGANT - Front Mission Evolved 1.0 +7 trn.xm|xm|
 655faf1bccb70ad208651ad50e67150d|+|n020|||kgm/SERGANT/SERGANT - HyperSnap 6.61.2.0 crk.xm|xm|whipcream
 bc74ab6564eeb6269b66cf4d1e41d037|+|n031|||kgm/SERGANT/SERGANT - HyperSnap 6.62.2.0 crk.xm|xm|About friendship_
@@ -6212,7 +6218,7 @@ b4cc4fc529659ecd3b793817f181a1b5|+|1011|id:ma=165235||kgm/T3/T3 - PicShrink 2.x 
 5633e4ee6cd69915b2274eecd115449e|+|n051|sorrow=.4||kgm/Team X/Team X - Master of Effects 1.15 crk.xm|xm|the likeness
 90e041a5c2bbfd3d553d685fd66b88be|+|n031|t:end=220||kgm/Team X/Team X - Photo Frames 3.31 crk.xm|xm|veil of sorrow2
 f5bbb6ee9216d7cbde346b1c9365c62e|+|u001|id:ma=36720||kgm/Team X/Team X - Picture Combine 1.23 crk.mod|mod|
-b4ab6d1949b7b87ff34b40227f6a07ee|+|d000|||kgm/TECHNIC/TECHNIC - Devastation installer.xm|xm|GUS The Chocobos
+b4ab6d1949b7b87ff34b40227f6a07ee|+|d000|d:v||kgm/TECHNIC/TECHNIC - Devastation installer.xm|xm|GUS The Chocobos
 b543a085416b03680e1519b590393977|+|n010|cosm=.6,d:ee,t:end=163||kgm/TECHNIC/TECHNIC - Europa 1400 installer.mod|mod|trip to (m)aars
 013d9758ebe848d327b661e1f8cb5727|+|n010|id:ma=96069||kgm/TECHNIC/TECHNIC - FIFA 2004 installer.mod|mod|Drop it and Flow
 5e9e47964e7df33b3ff1e9b30a9fe2eb|+|d0m0|d:v,id:ma=71880||kgm/TECHNIC/TECHNIC - Onimusha(c) installer.s3m|s3m|It's Jungle Time !
@@ -6603,7 +6609,7 @@ dc2d2fb745b87f00f1bd6951f684b40b| |____|||kgm/tPORt/tPORt - All My Movies 3.7 bu
 b0ff8cf46a18e9c948a5b9ef4f22b7c0| |____|||kgm/tPORt/tPORt - All to All AudioConvert 1.13 crk.v2m|v2m|
 9125fc58edf10f76238e227a96a19d65|+|n010|fruz,id:ma=150569||kgm/tPORt/tPORt - Alteros3D 2.3 kg.xm|xm|-=cRAckEd z0NE=-
 a2913ddf788d2d7906ec3f43f9d7eb4f|+|n131||jestering|kgm/tPORt/tPORt - Amor Screen Capture 2.0.0 crk.mod|mod|
-599c1edc522924e52d4da3d3f0309193|+|n030|id:ma=161526||kgm/tPORt/tPORt - APBackUP 3.0.3242 crk.xm|xm|in space
+599c1edc522924e52d4da3d3f0309193|+|n030|id:ma=161526,t:end=188||kgm/tPORt/tPORt - APBackUP 3.0.3242 crk.xm|xm|in space
 96744ffcd0327a579281bb91d72cb0c0| |____|||kgm/tPORt/tPORt - Apollo DVD Copy 4.5.4 kg.v2m|v2m|
 e479d5fab1462daa8f91c9beb9422341|+|u010|id:ma=312||kgm/tPORt/tPORt - Armor Tools 7.0 crk.xm|xm|Chip beat-Cheap bit
 b91a39c03edb4a9d5145dd7fdf271783|+|n050|id:ma=67942||kgm/tPORt/tPORt - ArtMoney 7.43 Pro kg.xm|xm|goodnight.kiss[chip]
@@ -6791,7 +6797,7 @@ e0d4b488d552bede2c08f7a0563075d0|+|21m2|summer=.3||kgm/tPORt/tPORt - X-NetStat P
 82f8d3b44af0f4a2b884b298ad09908f|+|d020|||kgm/TRSi/TRSi - Game of Life intro.mod|mod|Techno-Intro
 66bd9ef3162f1de8af5ff3dd52c13d87|+|n010|||kgm/TRSi/TRSi - Hydro Thunder PSX Region selector.mod|mod|tennis
 7f165f32289cf72c424380098ffa5267|+|00m1|repeat||kgm/TRSi/TRSi - Krustys Fun House +5 trn.xm|xm|york
-76b419c2ec68fabd0d3d059ed3fe95e1|+|u01u|||kgm/TRSi/TRSi - Mac Donald Land +11 trn.xm|xm|dt-sigma 7
+76b419c2ec68fabd0d3d059ed3fe95e1|+|n01u|||kgm/TRSi/TRSi - Mac Donald Land +11 trn.xm|xm|dt-sigma 7
 2426389b8a5dd4a3003c64e38855afa9| |____|||kgm/TRSi/TRSi - Magic Boy intro.hsc|hsc|
 b86c9ec18a94188fa7d86de401171998| |____|||kgm/TRSi/TRSi - Minskies trn.ahx|ahx|
 8d4e8cd2eaff79f96b4cd8103f2afb69| |____|||kgm/TRSi/TRSi - Operation COM.BAT intro.sc68|sc68|Auf Wiedersehen Monty (FC)
@@ -6910,7 +6916,7 @@ fefd09a10d141f1c175229553a1212b0|+|u010|||kgm/TSRh/TSRh - Crossword Forge 5.3 kg
 eee05562dcbe953dce6f07e6e4f6311f|+|10m1|sour=.7||kgm/TSRh/TSRh - Desktoplet 1.0 kg.xm|xm|skogens djur 005
 43446aa924bac9e84b1647021aa4de1b| |____|||kgm/TSRh/TSRh - DOS2USB 1.59.84 kg.mid|mid|
 a789c4bd9e806abc083f8997c479a849|+|m011|id:ma=134678||kgm/TSRh/TSRh - Drive Cloner Rx 5.1 kg.xm|xm|Are U Feeling It?
-5d9df81fb754e1a2ba6bf60321cb26b1|+|2122|cosm,gem,id:ma=53235||kgm/TSRh/TSRh - DropWaterMark 3.7.0 kg.xm|xm|.a dASH fOR fREEDOM.
+5d9df81fb754e1a2ba6bf60321cb26b1|+|2122|cosm,gem,id:ma=53235,t:end=230||kgm/TSRh/TSRh - DropWaterMark 3.7.0 kg.xm|xm|.a dASH fOR fREEDOM.
 a49e882f9ef6bda5e282eb98567c4b8b|+|10m2|id:ma=157368,t:end=180||kgm/TSRh/TSRh - DU Meter 5.04 crk.xm|xm|My First Console
 1264533bd73b430f15ae2fb61f27e9fb|+|m031|clarity=.5,id:ma=67298||kgm/TSRh/TSRh - EditPlus 2.21 kg.xm|xm|water chute
 666db290c1851ef0e5f6fa58c2082157|+|0001|id:ma=171037||kgm/TSRh/TSRh - EmicSoft Products kg.xm|xm|Crometastic
@@ -7153,7 +7159,7 @@ a02e43f5b8f3c2065bd6aed85862a21d|+|n021|hut||kgm/Under SEH/Under SEH - IceOnAir 
 aedf77a992393df82246e4cfda4f8a11|+|x0__|id:ma=166391||kgm/Under SEH/Under SEH - Internet Download Manager 5.16 crk.mod|mod|industrial hell
 b9f4bba384b195f84debb86317c715e2|+|m011|||kgm/Under SEH/Under SEH - Internet Download Manager 6.07b15 crk.mod|mod|evil within
 349f59588f18714ef4383bbe966e96d6|+|u020|d:v||kgm/Under SEH/Under SEH - Internet Download Manager 6.0Beta crk.xm|xm|
-856449a3dca34089b706ef76fadf61db|+|m031|dualtrax,id:ma=41388||kgm/Under SEH/Under SEH - Internet Download Manager 6.xx kg.xm|xm|orion keygens#6
+856449a3dca34089b706ef76fadf61db|+|m031|cosm=.6,dualtrax,id:ma=41388||kgm/Under SEH/Under SEH - Internet Download Manager 6.xx kg.xm|xm|orion keygens#6
 fea58960449737df269e87368970a7f7|+|n12w|||kgm/Under SEH/Under SEH - IObit Protected Folder 1.1 crk.mod|mod|the deep. part one
 082cc694a0e69d89036045b42a66df3b|+|0011|||kgm/Under SEH/Under SEH - Iobit Security 360 1.01 kg.xm|xm|Sil_Secrets
 3990b517e07162b9721b48fddf210f93|+|x0__|d:v,remix||kgm/Under SEH/Under SEH - iRedSoft.Batch.It.Ultra.3.9895 crk.xm|xm|
@@ -7162,7 +7168,7 @@ c9331a0846a7820e551239c3718eccc4|+|n030|id:ma=36821,remix||kgm/Under SEH/Under S
 879490ad75c40b583527e6bf141eeba3|+|1001|||kgm/Under SEH/Under SEH - KLS Backup 2008 4.7.0.0 crk.xm|xm|intro number 84
 b3aded5ba0ebfab050b648cfc28c107a|+|n010|||kgm/Under SEH/Under SEH - KLS Backup 2008 4.7.0.9 Standard crk.mod|mod|disco1
 9b739ba12ef5e7d88e69ecca2aa0739e| |____|||kgm/Under SEH/Under SEH - KLS Backup 2008 4.7.1.0 kg.v2m|v2m|
-00beae90dd381f50b7812f6d1f851db9|+|u000|||kgm/Under SEH/Under SEH - KLS Backup 2009 Professional 5.2.0.2 kg.xm|xm|beld och polisen
+00beae90dd381f50b7812f6d1f851db9|+|0000|||kgm/Under SEH/Under SEH - KLS Backup 2009 Professional 5.2.0.2 kg.xm|xm|beld och polisen
 cdd8ab2b7b3e3c5f3e8ded60a11e9d5e|+|d000|||kgm/Under SEH/Under SEH - Magic DVD Ripper 5.4.1 Final kg.xm|xm|power age
 a1d6874ef341af9b1c2c232c1752b8cc|+|1022|clarity=.5,ekm,gem,id:ma=164744||kgm/Under SEH/Under SEH - MediaMonkey 3.2.1.1297 kg.xm|xm|caroline in neon
 b59baa231fe7f4d4bf53d10f79ce13de|+|2011|id:ma=136854||kgm/Under SEH/Under SEH - mIRC 7.07beta kg.xm|xm|Chip106
