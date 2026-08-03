@@ -62,7 +62,7 @@ d7942b5bb5b937bbdf73ac6accbb6665|+|n010|id:ma=117933,radix,t:end=128||modarchive
 3389b5a4f6a33bc96b59b7b361763b0c|+|n010|id:ma=116587,radix||modarchive/radix/bionic.mod|mod|--== bionic ==--
 0ecd79034bbad4112ff1111d05d0e9f3|+|000s|id:ma=116933,radix||modarchive/radix/brainless_2.mod|mod|brainless2
 85e1e4d7be569fac9a564e9b24eb9723|+|::::|dup,id:ma=114778,radix||modarchive/radix/brainless_3.mod|mod|--==brainless 3==--
-bc3be8e0335b5be0f7fbf5f19e8bf386|+|u010|technoise,id:ma=114490,radix||modarchive/radix/breakbeat_17.mod|mod|breakbeat.17
+bc3be8e0335b5be0f7fbf5f19e8bf386|+|u010|id:ma=114490,radix,technoise||modarchive/radix/breakbeat_17.mod|mod|breakbeat.17
 7adeb6ffd7feb982fb47582ee6602c2f|+|u03u|id:ma=117915,radix||modarchive/radix/captured_dreams_2.mod|mod|Captured Dreams.2
 18a1a84aae727e804c639c4a3c9f488c|+|n020|id:ma=148454,radix||modarchive/radix/cascade.xm|xm|cascade
 48b86282b380ea6fb231331875602a83|+|u02u|id:ma=119518,radix||modarchive/radix/check_yer_feet.mod|mod|check yer feet
@@ -815,7 +815,7 @@ d5b28d513509c5fb1439bad0bdaca8be|+|2022|bzl,c512wfav,id:ma=162822,vrl||modarchiv
 b9492acd77dd91eab92cc62952ebb7f1|+|m021|c512wfav,id:ma=211719||modarchive/mario_64_-_dire_dire_docks.xm|xm|Dire Dire Docks
 965d77700e5de6a59795bb5c8ebe380e|+|1010|c512wfav,id:ma=211690,kane||modarchive/kane/kane_-_lcs.xm|xm|Lame Chiptune Song
 aa141b359450836be9c51daa9f4bf85e|+|2020|c512wfav,id:ma=207214||modarchive/paper_-_bad_reputation.it|it|bad reputation
-e69b05d67a892f4d96177a26c112f7e3|+|1022|cosm=.4,c512wfav,id:ma=198841||modarchive/bossabeat_cover.s3m|s3m|Bossabeat
+e69b05d67a892f4d96177a26c112f7e3|+|1022|c512wfav,cosm=.4,id:ma=198841||modarchive/bossabeat_cover.s3m|s3m|Bossabeat
 2d23d33da2a0d9d6a4f495665aaa45ac|+|1031|c512wfav,id:ma=124951||modarchive/black_angle.mod|mod|black angle
 2433cf678c7db99b92f32d661267f6af|+|20m2|agg=.9,c512wfav,id:ma=59214,maktone||modarchive/maktone/stamina.mod|mod|stamina
 ed8577098332edabe6e9c5bb8d3f83a7|+|u02u|c512wfav,id:ma=212082,t:end=104||modarchive/2nd_skav.s3m|s3m|UnreaL ][ - The 2ND Reality
@@ -1263,7 +1263,7 @@ a85219c25a637a1e9311029aed1df7c0|+|1011|id:ma=207839,viraxor||modarchive/viraxor
 dd297ad27452cb4a9086417e71ce5446|+|1021|id:ma=200448,viraxor||modarchive/viraxor/viraxor_-_32k_love.it|it|32k love
 3e519c3abdf792d840f75c226f3ea97c|+|21m2|id:ma=164852||modarchive/joe_-_judgement_day.mod|mod|judgement day
 020172bae6f3a6dcdc32fa256c3f7661|+|n000|c512w,id:ma=214535||modarchive/c512w/c512w_-_ymbf.it|it|c512w the musician
-16922942862c7af58d1ff8380c03e523|+|101u|c512w,remake,id:ma=214462||modarchive/c512w/c512w_-_shbuma.s3m|s3m|Short but Masterpiece
+16922942862c7af58d1ff8380c03e523|+|101u|c512w,id:ma=214462,remake||modarchive/c512w/c512w_-_shbuma.s3m|s3m|Short but Masterpiece
 4058760d11e11b14f3f5bda4b1198ad1|+|1011|c512w,id:ma=214438,t:end=52||modarchive/c512w/c512w_-_eccehomo.it|it|eccehomo
 87be5424edf73916d3c2a41e0cdde9f8|+|10m1|agg=.5,c512w,id:ma=214437,t:end=174||modarchive/c512w/c512w_vs_master_nama.xm|xm|c512w vs Master Nama
 2e2abfce60685fce8d292f0514a231cd|+|1011|c512w,id:ma=214417||modarchive/c512w/c512w_-_adfi.it|it|Addiction field
