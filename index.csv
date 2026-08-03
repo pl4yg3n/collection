@@ -382,7 +382,7 @@ ae57b6eac59aba1e26baf2ccc4e4dcec|+|3112|dualtrax,forest,id:ma=41420,juic=.7,summ
 09391b2e7b352c8d177e52ec0c51b0ca|+|10m1|dualtrax,id:ma=41426||modarchive/dualtrax/dt_tz.xm|xm|16k TeleZentrum
 2fbe856fecd4234a8aa5fe5d0c80ef23|+|u031|cosm=.5,d:v,dualtrax,id:ma=41432||modarchive/dualtrax/dt_wake.xm|xm|wake up!
 892de02cc636fd2ce678eaa50c57cd8b|+|101u|dualtrax,hack,id:ma=41434||modarchive/dualtrax/dt_what.xm|xm|what the hell ... ?
-e08cd7cc4bd28d73407603cffb5459bd|+|1031|dualtrax,id:ma=41438||modarchive/dualtrax/dt_wrd-v.xm|xm|wired visions!
+e08cd7cc4bd28d73407603cffb5459bd|+|1021|dualtrax,id:ma=41438||modarchive/dualtrax/dt_wrd-v.xm|xm|wired visions!
 51162642f3b46710e786bac2fe12ece5|+|n002|dualtrax,id:ma=41441,xmas||modarchive/dualtrax/dt_xma01.xm|xm|xmas2001
 2297bffd4f68eb312e81ed39990abf27|+|1010|dualtrax,id:ma=41459,t:end=138||modarchive/dualtrax/dtbzl_wh.xm|xm|without her soul
 4eee885f81dfbd58f25a1fec8b94c384|+|21m2|bzl,dualtrax,id:ma=182907,vrl|extra|modarchive/dualtrax/dualtrax_-_pfandfrei_bzlpf.xm|xm|PFANDFREI
@@ -967,7 +967,7 @@ e33c095742e95a04e55069d879fe0e8d|+|n00u|c512wfav,id:ma=211242,technoise=2||modar
 aa32c83764578117e109290eaf295da8|+|1000|c512wfav,id:ma=211234||modarchive/larrylnd.xm|xm|larryland
 76232e1fc5910aa319c744b727704d3e|+|n010|c512wfav,cosm=.4,id:ma=211495||modarchive/spaceson.mod|mod|space-song
 423951c6677138f47bcfbebec1c1e926|+|2120|c512wfav,id:ma=55789||modarchive/scrambld.mod|mod|scrambled mind
-e784a3056bf2477f0623a733e72d981e|+|n030|c512wfav,id:ma=68847||modarchive/foregone.it|it|Foregone Destruction
+e784a3056bf2477f0623a733e72d981e|+|n030|c512wfav,id:ma=68847,nchan=3||modarchive/foregone.it|it|Foregone Destruction
 1f82bd8ba8017376d2faac0f15e46e2d|+|m020|c512wfav,id:ma=924,t:end=200||modarchive/mechasha.it|it|Mecha Shan - Flesh And St
 8353313281ac2ec3436f979588be5b5a|+|n010|c512wfav,d:v,id:ma=175253||modarchive/hoffman_-_pattern_skank.mod|mod|pattern skank
 71d187ff2ceb735e7be6e8a3a51b0cf9|+|2021|c512wfav,id:ma=161776,remake|what-is-love|modarchive/cja-hwil.xm|xm|what is love?
@@ -3832,7 +3832,7 @@ d519cff2d53120554c3dd81d4ddb62fa|+|m011|id:ma=138766||kgm/F4CG/F4CG - VSO Conver
 e143094c2e9f8b55dd4aa4c9c1fb1005|+|2102||quest|kgm/F4CG/F4CG - WinRAR 3.60 Final crk.xm|xm|.flimbo's quest.
 cf5e463a655cd32c605e720271dd2c08|+|n020|id:ma=168133||kgm/F4CG/F4CG - WinRAR 3.62 crk.xm|xm|HARLEY by DRAX
 b56a7bfee8c50d238dfbd0088a9c085d|+|d010|id:ma=66794||kgm/F4CG/F4CG - WinRAR 3.70 beta2 crk.xm|xm|Commando -- Rob H!
-d324266bce639d4d5902158c0ae6ebfc|+|3122|cosm=.4,id:ma=158761,run,slq|escape-run|kgm/F4CG/F4CG - WinRK Archiver 2.16 crk.xm|xm|Star Paws
+d324266bce639d4d5902158c0ae6ebfc|+|3122|id:ma=158761,run,slq|escape-run|kgm/F4CG/F4CG - WinRK Archiver 2.16 crk.xm|xm|Star Paws
 2e89d71ce6cc4e8f63f09ad6079d56c5|+|n011|id:ma=145438||kgm/F4CG/F4CG - YTD Video Downloader 5.74 crk.xm|xm|Bathroom Funk
 dc59c6418e99ed5c17008ba1d719236a|+|1011|flight=.8,id:ma=185571||kgm/FAiRLiGHT/FAiRLiGHT - Agon Lost Sword of Toledo intro.xm|xm|fairlight in action
 a7e2bdf2b9a0436df9897b2ffbc1e2f2|+|n021|||kgm/FAiRLiGHT/FAiRLIGHT - Alone In The Dar intro.mod|mod|sØØØØØØØØØØØØØØØØØØØØØ-66:cleanbass
@@ -4958,7 +4958,7 @@ ad4ae87424c460d35979828b96a8095c|+|0000|||kgm/kZ/kZ - My Notes Keeper 1.9.9.1205
 b774b85d0a49903650d24e31189442a0|+|n040|||kgm/kZ/kZ - Ox5 2.00 crk.xm|xm|
 7a3d2ece4dc9b019d5a5c9c7de782fcc|+|n120|||kgm/kZ/kZ - Password Door 8.4.x.x crk.it|it|Dj SM - Anamorph
 370514ce5a26cf2f8c264d0e15c7f0c9|+|u000|||kgm/kZ/kZ - PDF2CHM 3.1 crk.it|it|Cosmic Song
-26b7eaf286ba1ca1194e8dde9047cc9e|+|m031|grove||kgm/kZ/kZ - PowerCHM 6.3 crk.s3m|s3m|IGuana - Stereo waves
+26b7eaf286ba1ca1194e8dde9047cc9e|+|2032|grove||kgm/kZ/kZ - PowerCHM 6.3 crk.s3m|s3m|IGuana - Stereo waves
 eb44f8aaeb583b570f302b1e2281942f|+|m041|id:ma=60140||kgm/kZ/kZ - PowerCHM 6.5 crk.xm|xm|morninfizik
 a261561a50557b2e5b0d07554e39d07f|+|u0__|||kgm/kZ/kZ - PowerCHM 6.6 crk.mod|mod|fever
 754faa0adba20f7a840dab2989726a7b|+|u0__|d:v,id:ma=153467||kgm/kZ/kZ - PowerCHM 6.7 crk.xm|xm|- Angry#Youth
@@ -6081,7 +6081,7 @@ d452990cbb9ec264ea23fdc0e4466e81|+|2102|c512wfav,ghidorah,id:ma=133766||kgm/SnD/
 b28edfbfea13631e5dc697d912aa4a83|+|3033|flut|chiptastic|kgm/SnD/SnD - Internet Download Manager 6.xx kg.xm|xm|Chiptastic Tendency
 4532079b5c2089f966de6900d9f71567|+|0001|id:ma=149115||kgm/SnD/SnD - Invisible Browsing 6.0 crk.xm|xm|redmobiiiiiiiile!
 071d0c5e2fe0f9467e08f96dc6f7e7cc|+|n020|||kgm/SnD/SnD - KeyLemon 2.0 crk.xm|xm|dytec intro 5005
-4f003353eaff2471edcffd7b6e722632|+|2031|hack,sorrow,t:end=190|not-dead-yet|kgm/SnD/SnD - Keylogger Detector 1.33 kg.xm|xm|chip chopofa zajafka
+4f003353eaff2471edcffd7b6e722632|+|203s|hack,sorrow,t:end=190|not-dead-yet|kgm/SnD/SnD - Keylogger Detector 1.33 kg.xm|xm|chip chopofa zajafka
 570cd7331d00af94be48aaa07ea52f67|+|10m1|id:ma=54134,paledeth,sour=.5||kgm/SnD/SnD - Kingdia DVD Ripper 2.1 kg.xm|xm|
 64834a7cd310f8b16638bf019b414beb|+|u000|||kgm/SnD/SnD - Kingdia DVD Ripper 2.5.7 kg.xm|xm|c64-memories
 a2a6df87da92fefc48c343fdb84d2faf|+|n010|id:ma=40550,rock||kgm/SnD/SnD - KLS Backup 2008 PRO 4.7.1.0 kg.xm|xm|Green Turns To Red
@@ -6181,7 +6181,7 @@ d8deb8782b6187eeb3e91dda7da53319|+|1021|aggrld,d:lvol,lhs,rld||kgm/SST/SST - Int
 4e55e56852025a5ef12250205c963814|+|::::|dup||kgm/SST/SST - iPod Cloner 1.90b851 crk.mod|mod|sleepless nights!
 19692dadb76ecdcc1ee380eeae65ce58|+|0001|||kgm/SST/SST - Longtion Application Builder 5.7.0.620 Home Edition crk.mod|mod|ship muz
 6e42a815112cf61955dd5895aabd7bbf|+|m022|||kgm/SST/SST - Longtion GIF Animator 5.0.0.32 crk.it|it|Ramia
-625abec6e417e4a5f584f84786687823|+|m032|cosm,id:ma=168668||kgm/SST/SST - OGG MP3 Converter 3.4 crk.it|it|Trance N
+625abec6e417e4a5f584f84786687823|+|m032|cosm,id:ma=168668,nchan=3||kgm/SST/SST - OGG MP3 Converter 3.4 crk.it|it|Trance N
 008791d757e63dae3d90226c68d792d4|+|n011|id:ma=50923||kgm/SST/SST - OGG MP3 Converter 4.2 crk.xm|xm|Nintendo rebirth
 3127872ef9445065693241831432d04a|+|1011|id:ma=151159||kgm/SST/SST - SkinCrafter Installer 3.0.2 crk.xm|xm|prismatic love
 2ee3f3fb1595611b033ebbd907b20785|+|10m1|id:ma=89743||kgm/SST/SST - Sonne DVD Burner 4.3.0.2162 crk.mod|mod|trainer5
